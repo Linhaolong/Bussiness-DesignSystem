@@ -249,5 +249,97 @@
       }
     }
   },
+  "哈皮设DesignSystem": {
+    "Brand": {
+      "brand-light": {
+        "value": "#e9f0ff",
+        "type": "color"
+      },
+      "brand-active": {
+        "value": "#1a48b5",
+        "type": "color"
+      },
+      "brand-hover": {
+        "value": "#6c98ff",
+        "type": "color"
+      },
+      "brand": {
+        "value": "#2465ff",
+        "type": "color"
+      },
+      "s1": {
+        "s1-light": {
+          "value": "#f3eaff",
+          "type": "color"
+        },
+        "s1-active": {
+          "value": "#6321b5",
+          "type": "color"
+        },
+        "s1-hover": {
+          "value": "#b173ff",
+          "type": "color"
+        },
+        "s1": {
+          "value": "#8b2eff",
+          "type": "color"
+        }
+      },
+      "s2": {
+        "s2-light": {
+          "value": "#e7fdf6",
+          "type": "color"
+        },
+        "s2-active": {
+          "value": "#0ba376",
+          "type": "color"
+        },
+        "s2-hover": {
+          "value": "#5eeec3",
+          "type": "color"
+        },
+        "s2": {
+          "value": "#0fe6a6",
+          "type": "color"
+        }
+      },
+      "s3": {
+        "s3-light": {
+          "value": "#ffe8e9",
+          "type": "color"
+        },
+        "s3-active": {
+          "value": "#b5121a",
+          "type": "color"
+        },
+        "s3-hover": {
+          "value": "#ff666d",
+          "type": "color"
+        },
+        "s3": {
+          "value": "#ff1a25",
+          "type": "color"
+        }
+      },
+      "s4": {
+        "s4-light": {
+          "value": "#ffe6fa",
+          "type": "color"
+        },
+        "s4-active": {
+          "value": "#b2008e",
+          "type": "color"
+        },
+        "s4-hover": {
+          "value": "#fc54da",
+          "type": "color"
+        },
+        "s4": {
+          "value": "#fa00c8",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": []
 }
