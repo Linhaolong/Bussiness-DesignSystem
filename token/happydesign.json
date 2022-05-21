@@ -41,6 +41,87 @@
         "value": "#fafafa",
         "type": "color"
       }
+    },
+    "cn-en": {
+      "value": "Hiragino Sans GB",
+      "type": "fontFamilies"
+    },
+    "num": {
+      "value": "TCloud Number",
+      "type": "fontFamilies"
+    },
+    "Regular": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "Bold": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "Base": {
+      "value": "8",
+      "type": "lineHeights"
+    },
+    "PC": {
+      "text-banner-big": {
+        "value": "56",
+        "type": "fontSizes"
+      },
+      "text-banner-medium": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "text-banner-sm": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "text-title": {
+        "value": "24",
+        "type": "fontSizes",
+        "description": "大标题"
+      },
+      "text-title-sub": {
+        "value": "18",
+        "type": "fontSizes",
+        "description": "小标题"
+      },
+      "text-body": {
+        "value": "14",
+        "type": "fontSizes",
+        "description": "长文字大小"
+      },
+      "text-body-sm": {
+        "value": "13",
+        "type": "fontSizes",
+        "description": "短文字大小"
+      },
+      "text-des": {
+        "value": "12",
+        "type": "fontSizes",
+        "description": "辅助文字"
+      }
+    },
+    "APP": {
+      "text-title": {
+        "value": "32",
+        "type": "fontSizes",
+        "description": "单行标题、组件内只有一行文字"
+      },
+      "text-body": {
+        "value": "28",
+        "type": "fontSizes",
+        "description": "正文、多文段标题"
+      },
+      "text-sub": {
+        "value": "24",
+        "type": "fontSizes",
+        "description": "金刚区、描述"
+      },
+      "text-icon": {
+        "value": "20",
+        "type": "fontSizes",
+        "description": "底部导航栏、标签、微标"
+      }
     }
   },
   "24_HUE": {
