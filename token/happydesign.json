@@ -63,61 +63,74 @@
       "type": "lineHeights"
     },
     "PC": {
-      "text-banner-big": {
+      "size-banner-big": {
         "value": "56",
         "type": "fontSizes"
       },
-      "text-banner-medium": {
+      "size-banner-medium": {
         "value": "48",
         "type": "fontSizes"
       },
-      "text-banner-sm": {
+      "size-banner-sm": {
         "value": "36",
         "type": "fontSizes"
       },
-      "text-title": {
+      "size-title": {
         "value": "24",
         "type": "fontSizes",
         "description": "大标题"
       },
-      "text-title-sub": {
+      "size-title-sub": {
         "value": "18",
         "type": "fontSizes",
         "description": "小标题"
       },
-      "text-body": {
+      "size-body": {
         "value": "14",
         "type": "fontSizes",
         "description": "长文字大小"
       },
-      "text-body-sm": {
+      "size-body-sm": {
         "value": "13",
         "type": "fontSizes",
         "description": "短文字大小"
       },
-      "text-des": {
+      "size-des": {
         "value": "12",
         "type": "fontSizes",
         "description": "辅助文字"
+      },
+      "text-banner-big": {
+        "value": {
+          "fontFamily": "$Font family.cn-en",
+          "fontWeight": "Regular",
+          "lineHeight": "AUTO",
+          "fontSize": "18",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography"
       }
     },
     "APP": {
-      "text-title": {
+      "size-title": {
         "value": "32",
         "type": "fontSizes",
         "description": "单行标题、组件内只有一行文字"
       },
-      "text-body": {
+      "size-body": {
         "value": "28",
         "type": "fontSizes",
         "description": "正文、多文段标题"
       },
-      "text-sub": {
+      "size-sub": {
         "value": "24",
         "type": "fontSizes",
         "description": "金刚区、描述"
       },
-      "text-icon": {
+      "size-icon": {
         "value": "20",
         "type": "fontSizes",
         "description": "底部导航栏、标签、微标"
