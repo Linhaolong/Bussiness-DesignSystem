@@ -52,7 +52,7 @@
         "type": "fontFamilies"
       }
     },
-    "fontweight": {
+    "fontweights": {
       "Regular": {
         "value": "400",
         "type": "fontWeights"
@@ -62,13 +62,13 @@
         "type": "fontWeights"
       }
     },
-    "lineHeight": {
+    "lineHeights": {
       "base": {
         "value": "8",
         "type": "lineHeights"
       }
     },
-    "PC-fontSize": {
+    "PC-fontSizes": {
       "banner-big": {
         "value": "56",
         "type": "fontSizes"
@@ -107,22 +107,24 @@
         "description": "辅助文字"
       }
     },
-    "PC": {
-      "text-banner-big": {
-        "value": {
-          "fontFamily": "$fontFamilies.cn-en",
-          "fontWeight": "$fontweight.Regular",
-          "lineHeight": "$PC-fontSize.banner-big + $lineHeight.base",
-          "fontSize": "$PC-fontSize.banner-big",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "none"
-        },
-        "type": "typography"
+    "typography": {
+      "PC": {
+        "text-banner-big": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.Regular",
+            "lineHeight": "$PC-fontSizes.banner-big + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.banner-big",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
       }
     },
-    "APP-fontSize": {
+    "APP-fontSizes": {
       "title": {
         "value": "32",
         "type": "fontSizes",
