@@ -221,6 +221,60 @@
           },
           "type": "typography"
         }
+      },
+      "APP": {
+        "text-title": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$APP-fontSizes.title + $lineHeights.base",
+            "fontSize": "$APP-fontSizes.title",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "text-body": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$APP-fontSizes.body + $lineHeights.base",
+            "fontSize": "$APP-fontSizes.body",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "text-sub": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$APP-fontSizes.sub + $lineHeights.base",
+            "fontSize": "$APP-fontSizes.sub",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "text-icon": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$APP-fontSizes.icon + $lineHeights.base",
+            "fontSize": "$APP-fontSizes.icon",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        }
       }
     },
     "APP-fontSizes": {
