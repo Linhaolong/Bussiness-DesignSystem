@@ -298,6 +298,142 @@
         "type": "fontSizes",
         "description": "底部导航栏、标签、微标"
       }
+    },
+    "spac-1": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "spac-2": {
+      "value": "$spac-1 * 2",
+      "type": "spacing"
+    },
+    "spac-3": {
+      "value": "$spac-1 * 4",
+      "type": "spacing"
+    },
+    "spac-4": {
+      "value": "$spac-1 * 6",
+      "type": "spacing"
+    },
+    "spac-5": {
+      "value": "$spac-1 * 8",
+      "type": "spacing"
+    },
+    "bor-r1": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "bor-r2": {
+      "value": "$bor-r1 * 2",
+      "type": "borderRadius"
+    },
+    "bor-r3": {
+      "value": "$bor-r1 * 4",
+      "type": "borderRadius"
+    },
+    "bor-r4": {
+      "value": "$bor-r1 * 6",
+      "type": "borderRadius"
+    },
+    "PC": {
+      "Icon": {
+        "xsmall-16": {
+          "value": "16",
+          "type": "sizing"
+        },
+        "small-20": {
+          "value": "20",
+          "type": "sizing"
+        },
+        "medium-24": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "large-32": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "xlarge-48": {
+          "value": "48",
+          "type": "sizing"
+        }
+      },
+      "Button": {
+        "small-24": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "medium-32": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "large-40": {
+          "value": "40",
+          "type": "sizing"
+        },
+        "xlarge-48": {
+          "value": "48",
+          "type": "sizing"
+        }
+      },
+      "Input": {
+        "medium-32": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "large-40": {
+          "value": "40",
+          "type": "sizing"
+        }
+      }
+    },
+    "APP": {
+      "Icon": {
+        "small-32": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "medium-44": {
+          "value": "44",
+          "type": "sizing"
+        },
+        "xmedium-48": {
+          "value": "48",
+          "type": "sizing"
+        },
+        "large-56": {
+          "value": "56",
+          "type": "sizing"
+        },
+        "xlarge-72": {
+          "value": "72",
+          "type": "sizing"
+        }
+      },
+      "Button": {
+        "small-56": {
+          "value": "56",
+          "type": "sizing"
+        },
+        "medium-72": {
+          "value": "72",
+          "type": "sizing"
+        },
+        "large-96": {
+          "value": "96",
+          "type": "sizing"
+        }
+      },
+      "Input": {
+        "medium-56": {
+          "value": "56",
+          "type": "sizing"
+        },
+        "large-88": {
+          "value": "88",
+          "type": "sizing"
+        }
+      }
     }
   },
   "24_HUE": {
