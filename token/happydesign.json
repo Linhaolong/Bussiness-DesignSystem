@@ -60,6 +60,14 @@
       "Bold": {
         "value": "600",
         "type": "fontWeights"
+      },
+      "W3": {
+        "value": "W3",
+        "type": "fontWeights"
+      },
+      "W6": {
+        "value": "W6",
+        "type": "fontWeights"
       }
     },
     "lineHeights": {
@@ -112,9 +120,48 @@
         "text-banner-big": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Regular",
+            "fontWeight": "$fontweights.W3",
             "lineHeight": "$PC-fontSizes.banner-big + $lineHeights.base",
             "fontSize": "$PC-fontSizes.banner-big",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "text-banner-medium": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.banner-medium + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.banner-medium",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "text-banner-sm": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.banner-sm + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.banner-sm",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
+        "text-title": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.title + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.title",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
