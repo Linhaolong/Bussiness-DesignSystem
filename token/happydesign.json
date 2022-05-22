@@ -1,47 +1,5 @@
 {
-  "global": {
-    "Neutral": {
-      "text-primary一级信息-标题": {
-        "value": "#1f1f1f",
-        "type": "color"
-      },
-      "text-secondary次级信息、正文内容": {
-        "value": "#434343",
-        "type": "color"
-      },
-      "text-sub辅助性、描述": {
-        "value": "#8c8c8c",
-        "type": "color"
-      },
-      "text-disabled不可操作": {
-        "value": "#bfbfbf",
-        "type": "color"
-      },
-      "border-strong-分割线深": {
-        "value": "#d9d9d9",
-        "type": "color"
-      },
-      "border-weak-分割线浅": {
-        "value": "#f0f0f0",
-        "type": "color"
-      },
-      "icon-primary-主图标": {
-        "value": "#4e4b46",
-        "type": "color"
-      },
-      "icon-disabled": {
-        "value": "#bfbfbf",
-        "type": "color"
-      },
-      "bg-dividers-块背景": {
-        "value": "#f5f5f5",
-        "type": "color"
-      },
-      "bg-page-大面积背景": {
-        "value": "#fafafa",
-        "type": "color"
-      }
-    },
+  "atomValue": {
     "fontFamilies": {
       "cn-en": {
         "value": "Hiragino Sans GB",
@@ -113,6 +71,72 @@
         "value": "12",
         "type": "fontSizes",
         "description": "辅助文字"
+      }
+    },
+    "APP-fontSizes": {
+      "title": {
+        "value": "32",
+        "type": "fontSizes",
+        "description": "单行标题、组件内只有一行文字"
+      },
+      "body": {
+        "value": "28",
+        "type": "fontSizes",
+        "description": "正文、多文段标题"
+      },
+      "sub": {
+        "value": "24",
+        "type": "fontSizes",
+        "description": "金刚区、描述"
+      },
+      "icon": {
+        "value": "20",
+        "type": "fontSizes",
+        "description": "底部导航栏、标签、微标"
+      }
+    }
+  },
+  "global": {
+    "Neutral": {
+      "text-primary一级信息-标题": {
+        "value": "#1f1f1f",
+        "type": "color"
+      },
+      "text-secondary次级信息、正文内容": {
+        "value": "#434343",
+        "type": "color"
+      },
+      "text-sub辅助性、描述": {
+        "value": "#8c8c8c",
+        "type": "color"
+      },
+      "text-disabled不可操作": {
+        "value": "#bfbfbf",
+        "type": "color"
+      },
+      "border-strong-分割线深": {
+        "value": "#d9d9d9",
+        "type": "color"
+      },
+      "border-weak-分割线浅": {
+        "value": "#f0f0f0",
+        "type": "color"
+      },
+      "icon-primary-主图标": {
+        "value": "#4e4b46",
+        "type": "color"
+      },
+      "icon-disabled": {
+        "value": "#bfbfbf",
+        "type": "color"
+      },
+      "bg-dividers-块背景": {
+        "value": "#f5f5f5",
+        "type": "color"
+      },
+      "bg-page-大面积背景": {
+        "value": "#fafafa",
+        "type": "color"
       }
     },
     "typography": {
@@ -275,28 +299,6 @@
           },
           "type": "typography"
         }
-      }
-    },
-    "APP-fontSizes": {
-      "title": {
-        "value": "32",
-        "type": "fontSizes",
-        "description": "单行标题、组件内只有一行文字"
-      },
-      "body": {
-        "value": "28",
-        "type": "fontSizes",
-        "description": "正文、多文段标题"
-      },
-      "sub": {
-        "value": "24",
-        "type": "fontSizes",
-        "description": "金刚区、描述"
-      },
-      "icon": {
-        "value": "20",
-        "type": "fontSizes",
-        "description": "底部导航栏、标签、微标"
       }
     },
     "spac-1": {
