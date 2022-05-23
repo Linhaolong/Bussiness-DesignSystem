@@ -258,7 +258,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "单行标题、组件内只有一行文字"
         },
         "text-body": {
           "value": {
@@ -271,7 +272,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "正文、多文段标题"
         },
         "text-sub": {
           "value": {
@@ -284,7 +286,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "金刚区、描述"
         },
         "text-icon": {
           "value": {
@@ -297,7 +300,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "底部导航栏、标签、微标"
         }
       }
     },
