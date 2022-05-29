@@ -18,7 +18,8 @@
       },
       "Bold": {
         "value": "600",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "description": "Bold 600"
       },
       "W3": {
         "value": "W3",
