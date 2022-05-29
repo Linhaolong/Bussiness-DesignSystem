@@ -163,7 +163,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "banner-大"
         },
         "text-banner-medium": {
           "value": {
@@ -176,7 +177,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "banner-中"
         },
         "text-banner-sm": {
           "value": {
@@ -189,7 +191,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "banner-小"
         },
         "text-title": {
           "value": {
@@ -202,7 +205,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "大区域标题"
         },
         "text-title-sub": {
           "value": {
@@ -215,7 +219,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "小区域标题"
         },
         "text-body": {
           "value": {
@@ -228,7 +233,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "内容-大"
         },
         "text-body-sm": {
           "value": {
@@ -241,7 +247,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "内容-小"
         },
         "text-des": {
           "value": {
@@ -254,7 +261,8 @@
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "描述"
         }
       },
       "APP": {
