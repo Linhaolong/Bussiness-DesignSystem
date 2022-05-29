@@ -98,45 +98,54 @@
   },
   "global": {
     "Neutral": {
-      "text-primary一级信息-标题": {
+      "text-primary": {
         "value": "#1f1f1f",
-        "type": "color"
+        "type": "color",
+        "description": "一级信息-标题"
       },
-      "text-secondary次级信息、正文内容": {
+      "text-secondary": {
         "value": "#434343",
-        "type": "color"
+        "type": "color",
+        "description": "次级信息、正文内容"
       },
-      "text-sub辅助性、描述": {
+      "text-sub": {
         "value": "#8c8c8c",
-        "type": "color"
+        "type": "color",
+        "description": "辅助性、描述"
       },
-      "text-disabled不可操作": {
+      "text-disabled": {
         "value": "#bfbfbf",
-        "type": "color"
+        "type": "color",
+        "description": "不可操作"
       },
-      "border-strong-分割线深": {
+      "border-strong": {
         "value": "#d9d9d9",
-        "type": "color"
+        "type": "color",
+        "description": "分割线深"
       },
-      "border-weak-分割线浅": {
+      "border-weak": {
         "value": "#f0f0f0",
-        "type": "color"
+        "type": "color",
+        "description": "分割线浅"
       },
-      "icon-primary-主图标": {
+      "icon-primary": {
         "value": "#4e4b46",
-        "type": "color"
+        "type": "color",
+        "description": "主图标"
       },
       "icon-disabled": {
         "value": "#bfbfbf",
         "type": "color"
       },
-      "bg-dividers-块背景": {
+      "bg-dividers": {
         "value": "#f5f5f5",
-        "type": "color"
+        "type": "color",
+        "description": "块背景"
       },
-      "bg-page-大面积背景": {
+      "bg-page": {
         "value": "#fafafa",
-        "type": "color"
+        "type": "color",
+        "description": "大面积背景"
       }
     },
     "typography": {
