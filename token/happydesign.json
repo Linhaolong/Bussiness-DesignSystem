@@ -13,7 +13,8 @@
     "fontweights": {
       "Regular": {
         "value": "400",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "description": "Regular 400"
       },
       "Bold": {
         "value": "600",
