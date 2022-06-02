@@ -464,7 +464,7 @@
   "24_HUE": {
     "HSL": {
       "H": {
-        "value": "222",
+        "value": "56",
         "type": "color"
       },
       "S": {
@@ -472,7 +472,7 @@
         "type": "color"
       },
       "L": {
-        "value": "57",
+        "value": "50",
         "type": "color"
       },
       "H15": {
@@ -512,7 +512,7 @@
         "type": "color"
       },
       "H150": {
-        "value": "$HSL.H135 - 360 + 15",
+        "value": "$HSL.H135 + 15",
         "type": "color"
       },
       "H165": {
@@ -556,7 +556,7 @@
         "type": "color"
       },
       "H315": {
-        "value": "$HSL.H300  + 15",
+        "value": "$HSL.H300 - 360   + 15",
         "type": "color"
       },
       "H330": {
