@@ -2,7 +2,7 @@
   "atomValue": {
     "fontFamilies": {
       "cn-en": {
-        "value": "Hiragino Sans GB",
+        "value": "PingFang SC",
         "type": "fontFamilies"
       },
       "num": {
@@ -12,12 +12,12 @@
     },
     "fontweights": {
       "Regular": {
-        "value": "400",
+        "value": "Regular",
         "type": "fontWeights",
         "description": "Regular 400"
       },
       "Bold": {
-        "value": "600",
+        "value": "Medium",
         "type": "fontWeights",
         "description": "Bold 600"
       },
@@ -76,25 +76,45 @@
       }
     },
     "APP-fontSizes": {
-      "title": {
-        "value": "32",
-        "type": "fontSizes",
-        "description": "单行标题、组件内只有一行文字"
-      },
-      "body": {
-        "value": "28",
-        "type": "fontSizes",
-        "description": "正文、多文段标题"
-      },
-      "sub": {
-        "value": "24",
-        "type": "fontSizes",
-        "description": "金刚区、描述"
-      },
-      "icon": {
+      "H1": {
         "value": "20",
         "type": "fontSizes",
-        "description": "底部导航栏、标签、微标"
+        "description": "个人主页用户名，登录流程标题"
+      },
+      "H2": {
+        "value": "18",
+        "type": "fontSizes",
+        "description": "页面一级标题，弹窗标题"
+      },
+      "H3": {
+        "value": "16",
+        "type": "fontSizes",
+        "description": "次要标题，文字导航"
+      },
+      "H4": {
+        "value": "14",
+        "type": "fontSizes",
+        "description": "辅助信息标题"
+      },
+      "title": {
+        "value": "16",
+        "type": "fontSizes",
+        "description": "单行列表内容"
+      },
+      "body": {
+        "value": "14",
+        "type": "fontSizes",
+        "description": "文章正文、大篇幅"
+      },
+      "body-sub": {
+        "value": "12",
+        "type": "fontSizes",
+        "description": "辅助信息"
+      },
+      "icon-text": {
+        "value": "10",
+        "type": "fontSizes",
+        "description": "tabbar文字、带图标文字"
       }
     }
   },
@@ -266,61 +286,81 @@
         }
       },
       "APP": {
-        "text-title": {
+        "H1": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
-            "lineHeight": "$APP-fontSizes.title + $lineHeights.base",
-            "fontSize": "$APP-fontSizes.title",
+            "fontWeight": "$fontweights.Bold",
+            "lineHeight": "{APP-fontSizes.H1} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H1}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
           },
           "type": "typography",
-          "description": "单行标题、组件内只有一行文字"
+          "description": "个人主页用户名，登录流程标题"
         },
-        "text-body": {
+        "H2": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
-            "lineHeight": "$APP-fontSizes.body + $lineHeights.base",
-            "fontSize": "$APP-fontSizes.body",
+            "fontWeight": "$fontweights.Bold",
+            "lineHeight": "{APP-fontSizes.H2} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H2}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
           },
           "type": "typography",
-          "description": "正文、多文段标题"
+          "description": "页面一级标题，弹窗标题"
         },
-        "text-sub": {
+        "H3": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
-            "lineHeight": "$APP-fontSizes.sub + $lineHeights.base",
-            "fontSize": "$APP-fontSizes.sub",
+            "fontWeight": "$fontweights.Bold",
+            "lineHeight": "{APP-fontSizes.H3} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H3}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
           },
           "type": "typography",
-          "description": "金刚区、描述"
+          "description": "次要标题，文字导航"
         },
-        "text-icon": {
+        "H4": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
-            "lineHeight": "$APP-fontSizes.icon + $lineHeights.base",
-            "fontSize": "$APP-fontSizes.icon",
+            "fontWeight": "$fontweights.Bold",
+            "lineHeight": "{APP-fontSizes.H4} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H4}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
           },
           "type": "typography",
-          "description": "底部导航栏、标签、微标"
+          "description": "辅助信息标题"
+        },
+        "title": {
+          "value": {
+            "fontFamily": "{fontFamilies.cn-en}",
+            "fontWeight": "{fontweights.Regular}",
+            "lineHeight": "{APP-fontSizes.title} + {lineHeights.base}",
+            "fontSize": "{APP-fontSizes.title}"
+          },
+          "type": "typography",
+          "description": "单行列表内容"
+        },
+        "body": {
+          "value": {
+            "fontFamily": "{fontFamilies.cn-en}",
+            "fontWeight": "{fontweights.Regular}",
+            "fontSize": "{APP-fontSizes.body}",
+            "lineHeight": "{APP-fontSizes.body} + {lineHeights.base}"
+          },
+          "type": "typography",
+          "description": "文章正文、大篇幅内容"
         }
       }
     },
