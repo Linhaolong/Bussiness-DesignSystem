@@ -111,7 +111,7 @@
         "type": "fontSizes",
         "description": "辅助信息"
       },
-      "icon-text": {
+      "icon": {
         "value": "10",
         "type": "fontSizes",
         "description": "tabbar文字、带图标文字"
@@ -381,12 +381,12 @@
           "type": "typography",
           "description": "辅助信息"
         },
-        "text-icon-text": {
+        "text-icon": {
           "value": {
             "fontFamily": "{fontFamilies.cn-en}",
             "fontWeight": "{fontweights.Regular}",
-            "fontSize": "{APP-fontSizes.icon-text}",
-            "lineHeight": "{APP-fontSizes.icon-text} + {lineHeights.base}",
+            "fontSize": "{APP-fontSizes.icon}",
+            "lineHeight": "{APP-fontSizes.icon} + {lineHeights.base}",
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
