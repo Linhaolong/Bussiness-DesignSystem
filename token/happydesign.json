@@ -116,6 +116,12 @@
         "type": "fontSizes",
         "description": "tabbar文字、带图标文字"
       }
+    },
+    "LetterSpacings": {
+      "default": {
+        "value": "0.22px",
+        "type": "letterSpacing"
+      }
     }
   },
   "global": {
@@ -292,7 +298,7 @@
             "fontWeight": "$fontweights.Bold",
             "lineHeight": "{APP-fontSizes.H1} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H1}",
-            "letterSpacing": "0%",
+            "letterSpacing": "{LetterSpacings.default}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -306,7 +312,7 @@
             "fontWeight": "$fontweights.Bold",
             "lineHeight": "{APP-fontSizes.H2} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H2}",
-            "letterSpacing": "0%",
+            "letterSpacing": "{LetterSpacings.default}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -320,7 +326,7 @@
             "fontWeight": "$fontweights.Bold",
             "lineHeight": "{APP-fontSizes.H3} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H3}",
-            "letterSpacing": "0%",
+            "letterSpacing": "{LetterSpacings.default}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -334,7 +340,7 @@
             "fontWeight": "$fontweights.Bold",
             "lineHeight": "{APP-fontSizes.H4} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H4}",
-            "letterSpacing": "0%",
+            "letterSpacing": "{LetterSpacings.default}",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
@@ -347,7 +353,8 @@
             "fontFamily": "{fontFamilies.cn-en}",
             "fontWeight": "{fontweights.Regular}",
             "lineHeight": "{APP-fontSizes.title} + {lineHeights.base}",
-            "fontSize": "{APP-fontSizes.title}"
+            "fontSize": "{APP-fontSizes.title}",
+            "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
           "description": "单行列表内容"
@@ -357,10 +364,33 @@
             "fontFamily": "{fontFamilies.cn-en}",
             "fontWeight": "{fontweights.Regular}",
             "fontSize": "{APP-fontSizes.body}",
-            "lineHeight": "{APP-fontSizes.body} + {lineHeights.base}"
+            "lineHeight": "{APP-fontSizes.body} + {lineHeights.base}",
+            "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
           "description": "文章正文、大篇幅内容"
+        },
+        "body-sub": {
+          "value": {
+            "fontFamily": "{fontFamilies.cn-en}",
+            "fontWeight": "{fontweights.Regular}",
+            "fontSize": "{APP-fontSizes.body-sub}",
+            "lineHeight": "{APP-fontSizes.body-sub} + {lineHeights.base}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "辅助信息"
+        },
+        "icon-text": {
+          "value": {
+            "fontFamily": "{fontFamilies.cn-en}",
+            "fontWeight": "{fontweights.Regular}",
+            "fontSize": "{APP-fontSizes.icon-text}",
+            "lineHeight": "{APP-fontSizes.icon-text} + {lineHeights.base}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "tabbar文字、带图标文字"
         }
       }
     },
