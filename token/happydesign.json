@@ -292,7 +292,7 @@
         }
       },
       "APP": {
-        "H1": {
+        "text-H1": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
             "fontWeight": "$fontweights.Bold",
@@ -306,7 +306,7 @@
           "type": "typography",
           "description": "个人主页用户名，登录流程标题"
         },
-        "H2": {
+        "text-H2": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
             "fontWeight": "$fontweights.Bold",
@@ -320,7 +320,7 @@
           "type": "typography",
           "description": "页面一级标题，弹窗标题"
         },
-        "H3": {
+        "text-H3": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
             "fontWeight": "$fontweights.Bold",
@@ -334,7 +334,7 @@
           "type": "typography",
           "description": "次要标题，文字导航"
         },
-        "H4": {
+        "text-H4": {
           "value": {
             "fontFamily": "$fontFamilies.cn-en",
             "fontWeight": "$fontweights.Bold",
@@ -348,7 +348,7 @@
           "type": "typography",
           "description": "辅助信息标题"
         },
-        "title": {
+        "text-title": {
           "value": {
             "fontFamily": "{fontFamilies.cn-en}",
             "fontWeight": "{fontweights.Regular}",
@@ -359,7 +359,7 @@
           "type": "typography",
           "description": "单行列表内容"
         },
-        "body": {
+        "text-body": {
           "value": {
             "fontFamily": "{fontFamilies.cn-en}",
             "fontWeight": "{fontweights.Regular}",
@@ -370,7 +370,7 @@
           "type": "typography",
           "description": "文章正文、大篇幅内容"
         },
-        "body-sub": {
+        "text-body-sub": {
           "value": {
             "fontFamily": "{fontFamilies.cn-en}",
             "fontWeight": "{fontweights.Regular}",
@@ -381,7 +381,7 @@
           "type": "typography",
           "description": "辅助信息"
         },
-        "icon-text": {
+        "text-icon-text": {
           "value": {
             "fontFamily": "{fontFamilies.cn-en}",
             "fontWeight": "{fontweights.Regular}",
