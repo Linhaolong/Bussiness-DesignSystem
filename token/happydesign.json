@@ -506,16 +506,16 @@
         }
       },
       "Button": {
-        "small-28": {
-          "value": "28",
+        "small-26": {
+          "value": "26",
           "type": "sizing"
         },
-        "medium-36": {
-          "value": "36",
+        "medium-32": {
+          "value": "32",
           "type": "sizing"
         },
-        "large-48": {
-          "value": "48",
+        "large-44": {
+          "value": "44",
           "type": "sizing"
         }
       },
