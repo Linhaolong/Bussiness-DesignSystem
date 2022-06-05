@@ -484,38 +484,38 @@
     },
     "APP": {
       "Icon": {
-        "small-32": {
-          "value": "32",
+        "small-16": {
+          "value": "16",
           "type": "sizing"
         },
-        "medium-44": {
-          "value": "44",
+        "medium-22": {
+          "value": "22",
           "type": "sizing"
         },
-        "xmedium-48": {
-          "value": "48",
+        "xmedium-24": {
+          "value": "24",
           "type": "sizing"
         },
-        "large-56": {
-          "value": "56",
+        "large-28": {
+          "value": "28",
           "type": "sizing"
         },
-        "xlarge-72": {
-          "value": "72",
+        "xlarge-36": {
+          "value": "36",
           "type": "sizing"
         }
       },
       "Button": {
-        "small-56": {
-          "value": "56",
+        "small-28": {
+          "value": "28",
           "type": "sizing"
         },
-        "medium-72": {
-          "value": "72",
+        "medium-36": {
+          "value": "36",
           "type": "sizing"
         },
-        "large-96": {
-          "value": "96",
+        "large-48": {
+          "value": "48",
           "type": "sizing"
         }
       },
