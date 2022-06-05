@@ -520,12 +520,12 @@
         }
       },
       "Input": {
-        "medium-56": {
-          "value": "56",
+        "medium-28": {
+          "value": "28",
           "type": "sizing"
         },
-        "large-88": {
-          "value": "88",
+        "large-44": {
+          "value": "44",
           "type": "sizing"
         }
       }
