@@ -496,12 +496,8 @@
           "value": "24",
           "type": "sizing"
         },
-        "large-28": {
-          "value": "28",
-          "type": "sizing"
-        },
-        "xlarge-36": {
-          "value": "36",
+        "large-32": {
+          "value": "32",
           "type": "sizing"
         }
       },
