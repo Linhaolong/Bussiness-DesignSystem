@@ -823,6 +823,58 @@
           "type": "color"
         }
       }
+    },
+    "感官明度调节": {
+      "暖系": {
+        "30°-类似色": {
+          "value": "#5C33FF",
+          "type": "color"
+        },
+        "60°-邻近色": {
+          "value": "#B60AFF",
+          "type": "color"
+        },
+        "90°-中性色": {
+          "value": "#F500C4",
+          "type": "color"
+        },
+        "120°-对比色": {
+          "value": "#F5004A",
+          "type": "color"
+        },
+        "150°-分裂互补色": {
+          "value": "#F53100",
+          "type": "color"
+        }
+      },
+      "冷系": {
+        "30°-类似色": {
+          "value": "#00BCEB",
+          "type": "color"
+        },
+        "60°-邻近色": {
+          "value": "#00E09E",
+          "type": "color"
+        },
+        "90°-中性色": {
+          "value": "#00E02D",
+          "type": "color"
+        },
+        "120°-对比色": {
+          "value": "#44E000",
+          "type": "color"
+        },
+        "150°-分裂互补色": {
+          "value": "#B4E000",
+          "type": "color"
+        }
+      },
+      "互补色": {
+        "180°": {
+          "value": "#FFB300",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": []
