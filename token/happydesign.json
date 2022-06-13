@@ -530,7 +530,7 @@
   "24_HUE": {
     "HSL": {
       "H": {
-        "value": "222",
+        "value": "357",
         "type": "color"
       },
       "S": {
@@ -542,7 +542,7 @@
         "type": "color"
       },
       "H15": {
-        "value": "$HSL.H + 15",
+        "value": "$HSL.H - 360 + 15",
         "type": "color"
       },
       "H30": {
@@ -578,7 +578,7 @@
         "type": "color"
       },
       "H150": {
-        "value": "$HSL.H135 -360 + 15",
+        "value": "$HSL.H135 + 15",
         "type": "color"
       },
       "H165": {
