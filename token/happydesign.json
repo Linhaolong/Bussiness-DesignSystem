@@ -827,51 +827,203 @@
     "感官明度调节": {
       "暖系": {
         "30°-类似色": {
-          "value": "#5C33FF",
-          "type": "color"
+          "default": {
+            "value": "#5C33FF",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#987EFF",
+            "type": "color"
+          },
+          "active": {
+            "value": "#4124B5",
+            "type": "color"
+          },
+          "light": {
+            "value": "#EFEBFF",
+            "type": "color"
+          }
         },
         "60°-邻近色": {
-          "value": "#B60AFF",
-          "type": "color"
+          "default": {
+            "value": "#B60AFF",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#D165FF",
+            "type": "color"
+          },
+          "active": {
+            "value": "#8107B5",
+            "type": "color"
+          },
+          "light": {
+            "value": "#F8E7FF",
+            "type": "color"
+          }
         },
         "90°-中性色": {
-          "value": "#F500C4",
-          "type": "color"
+          "default": {
+            "value": "#F500C4",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#F95EDA",
+            "type": "color"
+          },
+          "active": {
+            "value": "#AE008B",
+            "type": "color"
+          },
+          "light": {
+            "value": "#FEE6F9",
+            "type": "color"
+          }
         },
         "120°-对比色": {
-          "value": "#F5004A",
-          "type": "color"
+          "default": {
+            "value": "#F5004A",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#F95E8D",
+            "type": "color"
+          },
+          "active": {
+            "value": "#AE0035",
+            "type": "color"
+          },
+          "light": {
+            "value": "#FEE6ED",
+            "type": "color"
+          }
         },
         "150°-分裂互补色": {
-          "value": "#EB2F00",
-          "type": "color"
+          "default": {
+            "value": "#EB2F00",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#F27C5E",
+            "type": "color"
+          },
+          "active": {
+            "value": "#A72100",
+            "type": "color"
+          },
+          "light": {
+            "value": "#FDEAE6",
+            "type": "color"
+          }
         }
       },
       "冷系": {
         "30°-类似色": {
-          "value": "#00BCEB",
-          "type": "color"
+          "default": {
+            "value": "#00BCEB",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#5ED5F2",
+            "type": "color"
+          },
+          "active": {
+            "value": "#0085A7",
+            "type": "color"
+          },
+          "light": {
+            "value": "#E6F8FD",
+            "type": "color"
+          }
         },
         "60°-邻近色": {
-          "value": "#00E09E",
-          "type": "color"
+          "default": {
+            "value": "#00E09E",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#5EEBC2",
+            "type": "color"
+          },
+          "active": {
+            "value": "#009F70",
+            "type": "color"
+          },
+          "light": {
+            "value": "#E6FCF5",
+            "type": "color"
+          }
         },
         "90°-中性色": {
-          "value": "#00E02D",
-          "type": "color"
+          "default": {
+            "value": "#00E02D",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#5EEB7B",
+            "type": "color"
+          },
+          "active": {
+            "value": "#009F20",
+            "type": "color"
+          },
+          "light": {
+            "value": "#E6FCEA",
+            "type": "color"
+          }
         },
         "120°-对比色": {
-          "value": "#44E000",
-          "type": "color"
+          "default": {
+            "value": "#44E000",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#89EB5E",
+            "type": "color"
+          },
+          "active": {
+            "value": "#309F00",
+            "type": "color"
+          },
+          "light": {
+            "value": "#ECFCE6",
+            "type": "color"
+          }
         },
         "150°-分裂互补色": {
-          "value": "#B4E000",
-          "type": "color"
+          "default": {
+            "value": "#B4E000",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#D0EB5E",
+            "type": "color"
+          },
+          "active": {
+            "value": "#809F00",
+            "type": "color"
+          },
+          "light": {
+            "value": "#F8FCE6",
+            "type": "color"
+          }
         }
       },
-      "互补色": {
-        "180°": {
+      "互补色180°": {
+        "default": {
           "value": "#FFB300",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#FFCF5E",
+          "type": "color"
+        },
+        "active": {
+          "value": "#B57F00",
+          "type": "color"
+        },
+        "light": {
+          "value": "#FFF7E6",
           "type": "color"
         }
       }
