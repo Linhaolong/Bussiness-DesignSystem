@@ -736,89 +736,89 @@
   "哈皮设DesignSystem": {
     "Brand": {
       "brand": {
-        "value": "#2465ff",
+        "value": "#145BFF",
         "type": "color"
       },
-      "brand-hover": {
-        "value": "#6c98ff",
+      "hover": {
+        "value": "#6B98FF",
         "type": "color"
       },
-      "brand-active": {
-        "value": "#1a48b5",
+      "active": {
+        "value": "#0E41B5",
         "type": "color"
       },
-      "brand-light": {
-        "value": "#e9f0ff",
+      "light": {
+        "value": "#E8EFFF",
         "type": "color"
       },
       "s1": {
-        "s1": {
+        "default": {
           "value": "#8b2eff",
           "type": "color"
         },
-        "s1-hover": {
+        "hover": {
           "value": "#b173ff",
           "type": "color"
         },
-        "s1-active": {
+        "active": {
           "value": "#6321b5",
           "type": "color"
         },
-        "s1-light": {
+        "light": {
           "value": "#f3eaff",
           "type": "color"
         }
       },
       "s2": {
-        "s2": {
+        "default": {
           "value": "#0fe6a6",
           "type": "color"
         },
-        "s2-hover": {
+        "hover": {
           "value": "#5eeec3",
           "type": "color"
         },
-        "s2-active": {
+        "active": {
           "value": "#0ba376",
           "type": "color"
         },
-        "s2-light": {
+        "light": {
           "value": "#e7fdf6",
           "type": "color"
         }
       },
       "s3": {
-        "s3": {
+        "default": {
           "value": "#ff1a25",
           "type": "color"
         },
-        "s3-hover": {
+        "hover": {
           "value": "#ff666d",
           "type": "color"
         },
-        "s3-active": {
+        "active": {
           "value": "#b5121a",
           "type": "color"
         },
-        "s3-light": {
+        "light": {
           "value": "#ffe8e9",
           "type": "color"
         }
       },
       "s4": {
-        "s4": {
+        "default": {
           "value": "#fa00c8",
           "type": "color"
         },
-        "s4-hover": {
+        "hover": {
           "value": "#fc54da",
           "type": "color"
         },
-        "s4-active": {
+        "active": {
           "value": "#b2008e",
           "type": "color"
         },
-        "s4-light": {
+        "light": {
           "value": "#ffe6fa",
           "type": "color"
         }
