@@ -1209,43 +1209,43 @@
       },
       "ec11": {
         "1": {
-          "value": "#fff6ea",
+          "value": "#fff8e6",
           "type": "color"
         },
         "2": {
-          "value": "#ffeacc",
+          "value": "#ffeec2",
           "type": "color"
         },
         "3": {
-          "value": "#ffdaa3",
+          "value": "#ffe091",
           "type": "color"
         },
         "4": {
-          "value": "#ffc978",
+          "value": "#ffd25e",
           "type": "color"
         },
         "5": {
-          "value": "#ffb850",
+          "value": "#ffc42e",
           "type": "color"
         },
         "6": {
-          "value": "#ffa929",
+          "value": "#ffb700",
           "type": "color"
         },
         "7": {
-          "value": "#d99023",
+          "value": "#d99c00",
           "type": "color"
         },
         "8": {
-          "value": "#b5781d",
+          "value": "#b58200",
           "type": "color"
         },
         "9": {
-          "value": "#916017",
+          "value": "#916800",
           "type": "color"
         },
         "10": {
-          "value": "#734c12",
+          "value": "#735200",
           "type": "color"
         }
       }
