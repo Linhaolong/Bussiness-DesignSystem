@@ -1285,73 +1285,73 @@
       },
       "s1": {
         "default": {
-          "value": "#8b2eff",
+          "value": "{ExtensionColors.180.default}",
           "type": "color"
         },
         "hover": {
-          "value": "#b173ff",
+          "value": "{ExtensionColors.180.hover}",
           "type": "color"
         },
         "active": {
-          "value": "#6321b5",
+          "value": "{ExtensionColors.180.active}",
           "type": "color"
         },
         "light": {
-          "value": "#f3eaff",
+          "value": "{ExtensionColors.180.light}",
           "type": "color"
         }
       },
       "s2": {
         "default": {
-          "value": "#0fe6a6",
+          "value": "{ExtensionColors.Warm.60.default}",
           "type": "color"
         },
         "hover": {
-          "value": "#5eeec3",
+          "value": "{ExtensionColors.Warm.60.hover}",
           "type": "color"
         },
         "active": {
-          "value": "#0ba376",
+          "value": "{ExtensionColors.Warm.60.active}",
           "type": "color"
         },
         "light": {
-          "value": "#e7fdf6",
+          "value": "{ExtensionColors.Warm.60.light}",
           "type": "color"
         }
       },
       "s3": {
         "default": {
-          "value": "#ff1a25",
+          "value": "{ExtensionColors.Warm.120.default}",
           "type": "color"
         },
         "hover": {
-          "value": "#ff666d",
+          "value": "{ExtensionColors.Warm.120.hover}",
           "type": "color"
         },
         "active": {
-          "value": "#b5121a",
+          "value": "{ExtensionColors.Warm.120.active}",
           "type": "color"
         },
         "light": {
-          "value": "#ffe8e9",
+          "value": "{ExtensionColors.Warm.120.light}",
           "type": "color"
         }
       },
       "s4": {
         "default": {
-          "value": "#fa00c8",
+          "value": "{ExtensionColors.Cool.60.default}",
           "type": "color"
         },
         "hover": {
-          "value": "#fc54da",
+          "value": "{ExtensionColors.Cool.60.hover}",
           "type": "color"
         },
         "active": {
-          "value": "#b2008e",
+          "value": "{ExtensionColors.Cool.60.active}",
           "type": "color"
         },
         "light": {
-          "value": "#ffe6fa",
+          "value": "{ExtensionColors.Cool.60.light}",
           "type": "color"
         }
       }
