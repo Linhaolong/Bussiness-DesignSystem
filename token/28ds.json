@@ -1,0 +1,1747 @@
+{
+  "atomValue": {
+    "fontFamilies": {
+      "cn-en": {
+        "value": "PingFang SC",
+        "type": "fontFamilies"
+      },
+      "num": {
+        "value": "TCloud Number",
+        "type": "fontFamilies"
+      }
+    },
+    "fontweights": {
+      "Regular": {
+        "value": "Regular",
+        "type": "fontWeights",
+        "description": "Regular 400"
+      },
+      "Bold": {
+        "value": "Medium",
+        "type": "fontWeights",
+        "description": "Bold 600"
+      },
+      "W3": {
+        "value": "W3",
+        "type": "fontWeights"
+      },
+      "W6": {
+        "value": "W6",
+        "type": "fontWeights"
+      }
+    },
+    "lineHeights": {
+      "base": {
+        "value": "8",
+        "type": "lineHeights"
+      }
+    },
+    "PC-fontSizes": {
+      "banner-big": {
+        "value": "56",
+        "type": "fontSizes"
+      },
+      "banner-medium": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "banner-sm": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "title": {
+        "value": "24",
+        "type": "fontSizes",
+        "description": "大标题"
+      },
+      "title-sub": {
+        "value": "18",
+        "type": "fontSizes",
+        "description": "小标题"
+      },
+      "body": {
+        "value": "14",
+        "type": "fontSizes",
+        "description": "长文字大小"
+      },
+      "body-sm": {
+        "value": "13",
+        "type": "fontSizes",
+        "description": "短文字大小"
+      },
+      "des": {
+        "value": "12",
+        "type": "fontSizes",
+        "description": "辅助文字"
+      }
+    },
+    "APP-fontSizes": {
+      "H1": {
+        "value": "20",
+        "type": "fontSizes",
+        "description": "个人主页用户名，登录流程标题"
+      },
+      "H2": {
+        "value": "18",
+        "type": "fontSizes",
+        "description": "页面一级标题，弹窗标题"
+      },
+      "H3": {
+        "value": "16",
+        "type": "fontSizes",
+        "description": "次要标题，文字导航"
+      },
+      "H4": {
+        "value": "14",
+        "type": "fontSizes",
+        "description": "辅助信息标题"
+      },
+      "title": {
+        "value": "16",
+        "type": "fontSizes",
+        "description": "单行列表内容"
+      },
+      "body": {
+        "value": "14",
+        "type": "fontSizes",
+        "description": "文章正文、大篇幅"
+      },
+      "body-sub": {
+        "value": "12",
+        "type": "fontSizes",
+        "description": "辅助信息"
+      },
+      "icon": {
+        "value": "10",
+        "type": "fontSizes",
+        "description": "tabbar文字、带图标文字"
+      }
+    },
+    "LetterSpacings": {
+      "default": {
+        "value": "0.22px",
+        "type": "letterSpacing"
+      }
+    }
+  },
+  "global": {
+    "Neutral": {
+      "text-primary": {
+        "value": "#1f1f1f",
+        "type": "color",
+        "description": "一级信息-标题"
+      },
+      "text-secondary": {
+        "value": "#434343",
+        "type": "color",
+        "description": "次级信息、正文内容"
+      },
+      "text-sub": {
+        "value": "#8c8c8c",
+        "type": "color",
+        "description": "辅助性、描述"
+      },
+      "text-disabled": {
+        "value": "#bfbfbf",
+        "type": "color",
+        "description": "不可操作"
+      },
+      "border-strong": {
+        "value": "#d9d9d9",
+        "type": "color",
+        "description": "分割线深"
+      },
+      "border-weak": {
+        "value": "#f0f0f0",
+        "type": "color",
+        "description": "分割线浅"
+      },
+      "icon-primary": {
+        "value": "#4e4b46",
+        "type": "color",
+        "description": "主图标"
+      },
+      "icon-disabled": {
+        "value": "#bfbfbf",
+        "type": "color"
+      },
+      "bg-dividers": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "description": "块背景"
+      },
+      "bg-page": {
+        "value": "#fafafa",
+        "type": "color",
+        "description": "大面积背景"
+      }
+    },
+    "typography": {
+      "PC": {
+        "text-banner-big": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.banner-big + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.banner-big",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "banner-大"
+        },
+        "text-banner-medium": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.banner-medium + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.banner-medium",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "banner-中"
+        },
+        "text-banner-sm": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.banner-sm + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.banner-sm",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "banner-小"
+        },
+        "text-title": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.title + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.title",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "大区域标题"
+        },
+        "text-title-sub": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.title-sub + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.title-sub",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "小区域标题"
+        },
+        "text-body": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.body+ $lineHeights.base",
+            "fontSize": "$PC-fontSizes.body",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "内容-大"
+        },
+        "text-body-sm": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.body-sm + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.body-sm",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "内容-小"
+        },
+        "text-des": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.W3",
+            "lineHeight": "$PC-fontSizes.des + $lineHeights.base",
+            "fontSize": "$PC-fontSizes.des",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "描述"
+        }
+      },
+      "APP": {
+        "text-H1": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.Bold",
+            "lineHeight": "{APP-fontSizes.H1} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H1}",
+            "letterSpacing": "{LetterSpacings.default}",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "个人主页用户名，登录流程标题"
+        },
+        "text-H2": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.Bold",
+            "lineHeight": "{APP-fontSizes.H2} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H2}",
+            "letterSpacing": "{LetterSpacings.default}",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "页面一级标题，弹窗标题"
+        },
+        "text-H3": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.Bold",
+            "lineHeight": "{APP-fontSizes.H3} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H3}",
+            "letterSpacing": "{LetterSpacings.default}",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "次要标题，文字导航"
+        },
+        "text-H4": {
+          "value": {
+            "fontFamily": "$fontFamilies.cn-en",
+            "fontWeight": "$fontweights.Bold",
+            "lineHeight": "{APP-fontSizes.H4} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H4}",
+            "letterSpacing": "{LetterSpacings.default}",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "辅助信息标题"
+        },
+        "text-title": {
+          "value": {
+            "fontFamily": "{fontFamilies.cn-en}",
+            "fontWeight": "{fontweights.Regular}",
+            "lineHeight": "{APP-fontSizes.title} + {lineHeights.base}",
+            "fontSize": "{APP-fontSizes.title}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "单行列表内容"
+        },
+        "text-body": {
+          "value": {
+            "fontFamily": "{fontFamilies.cn-en}",
+            "fontWeight": "{fontweights.Regular}",
+            "fontSize": "{APP-fontSizes.body}",
+            "lineHeight": "{APP-fontSizes.body} + {lineHeights.base}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "文章正文、大篇幅内容"
+        },
+        "text-body-sub": {
+          "value": {
+            "fontFamily": "{fontFamilies.cn-en}",
+            "fontWeight": "{fontweights.Regular}",
+            "fontSize": "{APP-fontSizes.body-sub}",
+            "lineHeight": "{APP-fontSizes.body-sub} + {lineHeights.base}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "辅助信息"
+        },
+        "text-icon": {
+          "value": {
+            "fontFamily": "{fontFamilies.cn-en}",
+            "fontWeight": "{fontweights.Regular}",
+            "fontSize": "{APP-fontSizes.icon}",
+            "lineHeight": "{APP-fontSizes.icon} + {lineHeights.base}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "tabbar文字、带图标文字"
+        }
+      }
+    },
+    "spac-1": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "spac-2": {
+      "value": "$spac-1 * 2",
+      "type": "spacing"
+    },
+    "spac-3": {
+      "value": "$spac-1 * 4",
+      "type": "spacing"
+    },
+    "spac-4": {
+      "value": "$spac-1 * 6",
+      "type": "spacing"
+    },
+    "spac-5": {
+      "value": "$spac-1 * 8",
+      "type": "spacing"
+    },
+    "bor-r1": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "bor-r2": {
+      "value": "$bor-r1 * 2",
+      "type": "borderRadius"
+    },
+    "bor-r3": {
+      "value": "$bor-r1 * 4",
+      "type": "borderRadius"
+    },
+    "bor-r4": {
+      "value": "$bor-r1 * 6",
+      "type": "borderRadius"
+    },
+    "PC": {
+      "Icon": {
+        "xsmall-16": {
+          "value": "16",
+          "type": "sizing"
+        },
+        "small-20": {
+          "value": "20",
+          "type": "sizing"
+        },
+        "medium-24": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "large-32": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "xlarge-48": {
+          "value": "48",
+          "type": "sizing"
+        }
+      },
+      "Button": {
+        "small-24": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "medium-32": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "large-40": {
+          "value": "40",
+          "type": "sizing"
+        },
+        "xlarge-48": {
+          "value": "48",
+          "type": "sizing"
+        }
+      },
+      "Input": {
+        "medium-32": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "large-40": {
+          "value": "40",
+          "type": "sizing"
+        }
+      }
+    },
+    "APP": {
+      "Icon": {
+        "small-16": {
+          "value": "16",
+          "type": "sizing"
+        },
+        "medium-22": {
+          "value": "22",
+          "type": "sizing"
+        },
+        "xmedium-24": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "large-32": {
+          "value": "32",
+          "type": "sizing"
+        }
+      },
+      "Button": {
+        "small-26": {
+          "value": "26",
+          "type": "sizing"
+        },
+        "medium-32": {
+          "value": "32",
+          "type": "sizing"
+        },
+        "large-44": {
+          "value": "44",
+          "type": "sizing"
+        }
+      },
+      "Input": {
+        "medium-28": {
+          "value": "28",
+          "type": "sizing"
+        },
+        "large-44": {
+          "value": "44",
+          "type": "sizing"
+        }
+      }
+    }
+  },
+  "24_HUE": {
+    "HSL": {
+      "H": {
+        "value": "350",
+        "type": "color"
+      },
+      "S": {
+        "value": "100",
+        "type": "color"
+      },
+      "L": {
+        "value": "56",
+        "type": "color"
+      },
+      "H15": {
+        "value": "$HSL.H - 360 + 15",
+        "type": "color"
+      },
+      "H30": {
+        "value": "$HSL.H15 + 15",
+        "type": "color"
+      },
+      "H45": {
+        "value": "$HSL.H30 + 15",
+        "type": "color"
+      },
+      "H60": {
+        "value": "$HSL.H45 + 15",
+        "type": "color"
+      },
+      "H75": {
+        "value": "$HSL.H60 + 15",
+        "type": "color"
+      },
+      "H90": {
+        "value": "$HSL.H75 + 15",
+        "type": "color"
+      },
+      "H105": {
+        "value": "$HSL.H90 + 15",
+        "type": "color"
+      },
+      "H120": {
+        "value": "$HSL.H105 + 15",
+        "type": "color"
+      },
+      "H135": {
+        "value": "$HSL.H120 + 15",
+        "type": "color"
+      },
+      "H150": {
+        "value": "$HSL.H135 + 15",
+        "type": "color"
+      },
+      "H165": {
+        "value": "$HSL.H150  + 15",
+        "type": "color"
+      },
+      "H180": {
+        "value": "$HSL.H165  + 15",
+        "type": "color"
+      },
+      "H195": {
+        "value": "$HSL.H180  + 15",
+        "type": "color"
+      },
+      "H210": {
+        "value": "$HSL.H195  + 15",
+        "type": "color"
+      },
+      "H225": {
+        "value": "$HSL.H210  + 15",
+        "type": "color"
+      },
+      "H240": {
+        "value": "$HSL.H225  + 15",
+        "type": "color"
+      },
+      "H255": {
+        "value": "$HSL.H240  + 15",
+        "type": "color"
+      },
+      "H270": {
+        "value": "$HSL.H255  + 15",
+        "type": "color"
+      },
+      "H285": {
+        "value": "$HSL.H270  + 15",
+        "type": "color"
+      },
+      "H300": {
+        "value": "$HSL.H285  + 15",
+        "type": "color"
+      },
+      "H315": {
+        "value": "$HSL.H300 + 15",
+        "type": "color"
+      },
+      "H330": {
+        "value": "$HSL.H315  + 15",
+        "type": "color"
+      },
+      "H345": {
+        "value": "$HSL.H330  + 15",
+        "type": "color"
+      }
+    },
+    "24Color": {
+      "15": {
+        "value": "hsl({HSL.H15}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "30": {
+        "value": "hsl({HSL.H30}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "45": {
+        "value": "hsl({HSL.H45}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "60": {
+        "value": "hsl({HSL.H60}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "75": {
+        "value": "hsl({HSL.H75}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "90": {
+        "value": "hsl({HSL.H90}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "105": {
+        "value": "hsl({HSL.H105}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "120": {
+        "value": "hsl({HSL.H120}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "135": {
+        "value": "hsl({HSL.H135}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "150": {
+        "value": "hsl({HSL.H150}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "165": {
+        "value": "hsl({HSL.H165}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "180": {
+        "value": "hsl({HSL.H180}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "195": {
+        "value": "hsl({HSL.H195}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "210": {
+        "value": "hsl({HSL.H210}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "225": {
+        "value": "hsl({HSL.H225}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "240": {
+        "value": "hsl({HSL.H240}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "255": {
+        "value": "hsl({HSL.H255}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "270": {
+        "value": "hsl({HSL.H270}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "285": {
+        "value": "hsl({HSL.H285}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "300": {
+        "value": "hsl({HSL.H300}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "315": {
+        "value": "hsl({HSL.H315}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "330": {
+        "value": "hsl({HSL.H330}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "345": {
+        "value": "hsl({HSL.H345}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      },
+      "Brand": {
+        "value": "hsl({HSL.H}, {HSL.S}, {HSL.L})",
+        "type": "color"
+      }
+    },
+    "LineGradDeg": {
+      "default": {
+        "value": "330deg",
+        "type": "color"
+      },
+      "borderLight": {
+        "value": "180deg",
+        "type": "color"
+      }
+    }
+  },
+  "12ColorRange": {
+    "12ColorRange": {
+      "primary": {
+        "1": {
+          "value": "#e8efff",
+          "type": "color"
+        },
+        "2": {
+          "value": "#c7d8ff",
+          "type": "color"
+        },
+        "3": {
+          "value": "#9ab8ff",
+          "type": "color"
+        },
+        "4": {
+          "value": "#6b98ff",
+          "type": "color"
+        },
+        "5": {
+          "value": "#3e79ff",
+          "type": "color"
+        },
+        "6": {
+          "value": "#145bff",
+          "type": "color"
+        },
+        "7": {
+          "value": "#114dd9",
+          "type": "color"
+        },
+        "8": {
+          "value": "#0e41b5",
+          "type": "color"
+        },
+        "9": {
+          "value": "#0b3491",
+          "type": "color"
+        },
+        "10": {
+          "value": "#092973",
+          "type": "color"
+        }
+      },
+      "ec1": {
+        "1": {
+          "value": "#efebff",
+          "type": "color"
+        },
+        "2": {
+          "value": "#d8ceff",
+          "type": "color"
+        },
+        "3": {
+          "value": "#b9a7ff",
+          "type": "color"
+        },
+        "4": {
+          "value": "#987eff",
+          "type": "color"
+        },
+        "5": {
+          "value": "#7958ff",
+          "type": "color"
+        },
+        "6": {
+          "value": "#5c33ff",
+          "type": "color"
+        },
+        "7": {
+          "value": "#4e2bd9",
+          "type": "color"
+        },
+        "8": {
+          "value": "#4124b5",
+          "type": "color"
+        },
+        "9": {
+          "value": "#341d91",
+          "type": "color"
+        },
+        "10": {
+          "value": "#291773",
+          "type": "color"
+        }
+      },
+      "ec2": {
+        "1": {
+          "value": "#f8e7ff",
+          "type": "color"
+        },
+        "2": {
+          "value": "#edc4ff",
+          "type": "color"
+        },
+        "3": {
+          "value": "#e096ff",
+          "type": "color"
+        },
+        "4": {
+          "value": "#d165ff",
+          "type": "color"
+        },
+        "5": {
+          "value": "#c336ff",
+          "type": "color"
+        },
+        "6": {
+          "value": "#b60aff",
+          "type": "color"
+        },
+        "7": {
+          "value": "#9b09d9",
+          "type": "color"
+        },
+        "8": {
+          "value": "#8107b5",
+          "type": "color"
+        },
+        "9": {
+          "value": "#680691",
+          "type": "color"
+        },
+        "10": {
+          "value": "#520573",
+          "type": "color"
+        }
+      },
+      "ec3": {
+        "1": {
+          "value": "#fee6f9",
+          "type": "color"
+        },
+        "2": {
+          "value": "#fdc2f1",
+          "type": "color"
+        },
+        "3": {
+          "value": "#fb91e6",
+          "type": "color"
+        },
+        "4": {
+          "value": "#f95eda",
+          "type": "color"
+        },
+        "5": {
+          "value": "#f72ecf",
+          "type": "color"
+        },
+        "6": {
+          "value": "#f500c4",
+          "type": "color"
+        },
+        "7": {
+          "value": "#d000a7",
+          "type": "color"
+        },
+        "8": {
+          "value": "#ae008b",
+          "type": "color"
+        },
+        "9": {
+          "value": "#8c0070",
+          "type": "color"
+        },
+        "10": {
+          "value": "#6e0058",
+          "type": "color"
+        }
+      },
+      "ec4": {
+        "1": {
+          "value": "#fee6ed",
+          "type": "color"
+        },
+        "2": {
+          "value": "#fdc2d4",
+          "type": "color"
+        },
+        "3": {
+          "value": "#fb91b1",
+          "type": "color"
+        },
+        "4": {
+          "value": "#f95e8d",
+          "type": "color"
+        },
+        "5": {
+          "value": "#f72e6b",
+          "type": "color"
+        },
+        "6": {
+          "value": "#f5004a",
+          "type": "color"
+        },
+        "7": {
+          "value": "#d0003f",
+          "type": "color"
+        },
+        "8": {
+          "value": "#ae0035",
+          "type": "color"
+        },
+        "9": {
+          "value": "#8c002a",
+          "type": "color"
+        },
+        "10": {
+          "value": "#6e0021",
+          "type": "color"
+        }
+      },
+      "ec5": {
+        "1": {
+          "value": "#fdeae6",
+          "type": "color"
+        },
+        "2": {
+          "value": "#facdc2",
+          "type": "color"
+        },
+        "3": {
+          "value": "#f6a691",
+          "type": "color"
+        },
+        "4": {
+          "value": "#f27c5e",
+          "type": "color"
+        },
+        "5": {
+          "value": "#ef542e",
+          "type": "color"
+        },
+        "6": {
+          "value": "#eb2f00",
+          "type": "color"
+        },
+        "7": {
+          "value": "#c82800",
+          "type": "color"
+        },
+        "8": {
+          "value": "#a72100",
+          "type": "color"
+        },
+        "9": {
+          "value": "#861b00",
+          "type": "color"
+        },
+        "10": {
+          "value": "#6a1500",
+          "type": "color"
+        }
+      },
+      "ec6": {
+        "1": {
+          "value": "#e6f8fd",
+          "type": "color"
+        },
+        "2": {
+          "value": "#c2effa",
+          "type": "color"
+        },
+        "3": {
+          "value": "#91e2f6",
+          "type": "color"
+        },
+        "4": {
+          "value": "#5ed5f2",
+          "type": "color"
+        },
+        "5": {
+          "value": "#2ec8ef",
+          "type": "color"
+        },
+        "6": {
+          "value": "#00bceb",
+          "type": "color"
+        },
+        "7": {
+          "value": "#00a0c8",
+          "type": "color"
+        },
+        "8": {
+          "value": "#0085a7",
+          "type": "color"
+        },
+        "9": {
+          "value": "#006b86",
+          "type": "color"
+        },
+        "10": {
+          "value": "#00556a",
+          "type": "color"
+        }
+      },
+      "ec7": {
+        "1": {
+          "value": "#e6fcf5",
+          "type": "color"
+        },
+        "2": {
+          "value": "#c2f8e8",
+          "type": "color"
+        },
+        "3": {
+          "value": "#91f2d5",
+          "type": "color"
+        },
+        "4": {
+          "value": "#5eebc2",
+          "type": "color"
+        },
+        "5": {
+          "value": "#2ee6af",
+          "type": "color"
+        },
+        "6": {
+          "value": "#00e09e",
+          "type": "color"
+        },
+        "7": {
+          "value": "#00be86",
+          "type": "color"
+        },
+        "8": {
+          "value": "#009f70",
+          "type": "color"
+        },
+        "9": {
+          "value": "#00805a",
+          "type": "color"
+        },
+        "10": {
+          "value": "#006547",
+          "type": "color"
+        }
+      },
+      "ec8": {
+        "1": {
+          "value": "#e6fcea",
+          "type": "color"
+        },
+        "2": {
+          "value": "#c2f8cd",
+          "type": "color"
+        },
+        "3": {
+          "value": "#91f2a5",
+          "type": "color"
+        },
+        "4": {
+          "value": "#5eeb7b",
+          "type": "color"
+        },
+        "5": {
+          "value": "#2ee653",
+          "type": "color"
+        },
+        "6": {
+          "value": "#00e02d",
+          "type": "color"
+        },
+        "7": {
+          "value": "#00be26",
+          "type": "color"
+        },
+        "8": {
+          "value": "#009f20",
+          "type": "color"
+        },
+        "9": {
+          "value": "#00801a",
+          "type": "color"
+        },
+        "10": {
+          "value": "#006514",
+          "type": "color"
+        }
+      },
+      "ec9": {
+        "1": {
+          "value": "#ecfce6",
+          "type": "color"
+        },
+        "2": {
+          "value": "#d2f8c2",
+          "type": "color"
+        },
+        "3": {
+          "value": "#aff291",
+          "type": "color"
+        },
+        "4": {
+          "value": "#89eb5e",
+          "type": "color"
+        },
+        "5": {
+          "value": "#66e62e",
+          "type": "color"
+        },
+        "6": {
+          "value": "#44e000",
+          "type": "color"
+        },
+        "7": {
+          "value": "#3abe00",
+          "type": "color"
+        },
+        "8": {
+          "value": "#309f00",
+          "type": "color"
+        },
+        "9": {
+          "value": "#278000",
+          "type": "color"
+        },
+        "10": {
+          "value": "#1f6500",
+          "type": "color"
+        }
+      },
+      "ec10": {
+        "1": {
+          "value": "#f8fce6",
+          "type": "color"
+        },
+        "2": {
+          "value": "#edf8c2",
+          "type": "color"
+        },
+        "3": {
+          "value": "#dff291",
+          "type": "color"
+        },
+        "4": {
+          "value": "#d0eb5e",
+          "type": "color"
+        },
+        "5": {
+          "value": "#c2e62e",
+          "type": "color"
+        },
+        "6": {
+          "value": "#b4e000",
+          "type": "color"
+        },
+        "7": {
+          "value": "#99be00",
+          "type": "color"
+        },
+        "8": {
+          "value": "#809f00",
+          "type": "color"
+        },
+        "9": {
+          "value": "#678000",
+          "type": "color"
+        },
+        "10": {
+          "value": "#516500",
+          "type": "color"
+        }
+      },
+      "ec11": {
+        "1": {
+          "value": "#fff7e6",
+          "type": "color"
+        },
+        "2": {
+          "value": "#ffedc2",
+          "type": "color"
+        },
+        "3": {
+          "value": "#ffde91",
+          "type": "color"
+        },
+        "4": {
+          "value": "#ffcf5e",
+          "type": "color"
+        },
+        "5": {
+          "value": "#ffc12e",
+          "type": "color"
+        },
+        "6": {
+          "value": "#ffb300",
+          "type": "color"
+        },
+        "7": {
+          "value": "#d99800",
+          "type": "color"
+        },
+        "8": {
+          "value": "#b57f00",
+          "type": "color"
+        },
+        "9": {
+          "value": "#916600",
+          "type": "color"
+        },
+        "10": {
+          "value": "#735100",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "ColorSystem": {
+    "Brand": {
+      "primary": {
+        "default": {
+          "value": "$12ColorRange.primary.6",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$12ColorRange.primary.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$12ColorRange.primary.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$12ColorRange.primary.1",
+          "type": "color"
+        },
+        "grad-a-d": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.active} 0%, {Brand.primary.default} 100%)",
+          "type": "color"
+        },
+        "grad-line-d-h": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {Brand.primary.hover} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.light} 0%, #ffffff 100%)",
+          "type": "color"
+        }
+      },
+      "s1": {
+        "default": {
+          "value": "#8b2eff",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#b173ff",
+          "type": "color"
+        },
+        "active": {
+          "value": "#6321b5",
+          "type": "color"
+        },
+        "light": {
+          "value": "#f3eaff",
+          "type": "color"
+        }
+      },
+      "s2": {
+        "default": {
+          "value": "#0fe6a6",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#5eeec3",
+          "type": "color"
+        },
+        "active": {
+          "value": "#0ba376",
+          "type": "color"
+        },
+        "light": {
+          "value": "#e7fdf6",
+          "type": "color"
+        }
+      },
+      "s3": {
+        "default": {
+          "value": "#ff1a25",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ff666d",
+          "type": "color"
+        },
+        "active": {
+          "value": "#b5121a",
+          "type": "color"
+        },
+        "light": {
+          "value": "#ffe8e9",
+          "type": "color"
+        }
+      },
+      "s4": {
+        "default": {
+          "value": "#fa00c8",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#fc54da",
+          "type": "color"
+        },
+        "active": {
+          "value": "#b2008e",
+          "type": "color"
+        },
+        "light": {
+          "value": "#ffe6fa",
+          "type": "color"
+        }
+      }
+    },
+    "ExtensionColors": {
+      "180": {
+        "default": {
+          "value": "$12ColorRange.ec11.6",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$12ColorRange.ec11.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$12ColorRange.ec11.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$12ColorRange.ec11.1",
+          "type": "color"
+        },
+        "grad-line-a-d": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.active} 0%, {ExtensionColors.180.default} 100%)",
+          "type": "color"
+        },
+        "grad-line-d-h": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.default} 0%, {ExtensionColors.180.hover} 100%)",
+          "type": "color"
+        },
+        "grad-line-h-l": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.hover} 0%, {ExtensionColors.180.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.light} 0%, #ffffff 100%)",
+          "type": "color"
+        }
+      },
+      "Warm": {
+        "30": {
+          "default": {
+            "value": "$12ColorRange.ec1.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec1.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec1.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec1.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.30.active} 0%, {ExtensionColors.Warm.30.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.30.default} 0%, {ExtensionColors.Warm.30.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.30.hover} 0%, {ExtensionColors.Warm.30.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.30.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        },
+        "60": {
+          "default": {
+            "value": "$12ColorRange.ec2.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec2.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec2.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec2.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.60.active} 0%, {ExtensionColors.Warm.60.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.60.default} 0%, {ExtensionColors.Warm.60.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.60.hover} 0%, {ExtensionColors.Warm.60.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.60.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        },
+        "90": {
+          "default": {
+            "value": "$12ColorRange.ec3.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec3.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec3.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec3.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.90.active} 0%, {ExtensionColors.Warm.90.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.90.default} 0%, {ExtensionColors.Warm.90.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.90.hover} 0%, {ExtensionColors.Warm.90.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.90.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        },
+        "120": {
+          "default": {
+            "value": "$12ColorRange.ec4.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec4.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec4.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec4.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.120.active} 0%, {ExtensionColors.Warm.120.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.120.default} 0%, {ExtensionColors.Warm.120.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.120.hover} 0%, {ExtensionColors.Warm.120.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.120.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        },
+        "150": {
+          "default": {
+            "value": "$12ColorRange.ec5.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec5.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec5.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec5.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.150.active} 0%, {ExtensionColors.Warm.150.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.150.default} 0%, {ExtensionColors.Warm.150.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.150.hover} 0%, {ExtensionColors.Warm.150.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.150.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        }
+      },
+      "Cool": {
+        "30": {
+          "default": {
+            "value": "$12ColorRange.ec6.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec6.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec6.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec6.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.30.active} 0%, {ExtensionColors.Cool.30.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.30.default} 0%, {ExtensionColors.Cool.30.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.30.hover} 0%, {ExtensionColors.Cool.30.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.30.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        },
+        "60": {
+          "default": {
+            "value": "$12ColorRange.ec7.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec7.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec7.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec7.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.60.active} 0%, {ExtensionColors.Cool.60.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.60.default} 0%, {ExtensionColors.Cool.60.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.60.hover} 0%, {ExtensionColors.Cool.60.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.60.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        },
+        "90": {
+          "default": {
+            "value": "$12ColorRange.ec8.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec8.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec8.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "#E6FCEA",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.90.active} 0%, {ExtensionColors.Cool.90.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.90.default} 0%, {ExtensionColors.Cool.90.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.90.hover} 0%, {ExtensionColors.Cool.90.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.90.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        },
+        "120": {
+          "default": {
+            "value": "$12ColorRange.ec9.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec9.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec9.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec9.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.120.active} 0%, {ExtensionColors.Cool.120.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.120.default} 0%, {ExtensionColors.Cool.120.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.120.hover} 0%, {ExtensionColors.Cool.120.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.120.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        },
+        "150": {
+          "default": {
+            "value": "$12ColorRange.ec10.6",
+            "type": "color"
+          },
+          "hover": {
+            "value": "$12ColorRange.ec10.4",
+            "type": "color"
+          },
+          "active": {
+            "value": "$12ColorRange.ec10.8",
+            "type": "color"
+          },
+          "light": {
+            "value": "$12ColorRange.ec10.1",
+            "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.150.active} 0%, {ExtensionColors.Cool.150.default} 100%)",
+            "type": "color"
+          },
+          "grad-line-d-h": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.150.default} 0%, {ExtensionColors.Cool.150.hover} 100%)",
+            "type": "color"
+          },
+          "grad-line-h-l": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.150.hover} 0%, {ExtensionColors.Cool.150.light} 100%)",
+            "type": "color"
+          },
+          "grad-line-l-white": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Cool.150.light} 0%, #ffffff 100%)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "Border-grad": {
+      "grad-Light": {
+        "value": "linear-gradient({LineGradDeg.borderLight}, #ffffff 0%, rgba(255,255,255,0) 50%)",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": []
+}
