@@ -1249,48 +1249,6 @@
           "type": "color"
         }
       }
-    },
-    "ec2": {
-      "1": {
-        "value": "#fef5e9",
-        "type": "color"
-      },
-      "2": {
-        "value": "#fce7c9",
-        "type": "color"
-      },
-      "3": {
-        "value": "#fad49f",
-        "type": "color"
-      },
-      "4": {
-        "value": "#f7c173",
-        "type": "color"
-      },
-      "5": {
-        "value": "#f5ae48",
-        "type": "color"
-      },
-      "6": {
-        "value": "#f39c20",
-        "type": "color"
-      },
-      "7": {
-        "value": "#cf851b",
-        "type": "color"
-      },
-      "8": {
-        "value": "#ad6f17",
-        "type": "color"
-      },
-      "9": {
-        "value": "#8b5912",
-        "type": "color"
-      },
-      "10": {
-        "value": "#6d460e",
-        "type": "color"
-      }
     }
   },
   "ColorSystem": {
