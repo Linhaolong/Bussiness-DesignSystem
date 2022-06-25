@@ -1789,6 +1789,24 @@
       },
       "s1": {
         "default": {
+          "value": "{ExtensionColors.180.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{ExtensionColors.180.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{ExtensionColors.180.active}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{ExtensionColors.180.light}",
+          "type": "color"
+        }
+      },
+      "s2": {
+        "default": {
           "value": "{ExtensionColors.60.default}",
           "type": "color"
         },
@@ -1802,24 +1820,6 @@
         },
         "light": {
           "value": "{ExtensionColors.60.light}",
-          "type": "color"
-        }
-      },
-      "s2": {
-        "default": {
-          "value": "{ExtensionColors.300.default}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{ExtensionColors.300.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{ExtensionColors.300.active}",
-          "type": "color"
-        },
-        "light": {
-          "value": "{ExtensionColors.300.light}",
           "type": "color"
         }
       },
@@ -1843,19 +1843,19 @@
       },
       "s4": {
         "default": {
-          "value": "{ExtensionColors.180.default}",
+          "value": "{ExtensionColors.300.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtensionColors.180.hover}",
+          "value": "{ExtensionColors.300.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtensionColors.180.active}",
+          "value": "{ExtensionColors.300.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtensionColors.180.light}",
+          "value": "{ExtensionColors.300.light}",
           "type": "color"
         }
       }
