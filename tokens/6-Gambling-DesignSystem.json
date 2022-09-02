@@ -1,6 +1,346 @@
 {
+  "内容页": {
+    "鼎信-黑": {
+      "value": "#111111",
+      "type": "color"
+    },
+    "鼎信-红": {
+      "value": "#bd3433",
+      "type": "color"
+    },
+    "鼎信-浅黑": {
+      "value": "#373737",
+      "type": "color"
+    },
+    "开元-黑": {
+      "value": "#343434",
+      "type": "color"
+    },
+    "开元-红": {
+      "value": "#a50022",
+      "type": "color"
+    },
+    "开元-浅黑": {
+      "value": "#5b5b5b",
+      "type": "color"
+    },
+    "战狼-黑": {
+      "value": "#2d2d2d",
+      "type": "color"
+    },
+    "战狼-红": {
+      "value": "#8c0000",
+      "type": "color"
+    },
+    "战狼-浅黑": {
+      "value": "#545454",
+      "type": "color"
+    },
+    "众发-黑": {
+      "value": "#281b1b",
+      "type": "color"
+    },
+    "众发-红": {
+      "value": "#d93337",
+      "type": "color"
+    },
+    "众发-浅黑": {
+      "value": "#5b5b5b",
+      "type": "color"
+    },
+    "神洲奇发-黑": {
+      "value": "#281b1b",
+      "type": "color"
+    },
+    "神洲奇发-红": {
+      "value": "#b80000",
+      "type": "color"
+    },
+    "神洲奇发-浅黑": {
+      "value": "#545454",
+      "type": "color"
+    },
+    "宝信-黑": {
+      "value": "#343434",
+      "type": "color"
+    },
+    "宝信-红": {
+      "value": "#bd3433",
+      "type": "color"
+    },
+    "宝信-浅": {
+      "value": "#5b5b5b",
+      "type": "color"
+    },
+    "fontFamilies": {
+      "fzlantingheis-db-gb": {
+        "value": "FZLanTingHeiS-DB-GB",
+        "type": "fontFamilies"
+      },
+      "hyzhengyuan": {
+        "value": "HYZhengYuan",
+        "type": "fontFamilies"
+      },
+      "source-han-sans-cn": {
+        "value": "Source Han Sans CN",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "34",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "30",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "fzlantingheis-db-gb-0": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "hyzhengyuan-1": {
+        "value": "65W",
+        "type": "fontWeights"
+      },
+      "source-han-sans-cn-2": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "hyzhengyuan-0": {
+        "value": "75W",
+        "type": "fontWeights"
+      },
+      "fzlantingheis-db-gb-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "hyzhengyuan-2": {
+        "value": "65W",
+        "type": "fontWeights"
+      },
+      "source-han-sans-cn-3": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "19",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "22",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "23",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "鼎信": {
+      "value": {
+        "fontFamily": "{fontFamilies.hyzhengyuan}",
+        "fontWeight": "{fontWeights.hyzhengyuan-0}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "鼎信 - 小": {
+      "value": {
+        "fontFamily": "{fontFamilies.fzlantingheis-db-gb}",
+        "fontWeight": "{fontWeights.fzlantingheis-db-gb-1}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.0}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "开元": {
+      "value": {
+        "fontFamily": "{fontFamilies.hyzhengyuan}",
+        "fontWeight": "{fontWeights.hyzhengyuan-2}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "开元 - 小": {
+      "value": {
+        "fontFamily": "{fontFamilies.hyzhengyuan}",
+        "fontWeight": "{fontWeights.hyzhengyuan-2}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "战狼": {
+      "value": {
+        "fontFamily": "{fontFamilies.fzlantingheis-db-gb}",
+        "fontWeight": "{fontWeights.fzlantingheis-db-gb-1}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.4}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "战狼-小": {
+      "value": {
+        "fontFamily": "{fontFamilies.fzlantingheis-db-gb}",
+        "fontWeight": "{fontWeights.fzlantingheis-db-gb-1}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "众发": {
+      "value": {
+        "fontFamily": "{fontFamilies.fzlantingheis-db-gb}",
+        "fontWeight": "{fontWeights.fzlantingheis-db-gb-1}",
+        "lineHeight": "{lineHeights.1}",
+        "fontSize": "{fontSize.1}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "众发-小": {
+      "value": {
+        "fontFamily": "{fontFamilies.fzlantingheis-db-gb}",
+        "fontWeight": "{fontWeights.fzlantingheis-db-gb-1}",
+        "lineHeight": "{lineHeights.1}",
+        "fontSize": "{fontSize.0}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "神洲奇发": {
+      "value": {
+        "fontFamily": "{fontFamilies.fzlantingheis-db-gb}",
+        "fontWeight": "{fontWeights.fzlantingheis-db-gb-1}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "神洲奇发-小": {
+      "value": {
+        "fontFamily": "{fontFamilies.fzlantingheis-db-gb}",
+        "fontWeight": "{fontWeights.fzlantingheis-db-gb-1}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.0}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "宝信": {
+      "value": {
+        "fontFamily": "{fontFamilies.source-han-sans-cn}",
+        "fontWeight": "{fontWeights.source-han-sans-cn-3}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.3}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "宝信-小": {
+      "value": {
+        "fontFamily": "{fontFamilies.source-han-sans-cn}",
+        "fontWeight": "{fontWeights.source-han-sans-cn-3}",
+        "lineHeight": "{lineHeights.0}",
+        "fontSize": "{fontSize.2}",
+        "letterSpacing": "{letterSpacing.0}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography"
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "战狼-白": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "战狼-浅白": {
+      "value": "#ffbaba",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": []
+    "tokenSetOrder": [
+      "内容页"
+    ]
   }
 }
