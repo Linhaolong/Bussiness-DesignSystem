@@ -1,76 +1,74 @@
 {
   "内容页": {
-    "鼎信-黑": {
-      "value": "#111111",
-      "type": "color"
-    },
-    "鼎信-红": {
-      "value": "#bd3433",
-      "type": "color"
-    },
-    "鼎信-浅黑": {
-      "value": "#373737",
-      "type": "color"
-    },
-    "开元-黑": {
-      "value": "#343434",
-      "type": "color"
-    },
-    "开元-红": {
-      "value": "#a50022",
-      "type": "color"
-    },
-    "开元-浅黑": {
-      "value": "#5b5b5b",
-      "type": "color"
-    },
-    "战狼-黑": {
-      "value": "#2d2d2d",
-      "type": "color"
-    },
-    "战狼-红": {
-      "value": "#8c0000",
-      "type": "color"
-    },
-    "战狼-浅黑": {
-      "value": "#545454",
-      "type": "color"
-    },
-    "众发-黑": {
-      "value": "#281b1b",
-      "type": "color"
-    },
-    "众发-红": {
-      "value": "#d93337",
-      "type": "color"
-    },
-    "众发-浅黑": {
-      "value": "#5b5b5b",
-      "type": "color"
-    },
-    "神洲奇发-黑": {
-      "value": "#281b1b",
-      "type": "color"
-    },
-    "神洲奇发-红": {
-      "value": "#b80000",
-      "type": "color"
-    },
-    "神洲奇发-浅黑": {
-      "value": "#545454",
-      "type": "color"
-    },
-    "宝信-黑": {
-      "value": "#343434",
-      "type": "color"
-    },
-    "宝信-红": {
-      "value": "#bd3433",
-      "type": "color"
-    },
-    "宝信-浅": {
-      "value": "#5b5b5b",
-      "type": "color"
+    "28内容页-FontColor": {
+      "鼎信-黑": {
+        "value": "#111111",
+        "type": "color"
+      },
+      "鼎信-红": {
+        "value": "#bd3433",
+        "type": "color"
+      },
+      "鼎信-浅黑": {
+        "value": "#373737",
+        "type": "color"
+      },
+      "开元-黑": {
+        "value": "#343434",
+        "type": "color"
+      },
+      "开元-红": {
+        "value": "#a50022",
+        "type": "color"
+      },
+      "开元-浅黑": {
+        "value": "#5b5b5b",
+        "type": "color"
+      },
+      "众发-黑": {
+        "value": "#281b1b",
+        "type": "color"
+      },
+      "众发-红": {
+        "value": "#d93337",
+        "type": "color"
+      },
+      "众发-浅黑": {
+        "value": "#5b5b5b",
+        "type": "color"
+      },
+      "神洲奇发-黑": {
+        "value": "#281b1b",
+        "type": "color"
+      },
+      "神洲奇发-红": {
+        "value": "#b80000",
+        "type": "color"
+      },
+      "神洲奇发-浅黑": {
+        "value": "#545454",
+        "type": "color"
+      },
+      "宝信-黑": {
+        "value": "#343434",
+        "type": "color"
+      },
+      "宝信-红": {
+        "value": "#bd3433",
+        "type": "color"
+      },
+      "宝信-浅": {
+        "value": "#5b5b5b",
+        "type": "color"
+      },
+      "战狼-白": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "战狼-浅白": {
+        "value": "#ffbaba",
+        "type": "color"
+      }
     },
     "fontFamilies": {
       "fzlantingheis-db-gb": {
@@ -160,7 +158,7 @@
         "type": "paragraphSpacing"
       }
     },
-    "28内容页": {
+    "28内容页-Font": {
       "鼎信": {
         "value": {
           "fontFamily": "{fontFamilies.hyzhengyuan}",
@@ -329,14 +327,6 @@
         "value": "none",
         "type": "textDecoration"
       }
-    },
-    "战狼-白": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "战狼-浅白": {
-      "value": "#ffbaba",
-      "type": "color"
     }
   },
   "$themes": [],
