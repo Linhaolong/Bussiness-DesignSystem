@@ -1261,41 +1261,59 @@
       },
       "s1": {
         "default": {
-          "value": "{ExtensionColors.180.default}",
+          "value": "{ExtensionColors.345.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtensionColors.180.hover}",
+          "value": "{ExtensionColors.345.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtensionColors.180.active}",
+          "value": "{ExtensionColors.345.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtensionColors.180.light}",
+          "value": "{ExtensionColors.345.light}",
           "type": "color"
         }
       },
       "s2": {
         "default": {
-          "value": "{ExtensionColors.60.default}",
+          "value": "{ExtensionColors.315.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtensionColors.60.hover}",
+          "value": "{ExtensionColors.315.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtensionColors.60.active}",
+          "value": "{ExtensionColors.315.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtensionColors.60.light}",
+          "value": "{ExtensionColors.315.light}",
           "type": "color"
         }
       },
       "s3": {
+        "default": {
+          "value": "{ExtensionColors.210.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{ExtensionColors.210.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{ExtensionColors.210.active}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{ExtensionColors.210.light}",
+          "type": "color"
+        }
+      },
+      "s4": {
         "default": {
           "value": "{ExtensionColors.120.default}",
           "type": "color"
@@ -1310,24 +1328,6 @@
         },
         "light": {
           "value": "{ExtensionColors.120.light}",
-          "type": "color"
-        }
-      },
-      "s4": {
-        "default": {
-          "value": "{ExtensionColors.300.default}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{ExtensionColors.300.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{ExtensionColors.300.active}",
-          "type": "color"
-        },
-        "light": {
-          "value": "{ExtensionColors.300.light}",
           "type": "color"
         }
       }
