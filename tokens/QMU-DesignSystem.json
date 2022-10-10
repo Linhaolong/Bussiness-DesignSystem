@@ -1261,37 +1261,37 @@
       },
       "s1": {
         "default": {
-          "value": "{ExtensionColors.345.default}",
+          "value": "{ExtensionColors.60.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtensionColors.345.hover}",
+          "value": "{ExtensionColors.60.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtensionColors.345.active}",
+          "value": "{ExtensionColors.60.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtensionColors.345.light}",
+          "value": "{ExtensionColors.60.light}",
           "type": "color"
         }
       },
       "s2": {
         "default": {
-          "value": "{ExtensionColors.315.default}",
+          "value": "{ExtensionColors.90.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtensionColors.315.hover}",
+          "value": "{ExtensionColors.90.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtensionColors.315.active}",
+          "value": "{ExtensionColors.90.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtensionColors.315.light}",
+          "value": "{ExtensionColors.90.light}",
           "type": "color"
         }
       },
@@ -1315,19 +1315,19 @@
       },
       "s4": {
         "default": {
-          "value": "{ExtensionColors.120.default}",
+          "value": "{ExtensionColors.240.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtensionColors.120.hover}",
+          "value": "{ExtensionColors.240.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtensionColors.120.active}",
+          "value": "{ExtensionColors.240.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtensionColors.120.light}",
+          "value": "{ExtensionColors.240.light}",
           "type": "color"
         }
       }
