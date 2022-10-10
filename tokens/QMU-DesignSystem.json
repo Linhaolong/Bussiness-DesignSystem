@@ -2,15 +2,15 @@
   "24_HUE": {
     "HSL": {
       "H": {
-        "value": "166",
+        "value": "164",
         "type": "color"
       },
       "S": {
-        "value": "70",
+        "value": "96",
         "type": "color"
       },
       "L": {
-        "value": "56",
+        "value": "63",
         "type": "color"
       },
       "H15": {
@@ -62,11 +62,11 @@
         "type": "color"
       },
       "H195": {
-        "value": "$HSL.H180 - 360  + 15",
+        "value": "$HSL.H180 + 15",
         "type": "color"
       },
       "H210": {
-        "value": "$HSL.H195  + 15",
+        "value": "$HSL.H195 - 360 + 15",
         "type": "color"
       },
       "H225": {
