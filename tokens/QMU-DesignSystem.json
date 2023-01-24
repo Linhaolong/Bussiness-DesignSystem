@@ -881,114 +881,76 @@
       },
       "s2": {
         "default": {
-          "value": "$ExtColor.90°.default",
-          "type": "color",
-          "description": ""
+          "value": "$ExtColor.60°.default",
+          "type": "color"
         },
         "hover": {
-          "value": "$ExtColor.90°.hover",
+          "value": "$ExtColor.60°.hover",
           "type": "color"
         },
         "active": {
-          "value": "$ExtColor.90°.active",
+          "value": "$ExtColor.60°.active",
           "type": "color"
         },
         "light": {
-          "value": "$ExtColor.90°.light",
+          "value": "$ExtColor.60°.light",
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "$ExtColor.90°.grad-line-a-d",
+          "value": "$ExtColor.60°.grad-line-a-d",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "$ExtColor.90°.grad-line-d-h",
+          "value": "$ExtColor.60°.grad-line-d-h",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "$ExtColor.90°.grad-line-h-l",
+          "value": "$ExtColor.60°.grad-line-h-l",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "$ExtColor.90°.grad-line-l-white",
+          "value": "$ExtColor.60°.grad-line-l-white",
           "type": "color"
         }
       },
       "s3": {
         "default": {
-          "value": "$ExtColor.120°.default",
-          "type": "color",
-          "description": ""
+          "value": "$ExtColor.180°.default",
+          "type": "color"
         },
         "hover": {
-          "value": "$ExtColor.120°.hover",
+          "value": "$ExtColor.180°.hover",
           "type": "color"
         },
         "active": {
-          "value": "$ExtColor.120°.active",
+          "value": "$ExtColor.180°.active",
           "type": "color"
         },
         "light": {
-          "value": "$ExtColor.120°.light",
+          "value": "$ExtColor.180°.light",
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "$ExtColor.120°.grad-line-a-d",
+          "value": "$ExtColor.180°.grad-line-a-d",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "$ExtColor.120°.grad-line-d-h",
+          "value": "$ExtColor.180°.grad-line-d-h",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "$ExtColor.120°.grad-line-h-l",
+          "value": "$ExtColor.180°.grad-line-h-l",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "$ExtColor.120°.grad-line-l-white",
+          "value": "$ExtColor.180°.grad-line-l-white",
           "type": "color"
         }
       },
       "s4": {
         "default": {
-          "value": "$ExtColor.270°.default",
-          "type": "color",
-          "description": ""
-        },
-        "hover": {
-          "value": "$ExtColor.270°.hover",
-          "type": "color"
-        },
-        "active": {
-          "value": "$ExtColor.270°.active",
-          "type": "color"
-        },
-        "light": {
-          "value": "$ExtColor.270°.light",
-          "type": "color"
-        },
-        "grad-line-a-d": {
-          "value": "$ExtColor.270°.grad-line-a-d",
-          "type": "color"
-        },
-        "grad-line-d-h": {
-          "value": "$ExtColor.270°.grad-line-d-h",
-          "type": "color"
-        },
-        "grad-line-h-l": {
-          "value": "$ExtColor.270°.grad-line-h-l",
-          "type": "color"
-        },
-        "grad-line-l-white": {
-          "value": "$ExtColor.270°.grad-line-l-white",
-          "type": "color"
-        }
-      },
-      "s5": {
-        "default": {
           "value": "$ExtColor.新增配色-1.default",
-          "type": "color",
-          "description": ""
+          "type": "color"
         },
         "hover": {
           "value": "$ExtColor.新增配色-1.hover",
@@ -1016,6 +978,40 @@
         },
         "grad-line-l-white": {
           "value": "$ExtColor.新增配色-1.grad-line-l-white",
+          "type": "color"
+        }
+      },
+      "s5": {
+        "default": {
+          "value": "$ExtColor.新增配色-2.default",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$ExtColor.新增配色-2.hover",
+          "type": "color"
+        },
+        "active": {
+          "value": "$ExtColor.新增配色-2.active",
+          "type": "color"
+        },
+        "light": {
+          "value": "$ExtColor.新增配色-2.light",
+          "type": "color"
+        },
+        "grad-line-a-d": {
+          "value": "$ExtColor.新增配色-2.grad-line-a-d",
+          "type": "color"
+        },
+        "grad-line-d-h": {
+          "value": "$ExtColor.新增配色-2.grad-line-d-h",
+          "type": "color"
+        },
+        "grad-line-h-l": {
+          "value": "$ExtColor.新增配色-2.grad-line-h-l",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "$ExtColor.新增配色-2.grad-line-l-white",
           "type": "color"
         }
       }
