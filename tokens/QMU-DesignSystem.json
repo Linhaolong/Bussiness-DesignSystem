@@ -206,11 +206,11 @@
     },
     "LineGradDeg": {
       "default": {
-        "value": "0deg",
+        "value": "180deg",
         "type": "color"
       },
       "borderLight": {
-        "value": "0deg",
+        "value": "180deg",
         "type": "color"
       }
     }
