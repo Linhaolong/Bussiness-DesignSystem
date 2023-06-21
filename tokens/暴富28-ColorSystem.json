@@ -3434,6 +3434,146 @@
           "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT14.6} 0%, {HCT24Color.HCT14.8} 100%)",
           "type": "color"
         }
+      },
+      "210deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT15.2} 0%, {HCT24Color.HCT15.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT15.4} 0%, {HCT24Color.HCT15.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT15.6} 0%, {HCT24Color.HCT15.8} 100%)",
+          "type": "color"
+        }
+      },
+      "225deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT16.2} 0%, {HCT24Color.HCT16.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT16.4} 0%, {HCT24Color.HCT16.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT16.6} 0%, {HCT24Color.HCT16.8} 100%)",
+          "type": "color"
+        }
+      },
+      "240deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT17.2} 0%, {HCT24Color.HCT17.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT17.4} 0%, {HCT24Color.HCT17.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT17.6} 0%, {HCT24Color.HCT17.8} 100%)",
+          "type": "color"
+        }
+      },
+      "255deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT18.2} 0%, {HCT24Color.HCT18.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT18.4} 0%, {HCT24Color.HCT18.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT18.6} 0%, {HCT24Color.HCT18.8} 100%)",
+          "type": "color"
+        }
+      },
+      "270deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT19.2} 0%, {HCT24Color.HCT19.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT19.4} 0%, {HCT24Color.HCT19.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT19.6} 0%, {HCT24Color.HCT19.8} 100%)",
+          "type": "color"
+        }
+      },
+      "285deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT20.2} 0%, {HCT24Color.HCT20.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT20.4} 0%, {HCT24Color.HCT20.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT20.6} 0%, {HCT24Color.HCT20.8} 100%)",
+          "type": "color"
+        }
+      },
+      "300deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT21.2} 0%, {HCT24Color.HCT21.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT21.4} 0%, {HCT24Color.HCT21.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT21.6} 0%, {HCT24Color.HCT21.8} 100%)",
+          "type": "color"
+        }
+      },
+      "315deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT22.2} 0%, {HCT24Color.HCT22.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT22.4} 0%, {HCT24Color.HCT22.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT22.6} 0%, {HCT24Color.HCT22.8} 100%)",
+          "type": "color"
+        }
+      },
+      "330deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT23.2} 0%, {HCT24Color.HCT23.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT23.4} 0%, {HCT24Color.HCT23.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT23.6} 0%, {HCT24Color.HCT23.8} 100%)",
+          "type": "color"
+        }
+      },
+      "345deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT24.2} 0%, {HCT24Color.HCT24.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT24.4} 0%, {HCT24Color.HCT24.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT24.6} 0%, {HCT24Color.HCT24.8} 100%)",
+          "type": "color"
+        }
       }
     }
   },
