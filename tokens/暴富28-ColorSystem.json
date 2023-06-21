@@ -3672,6 +3672,300 @@
           "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT24.6} 0%, {HCT24Color.HCT1.6} 100%)",
           "type": "color"
         }
+      },
+      "30Gradient": {
+        "primary-30": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT1.6} 0%, {HCT24Color.HCT3.6} 100%)",
+          "type": "color"
+        },
+        "15-45": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT2.6} 0%, {HCT24Color.HCT4.6} 100%)",
+          "type": "color"
+        },
+        "30-60": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT3.6} 0%, {HCT24Color.HCT5.6} 100%)",
+          "type": "color"
+        },
+        "45-75": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT4.6} 0%, {HCT24Color.HCT6.6} 100%)",
+          "type": "color"
+        },
+        "60-90": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT5.6} 0%, {HCT24Color.HCT7.6} 100%)",
+          "type": "color"
+        },
+        "75-105": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT6.6} 0%, {HCT24Color.HCT8.6} 100%)",
+          "type": "color"
+        },
+        "90-120": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT7.6} 0%, {HCT24Color.HCT9.6} 100%)",
+          "type": "color"
+        },
+        "105-135": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT8.6} 0%, {HCT24Color.HCT10.6} 100%)",
+          "type": "color"
+        },
+        "120-150": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT9.6} 0%, {HCT24Color.HCT11.6} 100%)",
+          "type": "color"
+        },
+        "135-165": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT10.6} 0%, {HCT24Color.HCT12.6} 100%)",
+          "type": "color"
+        },
+        "150-180": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT11.6} 0%, {HCT24Color.HCT13.6} 100%)",
+          "type": "color"
+        },
+        "165-195": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT12.6} 0%, {HCT24Color.HCT14.6} 100%)",
+          "type": "color"
+        },
+        "180-210": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT13.6} 0%, {HCT24Color.HCT15.6} 100%)",
+          "type": "color"
+        },
+        "195-225": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT14.6} 0%, {HCT24Color.HCT16.6} 100%)",
+          "type": "color"
+        },
+        "210-240": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT15.6} 0%, {HCT24Color.HCT17.6} 100%)",
+          "type": "color"
+        },
+        "225-255": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT16.6} 0%, {HCT24Color.HCT18.6} 100%)",
+          "type": "color"
+        },
+        "240-270": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT17.6} 0%, {HCT24Color.HCT19.6} 100%)",
+          "type": "color"
+        },
+        "255-285": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT18.6} 0%, {HCT24Color.HCT20.6} 100%)",
+          "type": "color"
+        },
+        "270-300": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT19.6} 0%, {HCT24Color.HCT21.6} 100%)",
+          "type": "color"
+        },
+        "285-315": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT20.6} 0%, {HCT24Color.HCT22.6} 100%)",
+          "type": "color"
+        },
+        "300-330": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT21.6} 0%, {HCT24Color.HCT23.6} 100%)",
+          "type": "color"
+        },
+        "315-345": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT22.6} 0%, {HCT24Color.HCT24.6} 100%)",
+          "type": "color"
+        },
+        "330-primary": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT23.6} 0%, {HCT24Color.HCT1.6} 100%)",
+          "type": "color"
+        },
+        "345-15": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT24.6} 0%, {HCT24Color.HCT2.6} 100%)",
+          "type": "color"
+        }
+      },
+      "60Gradient": {
+        "primary-60": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT1.6} 0%, {HCT24Color.HCT5.6} 100%)",
+          "type": "color"
+        },
+        "15-75": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT2.6} 0%, {HCT24Color.HCT6.6} 100%)",
+          "type": "color"
+        },
+        "30-90": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT3.6} 0%, {HCT24Color.HCT7.6} 100%)",
+          "type": "color"
+        },
+        "45-105": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT4.6} 0%, {HCT24Color.HCT8.6} 100%)",
+          "type": "color"
+        },
+        "60-120": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT5.6} 0%, {HCT24Color.HCT9.6} 100%)",
+          "type": "color"
+        },
+        "75-135": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT6.6} 0%, {HCT24Color.HCT10.6} 100%)",
+          "type": "color"
+        },
+        "90-150": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT7.6} 0%, {HCT24Color.HCT11.6} 100%)",
+          "type": "color"
+        },
+        "105-165": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT8.6} 0%, {HCT24Color.HCT12.6} 100%)",
+          "type": "color"
+        },
+        "120-180": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT9.6} 0%, {HCT24Color.HCT13.6} 100%)",
+          "type": "color"
+        },
+        "135-195": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT10.6} 0%, {HCT24Color.HCT14.6} 100%)",
+          "type": "color"
+        },
+        "150-210": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT11.6} 0%, {HCT24Color.HCT15.6} 100%)",
+          "type": "color"
+        },
+        "165-225": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT12.6} 0%, {HCT24Color.HCT16.6} 100%)",
+          "type": "color"
+        },
+        "180-240": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT13.6} 0%, {HCT24Color.HCT17.6} 100%)",
+          "type": "color"
+        },
+        "195-255": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT14.6} 0%, {HCT24Color.HCT18.6} 100%)",
+          "type": "color"
+        },
+        "210-270": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT15.6} 0%, {HCT24Color.HCT19.6} 100%)",
+          "type": "color"
+        },
+        "225-285": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT16.6} 0%, {HCT24Color.HCT20.6} 100%)",
+          "type": "color"
+        },
+        "240-300": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT17.6} 0%, {HCT24Color.HCT21.6} 100%)",
+          "type": "color"
+        },
+        "255-315": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT18.6} 0%, {HCT24Color.HCT22.6} 100%)",
+          "type": "color"
+        },
+        "270-330": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT19.6} 0%, {HCT24Color.HCT23.6} 100%)",
+          "type": "color"
+        },
+        "285-345": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT20.6} 0%, {HCT24Color.HCT24.6} 100%)",
+          "type": "color"
+        },
+        "300-primary": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT21.6} 0%, {HCT24Color.HCT1.6} 100%)",
+          "type": "color"
+        },
+        "315-15": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT22.6} 0%, {HCT24Color.HCT2.6} 100%)",
+          "type": "color"
+        },
+        "330-30": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT23.6} 0%, {HCT24Color.HCT3.6} 100%)",
+          "type": "color"
+        },
+        "345-45": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT24.6} 0%, {HCT24Color.HCT4.6} 100%)",
+          "type": "color"
+        }
+      },
+      "90Gradient": {
+        "primary-90": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT1.6} 0%, {HCT24Color.HCT7.6} 100%)",
+          "type": "color"
+        },
+        "15-105": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT2.6} 0%, {HCT24Color.HCT8.6} 100%)",
+          "type": "color"
+        },
+        "30-120": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT3.6} 0%, {HCT24Color.HCT9.6} 100%)",
+          "type": "color"
+        },
+        "45-135": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT4.6} 0%, {HCT24Color.HCT10.6} 100%)",
+          "type": "color"
+        },
+        "60-150": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT5.6} 0%, {HCT24Color.HCT11.6} 100%)",
+          "type": "color"
+        },
+        "75-165": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT6.6} 0%, {HCT24Color.HCT12.6} 100%)",
+          "type": "color"
+        },
+        "90-180": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT7.6} 0%, {HCT24Color.HCT13.6} 100%)",
+          "type": "color"
+        },
+        "105-195": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT8.6} 0%, {HCT24Color.HCT14.6} 100%)",
+          "type": "color"
+        },
+        "120-210": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT9.6} 0%, {HCT24Color.HCT15.6} 100%)",
+          "type": "color"
+        },
+        "135-225": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT10.6} 0%, {HCT24Color.HCT16.6} 100%)",
+          "type": "color"
+        },
+        "150-240": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT11.6} 0%, {HCT24Color.HCT17.6} 100%)",
+          "type": "color"
+        },
+        "165-255": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT12.6} 0%, {HCT24Color.HCT18.6} 100%)",
+          "type": "color"
+        },
+        "180-270": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT13.6} 0%, {HCT24Color.HCT19.6} 100%)",
+          "type": "color"
+        },
+        "195-285": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT14.6} 0%, {HCT24Color.HCT20.6} 100%)",
+          "type": "color"
+        },
+        "210-300": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT15.6} 0%, {HCT24Color.HCT21.6} 100%)",
+          "type": "color"
+        },
+        "225-315": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT16.6} 0%, {HCT24Color.HCT22.6} 100%)",
+          "type": "color"
+        },
+        "240-330": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT17.6} 0%, {HCT24Color.HCT23.6} 100%)",
+          "type": "color"
+        },
+        "255-345": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT18.6} 0%, {HCT24Color.HCT24.6} 100%)",
+          "type": "color"
+        },
+        "270-primary": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT19.6} 0%, {HCT24Color.HCT1.6} 100%)",
+          "type": "color"
+        },
+        "285-15": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT20.6} 0%, {HCT24Color.HCT2.6} 100%)",
+          "type": "color"
+        },
+        "300-30": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT21.6} 0%, {HCT24Color.HCT3.6} 100%)",
+          "type": "color"
+        },
+        "315-45": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT22.6} 0%, {HCT24Color.HCT4.6} 100%)",
+          "type": "color"
+        },
+        "330-60": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT23.6} 0%, {HCT24Color.HCT5.6} 100%)",
+          "type": "color"
+        },
+        "345-75": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT24.6} 0%, {HCT24Color.HCT6.6} 100%)",
+          "type": "color"
+        }
       }
     }
   },
