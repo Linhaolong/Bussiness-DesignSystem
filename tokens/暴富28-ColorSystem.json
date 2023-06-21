@@ -2223,7 +2223,7 @@
   },
   "HCT24Color": {
     "HCTGradAngle": {
-      "value": "180",
+      "value": "0",
       "type": "asset"
     },
     "HCT24Color": {
@@ -3239,9 +3239,61 @@
   },
   "HCTColorSystem": {
     "HCTGradient": {
-      "HCT-1": {
-        "value": "linear-gradient({HCTGradAngle}, {Brand.primary.default} 0%, {ExtensionColors.30.default} 100%)",
-        "type": "color"
+      "primary": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT1.2} 0%, {HCT24Color.HCT1.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT1.4} 0%, {HCT24Color.HCT1.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT1.6} 0%, {HCT24Color.HCT1.8} 100%)",
+          "type": "color"
+        }
+      },
+      "15deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT2.2} 0%, {HCT24Color.HCT2.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT2.4} 0%, {HCT24Color.HCT2.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT2.6} 0%, {HCT24Color.HCT2.8} 100%)",
+          "type": "color"
+        }
+      },
+      "30deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT3.2} 0%, {HCT24Color.HCT3.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT3.4} 0%, {HCT24Color.HCT3.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT3.6} 0%, {HCT24Color.HCT3.8} 100%)",
+          "type": "color"
+        }
+      },
+      "45deg": {
+        "2-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT4.2} 0%, {HCT24Color.HCT4.6} 100%)",
+          "type": "color"
+        },
+        "4-6": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT4.4} 0%, {HCT24Color.HCT4.6} 100%)",
+          "type": "color"
+        },
+        "6-8": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT4.6} 0%, {HCT24Color.HCT4.8} 100%)",
+          "type": "color"
+        }
       }
     }
   },
