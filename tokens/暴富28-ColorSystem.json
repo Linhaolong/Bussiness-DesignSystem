@@ -2221,12 +2221,14 @@
       }
     }
   },
+  "HCT24Color": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "24_HUE",
       "24ColorRange",
-      "Gambling-ColorSystem"
+      "Gambling-ColorSystem",
+      "HCT24Color"
     ]
   }
 }
