@@ -3574,6 +3574,16 @@
           "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT24.6} 0%, {HCT24Color.HCT24.8} 100%)",
           "type": "color"
         }
+      },
+      "15Gradient": {
+        "primary-15": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT1.6} 0%, {HCT24Color.HCT2.6} 100%)",
+          "type": "color"
+        },
+        "15-30": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT2.6} 0%, {HCT24Color.HCT3.6} 100%)",
+          "type": "color"
+        }
       }
     }
   },
