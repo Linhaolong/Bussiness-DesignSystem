@@ -1239,11 +1239,11 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.primary.8",
+          "value": "$24ColorRange.primary.7",
           "type": "color"
         },
         "light": {
-          "value": "$24ColorRange.primary.1",
+          "value": "$24ColorRange.primary.2",
           "type": "color"
         },
         "grad-a-d": {
@@ -3408,6 +3408,10 @@
         }
       },
       "180deg": {
+        "2-4": {
+          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT13.2} 0%, {HCT24Color.HCT13.4} 100%)",
+          "type": "color"
+        },
         "2-6": {
           "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT13.2} 0%, {HCT24Color.HCT13.6} 100%)",
           "type": "color"
