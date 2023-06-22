@@ -1335,7 +1335,7 @@
     "ExtensionColors": {
       "15": {
         "light": {
-          "value": "$24ColorRange.ec1.1",
+          "value": "$24ColorRange.ec1.2",
           "type": "color"
         },
         "hover": {
@@ -1347,7 +1347,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec1.8",
+          "value": "$24ColorRange.ec1.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1369,7 +1369,7 @@
       },
       "30": {
         "light": {
-          "value": "$24ColorRange.ec2.1",
+          "value": "$24ColorRange.ec2.2",
           "type": "color"
         },
         "hover": {
@@ -1381,7 +1381,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec2.8",
+          "value": "$24ColorRange.ec2.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1403,7 +1403,7 @@
       },
       "45": {
         "light": {
-          "value": "$24ColorRange.ec3.1",
+          "value": "$24ColorRange.ec3.2",
           "type": "color"
         },
         "hover": {
@@ -1415,7 +1415,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec3.8",
+          "value": "$24ColorRange.ec3.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1437,7 +1437,7 @@
       },
       "60": {
         "light": {
-          "value": "$24ColorRange.ec4.1",
+          "value": "$24ColorRange.ec4.2",
           "type": "color"
         },
         "hover": {
@@ -1449,7 +1449,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec4.8",
+          "value": "$24ColorRange.ec4.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1471,7 +1471,7 @@
       },
       "75": {
         "light": {
-          "value": "$24ColorRange.ec5.1",
+          "value": "$24ColorRange.ec5.2",
           "type": "color"
         },
         "hover": {
@@ -1483,7 +1483,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec5.8",
+          "value": "$24ColorRange.ec5.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1505,7 +1505,7 @@
       },
       "90": {
         "light": {
-          "value": "$24ColorRange.ec6.1",
+          "value": "$24ColorRange.ec6.2",
           "type": "color"
         },
         "hover": {
@@ -1517,7 +1517,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec6.8",
+          "value": "$24ColorRange.ec6.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1539,7 +1539,7 @@
       },
       "105": {
         "light": {
-          "value": "$24ColorRange.ec7.1",
+          "value": "$24ColorRange.ec7.2",
           "type": "color"
         },
         "hover": {
@@ -1551,7 +1551,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec7.8",
+          "value": "$24ColorRange.ec7.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1573,7 +1573,7 @@
       },
       "120": {
         "light": {
-          "value": "$24ColorRange.ec8.1",
+          "value": "$24ColorRange.ec8.2",
           "type": "color"
         },
         "hover": {
@@ -1585,7 +1585,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec8.8",
+          "value": "$24ColorRange.ec8.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1607,7 +1607,7 @@
       },
       "135": {
         "light": {
-          "value": "$24ColorRange.ec9.1",
+          "value": "$24ColorRange.ec9.2",
           "type": "color"
         },
         "hover": {
@@ -1619,7 +1619,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec9.8",
+          "value": "$24ColorRange.ec9.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1641,7 +1641,7 @@
       },
       "150": {
         "light": {
-          "value": "$24ColorRange.ec10.1",
+          "value": "$24ColorRange.ec10.2",
           "type": "color"
         },
         "hover": {
@@ -1653,7 +1653,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec10.8",
+          "value": "$24ColorRange.ec10.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1675,7 +1675,7 @@
       },
       "165": {
         "light": {
-          "value": "$24ColorRange.ec11.1",
+          "value": "$24ColorRange.ec11.2",
           "type": "color"
         },
         "hover": {
@@ -1687,7 +1687,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec11.8",
+          "value": "$24ColorRange.ec11.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1709,7 +1709,7 @@
       },
       "180": {
         "light": {
-          "value": "$24ColorRange.ec12.1",
+          "value": "$24ColorRange.ec12.2",
           "type": "color"
         },
         "hover": {
@@ -1721,7 +1721,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec12.8",
+          "value": "$24ColorRange.ec12.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1743,7 +1743,7 @@
       },
       "195": {
         "light": {
-          "value": "$24ColorRange.ec13.1",
+          "value": "$24ColorRange.ec13.2",
           "type": "color"
         },
         "hover": {
@@ -1755,7 +1755,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec13.8",
+          "value": "$24ColorRange.ec13.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1777,7 +1777,7 @@
       },
       "210": {
         "light": {
-          "value": "$24ColorRange.ec14.1",
+          "value": "$24ColorRange.ec14.2",
           "type": "color"
         },
         "hover": {
@@ -1789,7 +1789,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec14.8",
+          "value": "$24ColorRange.ec14.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1811,7 +1811,7 @@
       },
       "225": {
         "light": {
-          "value": "$24ColorRange.ec15.1",
+          "value": "$24ColorRange.ec15.2",
           "type": "color"
         },
         "hover": {
@@ -1823,7 +1823,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec15.8",
+          "value": "$24ColorRange.ec15.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1845,7 +1845,7 @@
       },
       "240": {
         "light": {
-          "value": "$24ColorRange.ec16.1",
+          "value": "$24ColorRange.ec16.2",
           "type": "color"
         },
         "hover": {
@@ -1857,7 +1857,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec16.8",
+          "value": "$24ColorRange.ec16.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1879,7 +1879,7 @@
       },
       "255": {
         "light": {
-          "value": "$24ColorRange.ec17.1",
+          "value": "$24ColorRange.ec17.2",
           "type": "color"
         },
         "hover": {
@@ -1891,7 +1891,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec17.8",
+          "value": "$24ColorRange.ec17.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1913,7 +1913,7 @@
       },
       "270": {
         "light": {
-          "value": "$24ColorRange.ec18.1",
+          "value": "$24ColorRange.ec18.2",
           "type": "color"
         },
         "hover": {
@@ -1925,7 +1925,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec18.8",
+          "value": "$24ColorRange.ec18.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1947,7 +1947,7 @@
       },
       "285": {
         "light": {
-          "value": "$24ColorRange.ec19.1",
+          "value": "$24ColorRange.ec19.2",
           "type": "color"
         },
         "hover": {
@@ -1959,7 +1959,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec19.8",
+          "value": "$24ColorRange.ec19.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -1981,7 +1981,7 @@
       },
       "300": {
         "light": {
-          "value": "$24ColorRange.ec20.1",
+          "value": "$24ColorRange.ec20.2",
           "type": "color"
         },
         "hover": {
@@ -1993,7 +1993,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec20.8",
+          "value": "$24ColorRange.ec20.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -2015,7 +2015,7 @@
       },
       "315": {
         "light": {
-          "value": "$24ColorRange.ec21.1",
+          "value": "$24ColorRange.ec21.2",
           "type": "color"
         },
         "hover": {
@@ -2027,7 +2027,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec21.8",
+          "value": "$24ColorRange.ec21.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -2049,7 +2049,7 @@
       },
       "330": {
         "light": {
-          "value": "$24ColorRange.ec22.1",
+          "value": "$24ColorRange.ec22.2",
           "type": "color"
         },
         "hover": {
@@ -2061,7 +2061,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec22.8",
+          "value": "$24ColorRange.ec22.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -2083,7 +2083,7 @@
       },
       "345": {
         "light": {
-          "value": "$24ColorRange.ec23.1",
+          "value": "$24ColorRange.ec23.2",
           "type": "color"
         },
         "hover": {
@@ -2095,7 +2095,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec23.8",
+          "value": "$24ColorRange.ec23.7",
           "type": "color"
         },
         "grad-line-a-d": {
@@ -2119,6 +2119,104 @@
     "Border-grad": {
       "grad-Light": {
         "value": "linear-gradient({LineGradDeg.borderLight}, #ffffff 0%, rgba(255,255,255,0) 50%)",
+        "type": "color"
+      }
+    },
+    "Extension15Grad": {
+      "primary-15": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {ExtensionColors.15.default} 100%)",
+        "type": "color"
+      },
+      "15-30": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.15.default} 0%, {ExtensionColors.30.default} 100%)",
+        "type": "color"
+      },
+      "30-45": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.30.default} 0%, {ExtensionColors.45.default} 100%)",
+        "type": "color"
+      },
+      "45-60": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.45.default} 0%, {ExtensionColors.60.default} 100%)",
+        "type": "color"
+      },
+      "60-75": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.60.default} 0%, {ExtensionColors.75.default} 100%)",
+        "type": "color"
+      },
+      "75-90": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.75.default} 0%, {ExtensionColors.90.default} 100%)",
+        "type": "color"
+      },
+      "90-105": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.90.default} 0%, {ExtensionColors.105.default} 100%)",
+        "type": "color"
+      },
+      "105-120": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.105.default} 0%, {ExtensionColors.120.default} 100%)",
+        "type": "color"
+      },
+      "120-135": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.120.default} 0%, {ExtensionColors.135.default} 100%)",
+        "type": "color"
+      },
+      "135-150": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.135.default} 0%, {ExtensionColors.150.default} 100%)",
+        "type": "color"
+      },
+      "150-165": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.150.default} 0%, {ExtensionColors.165.default} 100%)",
+        "type": "color"
+      },
+      "165-180": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.165.default} 0%, {ExtensionColors.180.default} 100%)",
+        "type": "color"
+      },
+      "180-195": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.default} 0%, {ExtensionColors.195.default} 100%)",
+        "type": "color"
+      },
+      "195-210": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.195.default} 0%, {ExtensionColors.210.default} 100%)",
+        "type": "color"
+      },
+      "210-225": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.210.default} 0%, {ExtensionColors.225.default} 100%)",
+        "type": "color"
+      },
+      "225-240": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.225.default} 0%, {ExtensionColors.240.default} 100%)",
+        "type": "color"
+      },
+      "240-255": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.240.default} 0%, {ExtensionColors.255.default} 100%)",
+        "type": "color"
+      },
+      "255-270": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.255.default} 0%, {ExtensionColors.270.default} 100%)",
+        "type": "color"
+      },
+      "270-285": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.270.default} 0%, {ExtensionColors.285.default} 100%)",
+        "type": "color"
+      },
+      "285-300": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.285.default} 0%, {ExtensionColors.300.default} 100%)",
+        "type": "color"
+      },
+      "300-315": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.300.default} 0%, {ExtensionColors.315.default} 100%)",
+        "type": "color"
+      },
+      "315-330": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.315.default} 0%, {ExtensionColors.330.default} 100%)",
+        "type": "color"
+      },
+      "330-345": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.330.default} 0%, {ExtensionColors.345.default} 100%)",
+        "type": "color"
+      },
+      "345-primary": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.345.default} 0%, {Brand.primary.default} 100%)",
         "type": "color"
       }
     },
@@ -2217,6 +2315,202 @@
       },
       "345-15": {
         "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.345.default} 0%, {ExtensionColors.15.default} 100%)",
+        "type": "color"
+      }
+    },
+    "Extension60Grad": {
+      "primary-60": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {ExtensionColors.60.default} 100%)",
+        "type": "color"
+      },
+      "15-75": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.15.default} 0%, {ExtensionColors.75.default} 100%)",
+        "type": "color"
+      },
+      "30-90": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.30.default} 0%, {ExtensionColors.90.default} 100%)",
+        "type": "color"
+      },
+      "45-105": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.45.default} 0%, {ExtensionColors.105.default} 100%)",
+        "type": "color"
+      },
+      "60-120": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.60.default} 0%, {ExtensionColors.120.default} 100%)",
+        "type": "color"
+      },
+      "75-135": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.75.default} 0%, {ExtensionColors.135.default} 100%)",
+        "type": "color"
+      },
+      "90-150": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.90.default} 0%, {ExtensionColors.150.default} 100%)",
+        "type": "color"
+      },
+      "105-165": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.105.default} 0%, {ExtensionColors.165.default} 100%)",
+        "type": "color"
+      },
+      "120-180": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.120.default} 0%, {ExtensionColors.180.default} 100%)",
+        "type": "color"
+      },
+      "135-195": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.135.default} 0%, {ExtensionColors.195.default} 100%)",
+        "type": "color"
+      },
+      "150-210": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.150.default} 0%, {ExtensionColors.210.default} 100%)",
+        "type": "color"
+      },
+      "165-225": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.165.default} 0%, {ExtensionColors.225.default} 100%)",
+        "type": "color"
+      },
+      "180-240": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.default} 0%, {ExtensionColors.240.default} 100%)",
+        "type": "color"
+      },
+      "195-255": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.195.default} 0%, {ExtensionColors.255.default} 100%)",
+        "type": "color"
+      },
+      "210-270": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.210.default} 0%, {ExtensionColors.270.default} 100%)",
+        "type": "color"
+      },
+      "225-285": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.225.default} 0%, {ExtensionColors.285.default} 100%)",
+        "type": "color"
+      },
+      "240-300": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.240.default} 0%, {ExtensionColors.300.default} 100%)",
+        "type": "color"
+      },
+      "255-315": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.255.default} 0%, {ExtensionColors.315.default} 100%)",
+        "type": "color"
+      },
+      "270-330": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.270.default} 0%, {ExtensionColors.330.default} 100%)",
+        "type": "color"
+      },
+      "285-345": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.285.default} 0%, {ExtensionColors.345.default} 100%)",
+        "type": "color"
+      },
+      "300-primary": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.300.default} 0%, {Brand.primary.default} 100%)",
+        "type": "color"
+      },
+      "315-15": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.315.default} 0%, {ExtensionColors.15.default} 100%)",
+        "type": "color"
+      },
+      "330-30": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.330.default} 0%, {ExtensionColors.30.default} 100%)",
+        "type": "color"
+      },
+      "345-45": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.345.default} 0%, {ExtensionColors.45.default} 100%)",
+        "type": "color"
+      }
+    },
+    "Extension90Grad": {
+      "primary-90": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {ExtensionColors.90.default} 100%)",
+        "type": "color"
+      },
+      "15-105": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.15.default} 0%, {ExtensionColors.105.default} 100%)",
+        "type": "color"
+      },
+      "30-120": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.30.default} 0%, {ExtensionColors.120.default} 100%)",
+        "type": "color"
+      },
+      "45-135": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.45.default} 0%, {ExtensionColors.135.default} 100%)",
+        "type": "color"
+      },
+      "60-150": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.60.default} 0%, {ExtensionColors.150.default} 100%)",
+        "type": "color"
+      },
+      "75-165": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.75.default} 0%, {ExtensionColors.165.default} 100%)",
+        "type": "color"
+      },
+      "90-180": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.90.default} 0%, {ExtensionColors.180.default} 100%)",
+        "type": "color"
+      },
+      "105-195": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.105.default} 0%, {ExtensionColors.195.default} 100%)",
+        "type": "color"
+      },
+      "120-210": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.120.default} 0%, {ExtensionColors.210.default} 100%)",
+        "type": "color"
+      },
+      "135-225": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.135.default} 0%, {ExtensionColors.225.default} 100%)",
+        "type": "color"
+      },
+      "150-240": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.150.default} 0%, {ExtensionColors.240.default} 100%)",
+        "type": "color"
+      },
+      "165-255": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.165.default} 0%, {ExtensionColors.255.default} 100%)",
+        "type": "color"
+      },
+      "180-270": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.default} 0%, {ExtensionColors.270.default} 100%)",
+        "type": "color"
+      },
+      "195-285": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.195.default} 0%, {ExtensionColors.285.default} 100%)",
+        "type": "color"
+      },
+      "210-300": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.210.default} 0%, {ExtensionColors.300.default} 100%)",
+        "type": "color"
+      },
+      "225-315": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.225.default} 0%, {ExtensionColors.315.default} 100%)",
+        "type": "color"
+      },
+      "240-330": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.240.default} 0%, {ExtensionColors.330.default} 100%)",
+        "type": "color"
+      },
+      "255-345": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.255.default} 0%, {ExtensionColors.345.default} 100%)",
+        "type": "color"
+      },
+      "270-primary": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.270.default} 0%, {Brand.primary.default} 100%)",
+        "type": "color"
+      },
+      "285-15": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.285.default} 0%, {ExtensionColors.15.default} 100%)",
+        "type": "color"
+      },
+      "300-30": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.300.default} 0%, {ExtensionColors.30.default} 100%)",
+        "type": "color"
+      },
+      "315-45": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.315.default} 0%, {ExtensionColors.45.default} 100%)",
+        "type": "color"
+      },
+      "330-60": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.330.default} 0%, {ExtensionColors.60.default} 100%)",
+        "type": "color"
+      },
+      "345-75": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.345.default} 0%, {ExtensionColors.75.default} 100%)",
         "type": "color"
       }
     }
