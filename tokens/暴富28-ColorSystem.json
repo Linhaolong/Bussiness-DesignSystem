@@ -3713,10 +3713,6 @@
         "4-6": {
           "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT13.4} 0%, {HCT24Color.HCT13.6} 100%)",
           "type": "color"
-        },
-        "6-8": {
-          "value": "linear-gradient({HCTGradAngle}, {HCT24Color.HCT13.6} 0%, {HCT24Color.HCT13.8} 100%)",
-          "type": "color"
         }
       },
       "195deg": {
