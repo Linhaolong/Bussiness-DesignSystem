@@ -219,19 +219,19 @@
     "Brand-colorSystem": {
       "primary": {
         "light": {
-          "value": "$24ColorRange.primary.{color-Light}",
+          "value": "{24ColorRange.primary.{color-Light}}",
           "type": "color"
         },
         "hover": {
-          "value": "$24ColorRange.primary.{color-Hover}",
+          "value": "{24ColorRange.primary.{color-Hover}}",
           "type": "color"
         },
         "default": {
-          "value": "$24ColorRange.primary.{color-Default}",
+          "value": "{24ColorRange.primary.{color-Default}}",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.primary.{color-Active}",
+          "value": "{24ColorRange.primary.{color-Active}}",
           "type": "color"
         },
         "grad-a-d": {
