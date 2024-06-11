@@ -219,44 +219,54 @@
     "24ColorRange": {
       "primary": {
         "1": {
-          "value": "#ecf3fd",
-          "type": "color"
+          "value": "#e7ecfe",
+          "type": "color",
+          "oldValue": "#ecf3fd"
         },
         "2": {
-          "value": "#d2e3fb",
-          "type": "color"
+          "value": "#c5d2fb",
+          "type": "color",
+          "oldValue": "#d2e3fb"
         },
         "3": {
-          "value": "#afcdf8",
-          "type": "color"
+          "value": "#98aff9",
+          "type": "color",
+          "oldValue": "#afcdf8"
         },
         "4": {
-          "value": "#89b6f4",
-          "type": "color"
+          "value": "#6889f6",
+          "type": "color",
+          "oldValue": "#89b6f4"
         },
         "5": {
-          "value": "#66a0f1",
-          "type": "color"
+          "value": "#3a66f3",
+          "type": "color",
+          "oldValue": "#66a0f1"
         },
         "6": {
-          "value": "#448bee",
-          "type": "color"
+          "value": "#0f44f0",
+          "type": "color",
+          "oldValue": "#448bee"
         },
         "7": {
-          "value": "#3a76ca",
-          "type": "color"
+          "value": "#0d3acc",
+          "type": "color",
+          "oldValue": "#3a76ca"
         },
         "8": {
-          "value": "#3063a9",
-          "type": "color"
+          "value": "#0b30aa",
+          "type": "color",
+          "oldValue": "#3063a9"
         },
         "9": {
-          "value": "#274f88",
-          "type": "color"
+          "value": "#092789",
+          "type": "color",
+          "oldValue": "#274f88"
         },
         "10": {
-          "value": "#1f3f6b",
-          "type": "color"
+          "value": "#071f6c",
+          "type": "color",
+          "oldValue": "#1f3f6b"
         }
       },
       "15deg": {
