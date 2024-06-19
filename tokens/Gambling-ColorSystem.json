@@ -391,19 +391,19 @@
     "24Color-Gradient": {
       "0deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGrad.default}, {24ColorRange.primary.{color-Active}} 0%, {24ColorRange.primary.{color-Default}} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Active}} 0%, {24ColorRange.0deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGrad.default}, {24ColorRange.primary.{color-Default}} 0%, {24ColorRange.primary.{color-Hover}} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGrad.default}, {24ColorRange.primary.{color-Hover}} 0%, {24ColorRange.primary.{color-Light}} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Hover}} 0%, {24ColorRange.0deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGrad.default}, {24ColorRange.primary.{color-Light}} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -824,7 +824,7 @@
     },
     "Extension-15Grad": {
       "primary-15": {
-        "value": "linear-gradient({LineGrad.default}, {24ColorRange.primary.{color-Default}} 0%, {24ColorRange.15deg.{color-Hover}} 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.15deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "15-30": {
@@ -916,13 +916,13 @@
         "type": "color"
       },
       "345-primary": {
-        "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Default}} 0%, {24ColorRange.primary.{color-Hover}} 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Hover}} 100%)",
         "type": "color"
       }
     },
     "Extension-30Grad": {
       "primary-30": {
-        "value": "linear-gradient({LineGrad.default}, {24ColorRange.primary.{color-Default}} 0%, {24ColorRange.30deg.{color-Default}} 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.30deg.{color-Default}} 100%)",
         "type": "color"
       },
       "15-45": {
@@ -1010,7 +1010,7 @@
         "type": "color"
       },
       "330-primary": {
-        "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Default}} 0%, {24ColorRange.primary.{color-Default}} 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Default}} 100%)",
         "type": "color"
       },
       "345-15": {
@@ -1020,7 +1020,7 @@
     },
     "Extension-60Grad": {
       "primary-60": {
-        "value": "linear-gradient({LineGrad.default}, {24ColorRange.primary.{color-Default}} 0%, {24ColorRange.60deg.{color-Default}} 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.60deg.{color-Default}} 100%)",
         "type": "color"
       },
       "15-75": {
@@ -1100,7 +1100,7 @@
         "type": "color"
       },
       "300-primary": {
-        "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Default}} 0%, {24ColorRange.primary.{color-Default}} 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Default}} 100%)",
         "type": "color"
       },
       "315-15": {
@@ -1118,7 +1118,7 @@
     },
     "Extension-90Grad": {
       "primary-90": {
-        "value": "linear-gradient({LineGrad.default}, {24ColorRange.primary.{color-Default}} 0%, {24ColorRange.90deg.{color-Hover}} 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.90deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "15-105": {
@@ -1190,7 +1190,7 @@
         "type": "color"
       },
       "270-primary": {
-        "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Default}} 0%, {24ColorRange.primary.{color-Hover}} 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "285-15": {
@@ -1253,7 +1253,7 @@
       "type": "other"
     },
     "24ColorRange": {
-      "primary": {
+      "0deg": {
         "1": {
           "value": "#e7ecfe",
           "type": "color"
