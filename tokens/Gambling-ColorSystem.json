@@ -2267,8 +2267,8 @@
       "type": "other"
     }
   },
-  "Function Color": {
-    "Function-Color-Range": {
+  "FunctionColor": {
+    "Function-ColorRange": {
       "s-rangle": {
         "1": {
           "value": "#ebf7ed",
@@ -2436,6 +2436,78 @@
           "value": "#701a0e",
           "type": "color"
         }
+      }
+    },
+    "Success": {
+      "light": {
+        "value": "{Function-ColorRange.s-rangle.{color-Light}}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{Function-ColorRange.s-rangle.{color-Hover}}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{Function-ColorRange.s-rangle.{color-Default}}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{Function-ColorRange.s-rangle.{color-Active}}",
+        "type": "color"
+      }
+    },
+    "Link": {
+      "light": {
+        "value": "{Function-ColorRange.l-rangle.{color-Light}}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{Function-ColorRange.l-rangle.{color-Hover}}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{Function-ColorRange.l-rangle.{color-Default}}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{Function-ColorRange.l-rangle.{color-Active}}",
+        "type": "color"
+      }
+    },
+    "Wraning": {
+      "light": {
+        "value": "{Function-ColorRange.w-rangle.{color-Light}}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{Function-ColorRange.w-rangle.{color-Hover}}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{Function-ColorRange.w-rangle.{color-Default}}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{Function-ColorRange.w-rangle.{color-Active}}",
+        "type": "color"
+      }
+    },
+    "Wrong": {
+      "light": {
+        "value": "{Function-ColorRange.wro-rangle.{color-Light}}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{Function-ColorRange.wro-rangle.{color-Hover}}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{Function-ColorRange.wro-rangle.{color-Default}}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{Function-ColorRange.wro-rangle.{color-Active}}",
+        "type": "color"
       }
     }
   },
@@ -4192,7 +4264,7 @@
     "tokenSetOrder": [
       "24_HUE",
       "24ColorRange",
-      "Function Color",
+      "FunctionColor",
       "HCT24Color",
       "HCTColorSystem"
     ]
