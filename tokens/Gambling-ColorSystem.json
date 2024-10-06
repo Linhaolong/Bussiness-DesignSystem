@@ -2267,6 +2267,7 @@
       "type": "other"
     }
   },
+  "Function Color": {},
   "HCT24Color": {
     "HCTGradAngle": {
       "value": "0",
@@ -4020,6 +4021,7 @@
     "tokenSetOrder": [
       "24_HUE",
       "24ColorRange",
+      "Function Color",
       "HCT24Color",
       "HCTColorSystem"
     ]
