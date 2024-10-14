@@ -216,7 +216,19 @@
     },
     "ORISecondaryColor": {
       "s1": {
-        "value": "24Color.{color-sec1}",
+        "value": "{24Color.{color-sec1}}",
+        "type": "color"
+      },
+      "s2": {
+        "value": "{24Color.{color-sec2}}",
+        "type": "color"
+      },
+      "s3": {
+        "value": "{24Color.{color-sec3}}",
+        "type": "color"
+      },
+      "s4": {
+        "value": "{24Color.{color-sec4}}",
         "type": "color"
       }
     }
