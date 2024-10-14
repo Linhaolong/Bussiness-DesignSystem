@@ -107,95 +107,95 @@
       }
     },
     "24Color": {
-      "15": {
+      "15deg": {
         "value": "hsl({HSL.H15}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "30": {
+      "30deg": {
         "value": "hsl({HSL.H30}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "45": {
+      "45deg": {
         "value": "hsl({HSL.H45}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "60": {
+      "60deg": {
         "value": "hsl({HSL.H60}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "75": {
+      "75deg": {
         "value": "hsl({HSL.H75}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "90": {
+      "90deg": {
         "value": "hsl({HSL.H90}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "105": {
+      "105deg": {
         "value": "hsl({HSL.H105}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "120": {
+      "120deg": {
         "value": "hsl({HSL.H120}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "135": {
+      "135deg": {
         "value": "hsl({HSL.H135}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "150": {
+      "150deg": {
         "value": "hsl({HSL.H150}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "165": {
+      "165deg": {
         "value": "hsl({HSL.H165}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "180": {
+      "180deg": {
         "value": "hsl({HSL.H180}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "195": {
+      "195deg": {
         "value": "hsl({HSL.H195}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "210": {
+      "210deg": {
         "value": "hsl({HSL.H210}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "225": {
+      "225deg": {
         "value": "hsl({HSL.H225}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "240": {
+      "240deg": {
         "value": "hsl({HSL.H240}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "255": {
+      "255deg": {
         "value": "hsl({HSL.H255}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "270": {
+      "270deg": {
         "value": "hsl({HSL.H270}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "285": {
+      "285deg": {
         "value": "hsl({HSL.H285}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "300": {
+      "300deg": {
         "value": "hsl({HSL.H300}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "315": {
+      "315deg": {
         "value": "hsl({HSL.H315}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "330": {
+      "330deg": {
         "value": "hsl({HSL.H330}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
-      "345": {
+      "345deg": {
         "value": "hsl({HSL.H345}, {HSL.S}, {HSL.L})",
         "type": "color"
       },
@@ -212,6 +212,12 @@
       "borderLight": {
         "value": "180deg",
         "type": "other"
+      }
+    },
+    "ORISecondaryColor": {
+      "s1": {
+        "value": "24Color.{color-sec1}",
+        "type": "color"
       }
     }
   },
