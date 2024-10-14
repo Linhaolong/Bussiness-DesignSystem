@@ -1255,19 +1255,19 @@
       "type": "other"
     },
     "color-sec1": {
-      "value": "135deg",
+      "value": "30deg",
       "type": "other"
     },
     "color-sec2": {
-      "value": "165deg",
+      "value": "60deg",
       "type": "other"
     },
     "color-sec3": {
-      "value": "195deg",
+      "value": "165deg",
       "type": "other"
     },
     "color-sec4": {
-      "value": "330deg",
+      "value": "300deg",
       "type": "other"
     },
     "24ColorRange": {
