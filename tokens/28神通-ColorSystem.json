@@ -231,6 +231,42 @@
         "value": "{24Color.{color-sec4}}",
         "type": "color"
       }
+    },
+    "color-Light": {
+      "value": "1",
+      "type": "other"
+    },
+    "color-Hover": {
+      "value": "4",
+      "type": "other"
+    },
+    "color-Default": {
+      "value": "6",
+      "type": "other"
+    },
+    "color-Active": {
+      "value": "8",
+      "type": "other"
+    },
+    "color-sec1": {
+      "value": "30deg",
+      "type": "other"
+    },
+    "color-sec2": {
+      "value": "165deg",
+      "type": "other"
+    },
+    "color-sec3": {
+      "value": "300deg",
+      "type": "other"
+    },
+    "color-sec4": {
+      "value": "330deg",
+      "type": "other"
+    },
+    "color-pri": {
+      "value": "0deg",
+      "type": "other"
     }
   },
   "24ColorRange": {
@@ -1237,38 +1273,6 @@
         "value": "linear-gradient({LineGrad.borderLight}, #ffffff 0%, rgba(255,255,255,0) 50%)",
         "type": "color"
       }
-    },
-    "color-Light": {
-      "value": "1",
-      "type": "other"
-    },
-    "color-Hover": {
-      "value": "4",
-      "type": "other"
-    },
-    "color-Default": {
-      "value": "6",
-      "type": "other"
-    },
-    "color-Active": {
-      "value": "8",
-      "type": "other"
-    },
-    "color-sec1": {
-      "value": "30deg",
-      "type": "other"
-    },
-    "color-sec2": {
-      "value": "165deg",
-      "type": "other"
-    },
-    "color-sec3": {
-      "value": "300deg",
-      "type": "other"
-    },
-    "color-sec4": {
-      "value": "330deg",
-      "type": "other"
     },
     "24ColorRange": {
       "0deg": {
@@ -2279,10 +2283,6 @@
           "type": "color"
         }
       }
-    },
-    "color-pri": {
-      "value": "0deg",
-      "type": "other"
     }
   },
   "FunctionColor": {
