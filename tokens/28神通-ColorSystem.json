@@ -1781,43 +1781,43 @@
       },
       "180deg": {
         "1": {
-          "value": "#fff6e9",
+          "value": "#fef5e6",
           "type": "color"
         },
         "2": {
-          "value": "#ffeac9",
+          "value": "#fde7c4",
           "type": "color"
         },
         "3": {
-          "value": "#ffda9f",
+          "value": "#fcd495",
           "type": "color"
         },
         "4": {
-          "value": "#ffc972",
+          "value": "#fac063",
           "type": "color"
         },
         "5": {
-          "value": "#ffb847",
+          "value": "#f8ad34",
           "type": "color"
         },
         "6": {
-          "value": "#ffa91f",
+          "value": "#f79b08",
           "type": "color"
         },
         "7": {
-          "value": "#d9901a",
+          "value": "#d28407",
           "type": "color"
         },
         "8": {
-          "value": "#b57816",
+          "value": "#af6e06",
           "type": "color"
         },
         "9": {
-          "value": "#916012",
+          "value": "#8d5805",
           "type": "color"
         },
         "10": {
-          "value": "#734c0e",
+          "value": "#6f4604",
           "type": "color"
         }
       },
