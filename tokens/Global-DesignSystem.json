@@ -4259,6 +4259,7 @@
       }
     }
   },
+  "DeisgnSystem": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -4266,7 +4267,8 @@
       "24ColorRange",
       "FunctionColor",
       "HCT24Color",
-      "HCTColorSystem"
+      "HCTColorSystem",
+      "DeisgnSystem"
     ]
   }
 }
