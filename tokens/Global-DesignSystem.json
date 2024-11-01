@@ -231,11 +231,11 @@
       "type": "other"
     },
     "color-sec1": {
-      "value": "165deg",
+      "value": "30deg",
       "type": "other"
     },
     "color-sec2": {
-      "value": "30deg",
+      "value": "165deg",
       "type": "other"
     },
     "color-sec3": {
@@ -255,171 +255,171 @@
     "Brand-colorSystem": {
       "primary": {
         "light": {
-          "value": "#fef3e7",
+          "value": "{24ColorRange.{color-pri}.{color-Light}}",
           "type": "color"
         },
         "hover": {
-          "value": "#f6b168",
+          "value": "{24ColorRange.{color-pri}.{color-Hover}}",
           "type": "color"
         },
         "default": {
-          "value": "#f0830f",
+          "value": "{24ColorRange.{color-pri}.{color-Default}}",
           "type": "color"
         },
         "active": {
-          "value": "#aa5d0b",
+          "value": "{24ColorRange.{color-pri}.{color-Active}}",
           "type": "color"
         },
         "grad-a-d": {
-          "value": "linear-gradient(180deg, #aa5d0b 0%, #f0830f 100%)",
+          "value": "{24Color-Gradient.{color-pri}.grad-line-a-d}",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f0830f 0%, #f6b168 100%)",
+          "value": "{24Color-Gradient.{color-pri}.grad-line-d-h}",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f6b168 0%, #fef3e7 100%)",
+          "value": "{24Color-Gradient.{color-pri}.grad-line-h-l}",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fef3e7 0%, #ffffff 100%)",
+          "value": "{24Color-Gradient.{color-pri}.grad-line-l-white}",
           "type": "color"
         }
       },
       "s1": {
         "light": {
-          "value": "#fee7e7",
+          "value": "{24ColorRange.{color-sec1}.{color-Light}}",
           "type": "color"
         },
         "hover": {
-          "value": "#f66a68",
+          "value": "{24ColorRange.{color-sec1}.{color-Hover}}",
           "type": "color"
         },
         "default": {
-          "value": "#f0130f",
+          "value": "{24ColorRange.{color-sec1}.{color-Default}}",
           "type": "color"
         },
         "active": {
-          "value": "#aa0d0b",
+          "value": "{24ColorRange.{color-sec1}.{color-Active}}",
           "type": "color"
         },
         "grad-a-d": {
-          "value": "linear-gradient(180deg, #aa0d0b 0%, #f0130f 100%)",
+          "value": "{24Color-Gradient.{color-sec1}.grad-line-a-d}",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f0130f 0%, #f66a68 100%)",
+          "value": "{24Color-Gradient.{color-sec1}.grad-line-d-h}",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f66a68 0%, #fee7e7 100%)",
+          "value": "{24Color-Gradient.{color-sec1}.grad-line-h-l}",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fee7e7 0%, #ffffff 100%)",
+          "value": "{24Color-Gradient.{color-sec1}.grad-line-l-white}",
           "type": "color"
         }
       },
       "s2": {
         "light": {
-          "value": "#feede7",
+          "value": "{24ColorRange.{color-sec2}.{color-Light}}",
           "type": "color"
         },
         "hover": {
-          "value": "#f68e68",
+          "value": "{24ColorRange.{color-sec2}.{color-Hover}}",
           "type": "color"
         },
         "default": {
-          "value": "#f04b0f",
+          "value": "{24ColorRange.{color-sec2}.{color-Default}}",
           "type": "color"
         },
         "active": {
-          "value": "#aa350b",
+          "value": "{24ColorRange.{color-sec2}.{color-Active}}",
           "type": "color"
         },
         "grad-a-d": {
-          "value": "linear-gradient(180deg, #aa350b 0%, #f04b0f 100%)",
+          "value": "{24Color-Gradient.{color-sec2}.grad-line-a-d}",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f04b0f 0%, #f68e68 100%)",
+          "value": "{24Color-Gradient.{color-sec2}.grad-line-d-h}",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f68e68 0%, #feede7 100%)",
+          "value": "{24Color-Gradient.{color-sec2}.grad-line-h-l}",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #feede7 0%, #ffffff 100%)",
+          "value": "{24Color-Gradient.{color-sec2}.grad-line-l-white}",
           "type": "color"
         }
       },
       "s3": {
         "light": {
-          "value": "#fef3e7",
+          "value": "{24ColorRange.{color-sec3}.{color-Light}}",
           "type": "color"
         },
         "hover": {
-          "value": "#f6b168",
+          "value": "{24ColorRange.{color-sec3}.{color-Hover}}",
           "type": "color"
         },
         "default": {
-          "value": "#f0830f",
+          "value": "{24ColorRange.{color-sec3}.{color-Default}}",
           "type": "color"
         },
         "active": {
-          "value": "#aa5d0b",
+          "value": "{24ColorRange.{color-sec3}.{color-Active}}",
           "type": "color"
         },
         "grad-a-d": {
-          "value": "linear-gradient(180deg, #aa5d0b 0%, #f0830f 100%)",
+          "value": "{24Color-Gradient.{color-sec3}.grad-line-a-d}",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f0830f 0%, #f6b168 100%)",
+          "value": "{24Color-Gradient.{color-sec3}.grad-line-d-h}",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f6b168 0%, #fef3e7 100%)",
+          "value": "{24Color-Gradient.{color-sec3}.grad-line-h-l}",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fef3e7 0%, #ffffff 100%)",
+          "value": "{24Color-Gradient.{color-sec3}.grad-line-l-white}",
           "type": "color"
         }
       },
       "s4": {
         "light": {
-          "value": "#e7fdfe",
+          "value": "{24ColorRange.{color-sec4}.{color-Light}}",
           "type": "color"
         },
         "hover": {
-          "value": "#68f3f6",
+          "value": "{24ColorRange.{color-sec4}.{color-Hover}}",
           "type": "color"
         },
         "default": {
-          "value": "#0fecf0",
+          "value": "{24ColorRange.{color-sec4}.{color-Default}}",
           "type": "color"
         },
         "active": {
-          "value": "#0ba8aa",
+          "value": "{24ColorRange.{color-sec4}.{color-Active}}",
           "type": "color"
         },
         "grad-a-d": {
-          "value": "linear-gradient(180deg, #0ba8aa 0%, #0fecf0 100%)",
+          "value": "{24Color-Gradient.{color-sec4}.grad-line-a-d}",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0fecf0 0%, #68f3f6 100%)",
+          "value": "{24Color-Gradient.{color-sec4}.grad-line-d-h}",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #68f3f6 0%, #e7fdfe 100%)",
+          "value": "{24Color-Gradient.{color-sec4}.grad-line-h-l}",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7fdfe 0%, #ffffff 100%)",
+          "value": "{24Color-Gradient.{color-sec4}.grad-line-l-white}",
           "type": "color"
         }
       }
@@ -427,1841 +427,1841 @@
     "24Color-Gradient": {
       "0deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0b30aa 0%, #0f44f0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Active}} 0%, {24ColorRange.0deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0f44f0 0%, #6889f6 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #6889f6 0%, #e7ecfe 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Hover}} 0%, {24ColorRange.0deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7ecfe 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "15deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0d0baa 0%, #130ff0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.15deg.{color-Active}} 0%, {24ColorRange.15deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #130ff0 0%, #6a68f6 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.15deg.{color-Default}} 0%, {24ColorRange.15deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #6a68f6 0%, #e7e7fe 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.15deg.{color-Hover}} 0%, {24ColorRange.15deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7e7fe 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.15deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "30deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #350baa 0%, #4b0ff0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.30deg.{color-Active}} 0%, {24ColorRange.30deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #4b0ff0 0%, #8e68f6 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.30deg.{color-Default}} 0%, {24ColorRange.30deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #8e68f6 0%, #ede7fe 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.30deg.{color-Hover}} 0%, {24ColorRange.30deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #ede7fe 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.30deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "45deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #5d0baa 0%, #830ff0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.45deg.{color-Active}} 0%, {24ColorRange.45deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #830ff0 0%, #b168f6 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.45deg.{color-Default}} 0%, {24ColorRange.45deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #b168f6 0%, #f3e7fe 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.45deg.{color-Hover}} 0%, {24ColorRange.45deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #f3e7fe 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.45deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "60deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #850baa 0%, #bb0ff0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.60deg.{color-Active}} 0%, {24ColorRange.60deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #bb0ff0 0%, #d468f6 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.60deg.{color-Default}} 0%, {24ColorRange.60deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #d468f6 0%, #f8e7fe 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.60deg.{color-Hover}} 0%, {24ColorRange.60deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #f8e7fe 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.60deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "75deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #aa0ba8 0%, #f00fec 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.75deg.{color-Active}} 0%, {24ColorRange.75deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f00fec 0%, #f668f3 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.75deg.{color-Default}} 0%, {24ColorRange.75deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f668f3 0%, #fee7fd 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.75deg.{color-Hover}} 0%, {24ColorRange.75deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fee7fd 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.75deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "90deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #aa0b80 0%, #f00fb4 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.90deg.{color-Active}} 0%, {24ColorRange.90deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f00fb4 0%, #f668d0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.90deg.{color-Default}} 0%, {24ColorRange.90deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f668d0 0%, #fee7f8 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.90deg.{color-Hover}} 0%, {24ColorRange.90deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fee7f8 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.90deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "105deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #aa0b58 0%, #f00f7c 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.105deg.{color-Active}} 0%, {24ColorRange.105deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f00f7c 0%, #f668ac 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.105deg.{color-Default}} 0%, {24ColorRange.105deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f668ac 0%, #fee7f2 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.105deg.{color-Hover}} 0%, {24ColorRange.105deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fee7f2 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.105deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "120deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #aa0b30 0%, #f00f44 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.120deg.{color-Active}} 0%, {24ColorRange.120deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f00f44 0%, #f66889 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.120deg.{color-Default}} 0%, {24ColorRange.120deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f66889 0%, #fee7ec 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.120deg.{color-Hover}} 0%, {24ColorRange.120deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fee7ec 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.120deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "135deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #aa0d0b 0%, #f0130f 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.135deg.{color-Active}} 0%, {24ColorRange.135deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f0130f 0%, #f66a68 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.135deg.{color-Default}} 0%, {24ColorRange.135deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f66a68 0%, #fee7e7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.135deg.{color-Hover}} 0%, {24ColorRange.135deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fee7e7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.135deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "150deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #aa350b 0%, #f04b0f 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.150deg.{color-Active}} 0%, {24ColorRange.150deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f04b0f 0%, #f68e68 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.150deg.{color-Default}} 0%, {24ColorRange.150deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f68e68 0%, #feede7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.150deg.{color-Hover}} 0%, {24ColorRange.150deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #feede7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.150deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "165deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #aa5d0b 0%, #f0830f 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.165deg.{color-Active}} 0%, {24ColorRange.165deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f0830f 0%, #f6b168 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.165deg.{color-Default}} 0%, {24ColorRange.165deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f6b168 0%, #fef3e7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.165deg.{color-Hover}} 0%, {24ColorRange.165deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fef3e7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.165deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "180deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #aa850b 0%, #f0bb0f 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.180deg.{color-Active}} 0%, {24ColorRange.180deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #f0bb0f 0%, #f6d468 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.180deg.{color-Default}} 0%, {24ColorRange.180deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f6d468 0%, #fef8e7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.180deg.{color-Hover}} 0%, {24ColorRange.180deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fef8e7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.180deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "195deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #a8aa0b 0%, #ecf00f 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.195deg.{color-Active}} 0%, {24ColorRange.195deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #ecf00f 0%, #f3f668 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.195deg.{color-Default}} 0%, {24ColorRange.195deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #f3f668 0%, #fdfee7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.195deg.{color-Hover}} 0%, {24ColorRange.195deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #fdfee7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.195deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "210deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #80aa0b 0%, #b4f00f 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.210deg.{color-Active}} 0%, {24ColorRange.210deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #b4f00f 0%, #d0f668 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.210deg.{color-Default}} 0%, {24ColorRange.210deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #d0f668 0%, #f8fee7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.210deg.{color-Hover}} 0%, {24ColorRange.210deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #f8fee7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.210deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "225deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #58aa0b 0%, #7cf00f 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.225deg.{color-Active}} 0%, {24ColorRange.225deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #7cf00f 0%, #acf668 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.225deg.{color-Default}} 0%, {24ColorRange.225deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #acf668 0%, #f2fee7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.225deg.{color-Hover}} 0%, {24ColorRange.225deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #f2fee7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.225deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "240deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #30aa0b 0%, #44f00f 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.240deg.{color-Active}} 0%, {24ColorRange.240deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #44f00f 0%, #89f668 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.240deg.{color-Default}} 0%, {24ColorRange.240deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #89f668 0%, #ecfee7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.240deg.{color-Hover}} 0%, {24ColorRange.240deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #ecfee7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.240deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "255deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0baa0d 0%, #0ff013 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.255deg.{color-Active}} 0%, {24ColorRange.255deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0ff013 0%, #68f66a 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.255deg.{color-Default}} 0%, {24ColorRange.255deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #68f66a 0%, #e7fee7 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.255deg.{color-Hover}} 0%, {24ColorRange.255deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7fee7 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.255deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "270deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0baa35 0%, #0ff04b 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Active}} 0%, {24ColorRange.270deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0ff04b 0%, #68f68e 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Default}} 0%, {24ColorRange.270deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #68f68e 0%, #e7feed 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Hover}} 0%, {24ColorRange.270deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7feed 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "285deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0baa5d 0%, #0ff083 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.285deg.{color-Active}} 0%, {24ColorRange.285deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0ff083 0%, #68f6b1 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.285deg.{color-Default}} 0%, {24ColorRange.285deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #68f6b1 0%, #e7fef3 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.285deg.{color-Hover}} 0%, {24ColorRange.285deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7fef3 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.285deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "300deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0baa85 0%, #0ff0bb 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Active}} 0%, {24ColorRange.300deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0ff0bb 0%, #68f6d4 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Default}} 0%, {24ColorRange.300deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #68f6d4 0%, #e7fef8 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Hover}} 0%, {24ColorRange.300deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7fef8 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "315deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0ba8aa 0%, #0fecf0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.315deg.{color-Active}} 0%, {24ColorRange.315deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0fecf0 0%, #68f3f6 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.315deg.{color-Default}} 0%, {24ColorRange.315deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #68f3f6 0%, #e7fdfe 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.315deg.{color-Hover}} 0%, {24ColorRange.315deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7fdfe 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.315deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "330deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0b80aa 0%, #0fb4f0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Active}} 0%, {24ColorRange.330deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0fb4f0 0%, #68d0f6 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Default}} 0%, {24ColorRange.330deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #68d0f6 0%, #e7f8fe 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Hover}} 0%, {24ColorRange.330deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7f8fe 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
       "345deg": {
         "grad-line-a-d": {
-          "value": "linear-gradient(180deg, #0b58aa 0%, #0f7cf0 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Active}} 0%, {24ColorRange.345deg.{color-Default}} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(180deg, #0f7cf0 0%, #68acf6 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Default}} 0%, {24ColorRange.345deg.{color-Hover}} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient(180deg, #68acf6 0%, #e7f2fe 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Hover}} 0%, {24ColorRange.345deg.{color-Light}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient(180deg, #e7f2fe 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Light}} 0%, #ffffff 100%)",
           "type": "color"
         }
       }
     },
     "Extension-15Grad": {
       "primary-15": {
-        "value": "linear-gradient(180deg, #0f44f0 0%, #6a68f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.15deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "15-30": {
-        "value": "linear-gradient(180deg, #130ff0 0%, #8e68f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.15deg.{color-Default}} 0%, {24ColorRange.30deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "30-45": {
-        "value": "linear-gradient(180deg, #4b0ff0 0%, #b168f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.30deg.{color-Default}} 0%, {24ColorRange.45deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "45-60": {
-        "value": "linear-gradient(180deg, #830ff0 0%, #d468f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.45deg.{color-Default}} 0%, {24ColorRange.60deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "60-75": {
-        "value": "linear-gradient(180deg, #bb0ff0 0%, #f668f3 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.60deg.{color-Default}} 0%, {24ColorRange.75deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "75-90": {
-        "value": "linear-gradient(180deg, #f00fec 0%, #f668d0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.75deg.{color-Default}} 0%, {24ColorRange.90deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "90-105": {
-        "value": "linear-gradient(180deg, #f00fb4 0%, #f668ac 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.90deg.{color-Default}} 0%, {24ColorRange.105deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "105-120": {
-        "value": "linear-gradient(180deg, #f00f7c 0%, #f66889 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.105deg.{color-Default}} 0%, {24ColorRange.120deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "120-135": {
-        "value": "linear-gradient(180deg, #f00f44 0%, #f66a68 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.120deg.{color-Default}} 0%, {24ColorRange.135deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "135-150": {
-        "value": "linear-gradient(180deg, #f0130f 0%, #f68e68 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.135deg.{color-Default}} 0%, {24ColorRange.150deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "150-165": {
-        "value": "linear-gradient(180deg, #f04b0f 0%, #f6b168 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.150deg.{color-Default}} 0%, {24ColorRange.165deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "165-180": {
-        "value": "linear-gradient(180deg, #f0830f 0%, #f6d468 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.165deg.{color-Default}} 0%, {24ColorRange.180deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "180-195": {
-        "value": "linear-gradient(180deg, #f0bb0f 0%, #f3f668 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.180deg.{color-Default}} 0%, {24ColorRange.195deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "195-210": {
-        "value": "linear-gradient(180deg, #ecf00f 0%, #d0f668 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.195deg.{color-Default}} 0%, {24ColorRange.210deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "210-225": {
-        "value": "linear-gradient(180deg, #b4f00f 0%, #acf668 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.210deg.{color-Default}} 0%, {24ColorRange.225deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "225-240": {
-        "value": "linear-gradient(180deg, #7cf00f 0%, #89f668 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.225deg.{color-Default}} 0%, {24ColorRange.240deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "240-255": {
-        "value": "linear-gradient(180deg, #44f00f 0%, #68f66a 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.240deg.{color-Default}} 0%, {24ColorRange.255deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "255-270": {
-        "value": "linear-gradient(180deg, #0ff013 0%, #68f68e 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.255deg.{color-Default}} 0%, {24ColorRange.270deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "270-285": {
-        "value": "linear-gradient(180deg, #0ff04b 0%, #68f6b1 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Default}} 0%, {24ColorRange.285deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "285-300": {
-        "value": "linear-gradient(180deg, #0ff083 0%, #68f6d4 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.285deg.{color-Default}} 0%, {24ColorRange.300deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "300-315": {
-        "value": "linear-gradient(180deg, #0ff0bb 0%, #68f3f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Default}} 0%, {24ColorRange.315deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "315-330": {
-        "value": "linear-gradient(180deg, #0fecf0 0%, #68d0f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.315deg.{color-Default}} 0%, {24ColorRange.330deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "330-345": {
-        "value": "linear-gradient(180deg, #0fb4f0 0%, #68acf6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Default}} 0%, {24ColorRange.345deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "345-primary": {
-        "value": "linear-gradient(180deg, #0f7cf0 0%, #6889f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Hover}} 100%)",
         "type": "color"
       }
     },
     "Extension-30Grad": {
       "primary-30": {
-        "value": "linear-gradient(180deg, #0f44f0 0%, #4b0ff0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.30deg.{color-Default}} 100%)",
         "type": "color"
       },
       "15-45": {
-        "value": "linear-gradient(180deg, #130ff0 0%, #830ff0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.15deg.{color-Default}} 0%, {24ColorRange.45deg.{color-Default}} 100%)",
         "type": "color"
       },
       "30-60": {
-        "value": "linear-gradient(180deg, #4b0ff0 0%, #bb0ff0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.30deg.{color-Default}} 0%, {24ColorRange.60deg.{color-Default}} 100%)",
         "type": "color"
       },
       "45-75": {
-        "value": "linear-gradient(180deg, #830ff0 0%, #f00fec 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.45deg.{color-Default}} 0%, {24ColorRange.75deg.{color-Default}} 100%)",
         "type": "color"
       },
       "60-90": {
-        "value": "linear-gradient(180deg, #bb0ff0 0%, #f00fb4 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.60deg.{color-Default}} 0%, {24ColorRange.90deg.{color-Default}} 100%)",
         "type": "color"
       },
       "75-105": {
-        "value": "linear-gradient(180deg, #f00fec 0%, #f00f7c 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.75deg.{color-Default}} 0%, {24ColorRange.105deg.{color-Default}} 100%)",
         "type": "color"
       },
       "90-120": {
-        "value": "linear-gradient(180deg, #f00fb4 0%, #f00f44 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.90deg.{color-Default}} 0%, {24ColorRange.120deg.{color-Default}} 100%)",
         "type": "color"
       },
       "105-135": {
-        "value": "linear-gradient(180deg, #f00f7c 0%, #f0130f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.105deg.{color-Default}} 0%, {24ColorRange.135deg.{color-Default}} 100%)",
         "type": "color"
       },
       "120-150": {
-        "value": "linear-gradient(180deg, #f00f44 0%, #f04b0f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.120deg.{color-Default}} 0%, {24ColorRange.150deg.{color-Default}} 100%)",
         "type": "color"
       },
       "135-165": {
-        "value": "linear-gradient(180deg, #f0130f 0%, #f0830f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.135deg.{color-Default}} 0%, {24ColorRange.165deg.{color-Default}} 100%)",
         "type": "color"
       },
       "150-180": {
-        "value": "linear-gradient(180deg, #f04b0f 0%, #f0bb0f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.150deg.{color-Default}} 0%, {24ColorRange.180deg.{color-Default}} 100%)",
         "type": "color"
       },
       "165-195": {
-        "value": "linear-gradient(180deg, #f0830f 0%, #ecf00f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.165deg.{color-Default}} 0%, {24ColorRange.195deg.{color-Default}} 100%)",
         "type": "color"
       },
       "180-210": {
-        "value": "linear-gradient(180deg, #f0bb0f 0%, #b4f00f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.180deg.{color-Default}} 0%, {24ColorRange.210deg.{color-Default}} 100%)",
         "type": "color"
       },
       "195-225": {
-        "value": "linear-gradient(180deg, #ecf00f 0%, #7cf00f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.195deg.{color-Default}} 0%, {24ColorRange.225deg.{color-Default}} 100%)",
         "type": "color"
       },
       "210-240": {
-        "value": "linear-gradient(180deg, #b4f00f 0%, #44f00f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.210deg.{color-Default}} 0%, {24ColorRange.240deg.{color-Default}} 100%)",
         "type": "color"
       },
       "225-255": {
-        "value": "linear-gradient(180deg, #7cf00f 0%, #0ff013 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.225deg.{color-Default}} 0%, {24ColorRange.255deg.{color-Default}} 100%)",
         "type": "color"
       },
       "240-270": {
-        "value": "linear-gradient(180deg, #44f00f 0%, #0ff04b 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.240deg.{color-Default}} 0%, {24ColorRange.270deg.{color-Default}} 100%)",
         "type": "color"
       },
       "255-285": {
-        "value": "linear-gradient(180deg, #0ff013 0%, #0ff083 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.255deg.{color-Default}} 0%, {24ColorRange.285deg.{color-Default}} 100%)",
         "type": "color"
       },
       "270-300": {
-        "value": "linear-gradient(180deg, #0ff04b 0%, #0ff0bb 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Default}} 0%, {24ColorRange.300deg.{color-Default}} 100%)",
         "type": "color"
       },
       "285-315": {
-        "value": "linear-gradient(180deg, #0ff083 0%, #0fecf0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.285deg.{color-Default}} 0%, {24ColorRange.315deg.{color-Default}} 100%)",
         "type": "color"
       },
       "300-330": {
-        "value": "linear-gradient(180deg, #0ff0bb 0%, #0fb4f0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Default}} 0%, {24ColorRange.330deg.{color-Default}} 100%)",
         "type": "color"
       },
       "315-345": {
-        "value": "linear-gradient(180deg, #0fecf0 0%, #0f7cf0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.315deg.{color-Default}} 0%, {24ColorRange.345deg.{color-Default}} 100%)",
         "type": "color"
       },
       "330-primary": {
-        "value": "linear-gradient(180deg, #0fb4f0 0%, #0f44f0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Default}} 100%)",
         "type": "color"
       },
       "345-15": {
-        "value": "linear-gradient(180deg, #0f7cf0 0%, #130ff0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Default}} 0%, {24ColorRange.15deg.{color-Default}} 100%)",
         "type": "color"
       }
     },
     "Extension-60Grad": {
       "primary-60": {
-        "value": "linear-gradient(180deg, #0f44f0 0%, #bb0ff0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.60deg.{color-Default}} 100%)",
         "type": "color"
       },
       "15-75": {
-        "value": "linear-gradient(180deg, #130ff0 0%, #f00fec 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.15deg.{color-Default}} 0%, {24ColorRange.75deg.{color-Default}} 100%)",
         "type": "color"
       },
       "30-90": {
-        "value": "linear-gradient(180deg, #4b0ff0 0%, #f00fb4 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.30deg.{color-Default}} 0%, {24ColorRange.90deg.{color-Default}} 100%)",
         "type": "color"
       },
       "45-105": {
-        "value": "linear-gradient(180deg, #830ff0 0%, #f00f7c 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.45deg.{color-Default}} 0%, {24ColorRange.105deg.{color-Default}} 100%)",
         "type": "color"
       },
       "60-120": {
-        "value": "linear-gradient(180deg, #bb0ff0 0%, #f00f44 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.60deg.{color-Default}} 0%, {24ColorRange.120deg.{color-Default}} 100%)",
         "type": "color"
       },
       "75-135": {
-        "value": "linear-gradient(180deg, #f00fec 0%, #f0130f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.75deg.{color-Default}} 0%, {24ColorRange.135deg.{color-Default}} 100%)",
         "type": "color"
       },
       "90-150": {
-        "value": "linear-gradient(180deg, #f00fb4 0%, #f04b0f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.90deg.{color-Default}} 0%, {24ColorRange.150deg.{color-Default}} 100%)",
         "type": "color"
       },
       "105-165": {
-        "value": "linear-gradient(180deg, #f00f7c 0%, #f0830f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.105deg.{color-Default}} 0%, {24ColorRange.165deg.{color-Default}} 100%)",
         "type": "color"
       },
       "120-180": {
-        "value": "linear-gradient(180deg, #f00f44 0%, #f0bb0f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.120deg.{color-Default}} 0%, {24ColorRange.180deg.{color-Default}} 100%)",
         "type": "color"
       },
       "135-195": {
-        "value": "linear-gradient(180deg, #f0130f 0%, #ecf00f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.135deg.{color-Default}} 0%, {24ColorRange.195deg.{color-Default}} 100%)",
         "type": "color"
       },
       "150-210": {
-        "value": "linear-gradient(180deg, #f04b0f 0%, #b4f00f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.150deg.{color-Default}} 0%, {24ColorRange.210deg.{color-Default}} 100%)",
         "type": "color"
       },
       "165-225": {
-        "value": "linear-gradient(180deg, #f0830f 0%, #7cf00f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.165deg.{color-Default}} 0%, {24ColorRange.225deg.{color-Default}} 100%)",
         "type": "color"
       },
       "180-240": {
-        "value": "linear-gradient(180deg, #f0bb0f 0%, #44f00f 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.180deg.{color-Default}} 0%, {24ColorRange.240deg.{color-Default}} 100%)",
         "type": "color"
       },
       "195-255": {
-        "value": "linear-gradient(180deg, #ecf00f 0%, #0ff013 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.195deg.{color-Default}} 0%, {24ColorRange.255deg.{color-Default}} 100%)",
         "type": "color"
       },
       "210-270": {
-        "value": "linear-gradient(180deg, #b4f00f 0%, #0ff04b 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.210deg.{color-Default}} 0%, {24ColorRange.270deg.{color-Default}} 100%)",
         "type": "color"
       },
       "225-285": {
-        "value": "linear-gradient(180deg, #7cf00f 0%, #0ff083 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.225deg.{color-Default}} 0%, {24ColorRange.285deg.{color-Default}} 100%)",
         "type": "color"
       },
       "240-300": {
-        "value": "linear-gradient(180deg, #44f00f 0%, #0ff0bb 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.240deg.{color-Default}} 0%, {24ColorRange.300deg.{color-Default}} 100%)",
         "type": "color"
       },
       "255-315": {
-        "value": "linear-gradient(180deg, #0ff013 0%, #0fecf0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.255deg.{color-Default}} 0%, {24ColorRange.315deg.{color-Default}} 100%)",
         "type": "color"
       },
       "270-330": {
-        "value": "linear-gradient(180deg, #0ff04b 0%, #0fb4f0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Default}} 0%, {24ColorRange.330deg.{color-Default}} 100%)",
         "type": "color"
       },
       "285-345": {
-        "value": "linear-gradient(180deg, #0ff083 0%, #0f7cf0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.285deg.{color-Default}} 0%, {24ColorRange.345deg.{color-Default}} 100%)",
         "type": "color"
       },
       "300-primary": {
-        "value": "linear-gradient(180deg, #0ff0bb 0%, #0f44f0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Default}} 100%)",
         "type": "color"
       },
       "315-15": {
-        "value": "linear-gradient(180deg, #0fecf0 0%, #130ff0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.315deg.{color-Default}} 0%, {24ColorRange.15deg.{color-Default}} 100%)",
         "type": "color"
       },
       "330-30": {
-        "value": "linear-gradient(180deg, #0fb4f0 0%, #4b0ff0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Default}} 0%, {24ColorRange.30deg.{color-Default}} 100%)",
         "type": "color"
       },
       "345-45": {
-        "value": "linear-gradient(180deg, #0f7cf0 0%, #830ff0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Default}} 0%, {24ColorRange.45deg.{color-Default}} 100%)",
         "type": "color"
       }
     },
     "Extension-90Grad": {
       "primary-90": {
-        "value": "linear-gradient(180deg, #0f44f0 0%, #f668d0 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Default}} 0%, {24ColorRange.90deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "15-105": {
-        "value": "linear-gradient(180deg, #130ff0 0%, #f668ac 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.15deg.{color-Default}} 0%, {24ColorRange.105deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "30-120": {
-        "value": "linear-gradient(180deg, #4b0ff0 0%, #f66889 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.30deg.{color-Default}} 0%, {24ColorRange.120deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "45-135": {
-        "value": "linear-gradient(180deg, #830ff0 0%, #f66a68 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.45deg.{color-Default}} 0%, {24ColorRange.135deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "60-150": {
-        "value": "linear-gradient(180deg, #bb0ff0 0%, #f68e68 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.60deg.{color-Default}} 0%, {24ColorRange.150deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "75-165": {
-        "value": "linear-gradient(180deg, #f00fec 0%, #f6b168 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.75deg.{color-Default}} 0%, {24ColorRange.165deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "90-180": {
-        "value": "linear-gradient(180deg, #f00fb4 0%, #f6d468 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.90deg.{color-Default}} 0%, {24ColorRange.180deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "105-195": {
-        "value": "linear-gradient(180deg, #f00f7c 0%, #f3f668 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.105deg.{color-Default}} 0%, {24ColorRange.195deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "120-210": {
-        "value": "linear-gradient(180deg, #f00f44 0%, #d0f668 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.120deg.{color-Default}} 0%, {24ColorRange.210deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "135-225": {
-        "value": "linear-gradient(180deg, #f0130f 0%, #acf668 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.135deg.{color-Default}} 0%, {24ColorRange.225deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "150-240": {
-        "value": "linear-gradient(180deg, #f04b0f 0%, #89f668 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.150deg.{color-Default}} 0%, {24ColorRange.240deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "165-255": {
-        "value": "linear-gradient(180deg, #f0830f 0%, #68f66a 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.165deg.{color-Default}} 0%, {24ColorRange.255deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "180-270": {
-        "value": "linear-gradient(180deg, #f0bb0f 0%, #68f68e 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.180deg.{color-Default}} 0%, {24ColorRange.270deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "195-285": {
-        "value": "linear-gradient(180deg, #ecf00f 0%, #68f6b1 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.195deg.{color-Default}} 0%, {24ColorRange.285deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "210-300": {
-        "value": "linear-gradient(180deg, #b4f00f 0%, #68f6d4 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.210deg.{color-Default}} 0%, {24ColorRange.300deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "225-315": {
-        "value": "linear-gradient(180deg, #7cf00f 0%, #68f3f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.225deg.{color-Default}} 0%, {24ColorRange.315deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "240-330": {
-        "value": "linear-gradient(180deg, #44f00f 0%, #68d0f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.240deg.{color-Default}} 0%, {24ColorRange.330deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "255-345": {
-        "value": "linear-gradient(180deg, #0ff013 0%, #68acf6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.255deg.{color-Default}} 0%, {24ColorRange.345deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "270-primary": {
-        "value": "linear-gradient(180deg, #0ff04b 0%, #6889f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.270deg.{color-Default}} 0%, {24ColorRange.0deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "285-15": {
-        "value": "linear-gradient(180deg, #0ff083 0%, #6a68f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.285deg.{color-Default}} 0%, {24ColorRange.15deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "300-30": {
-        "value": "linear-gradient(180deg, #0ff0bb 0%, #8e68f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.300deg.{color-Default}} 0%, {24ColorRange.30deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "315-45": {
-        "value": "linear-gradient(180deg, #0fecf0 0%, #b168f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.315deg.{color-Default}} 0%, {24ColorRange.45deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "330-60": {
-        "value": "linear-gradient(180deg, #0fb4f0 0%, #d468f6 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.330deg.{color-Default}} 0%, {24ColorRange.60deg.{color-Hover}} 100%)",
         "type": "color"
       },
       "345-75": {
-        "value": "linear-gradient(180deg, #0f7cf0 0%, #f668f3 100%)",
+        "value": "linear-gradient({LineGrad.default}, {24ColorRange.345deg.{color-Default}} 0%, {24ColorRange.75deg.{color-Hover}} 100%)",
         "type": "color"
       }
     },
     "Border-grad": {
       "grad-Light": {
-        "value": "linear-gradient(180deg, #ffffff 0%, #ffffff00 50%)",
+        "value": "linear-gradient({LineGrad.borderLight}, #ffffff 0%, rgba(255,255,255,0) 50%)",
         "type": "color"
       }
     },
     "24ColorRange": {
       "0deg": {
         "1": {
-          "value": "#e7ecfe",
+          "value": "#e9f1ff",
           "type": "color"
         },
         "2": {
-          "value": "#c5d2fb",
+          "value": "#c9deff",
           "type": "color"
         },
         "3": {
-          "value": "#98aff9",
+          "value": "#9fc4ff",
           "type": "color"
         },
         "4": {
-          "value": "#6889f6",
+          "value": "#72a8ff",
           "type": "color"
         },
         "5": {
-          "value": "#3a66f3",
+          "value": "#478eff",
           "type": "color"
         },
         "6": {
-          "value": "#0f44f0",
+          "value": "#1f75ff",
           "type": "color"
         },
         "7": {
-          "value": "#0d3acc",
+          "value": "#1a63d9",
           "type": "color"
         },
         "8": {
-          "value": "#0b30aa",
+          "value": "#1653b5",
           "type": "color"
         },
         "9": {
-          "value": "#092789",
+          "value": "#124391",
           "type": "color"
         },
         "10": {
-          "value": "#071f6c",
+          "value": "#0e3573",
           "type": "color"
         }
       },
       "15deg": {
         "1": {
-          "value": "#e7e7fe",
+          "value": "#e9ecff",
           "type": "color"
         },
         "2": {
-          "value": "#c6c5fb",
+          "value": "#c9d0ff",
           "type": "color"
         },
         "3": {
-          "value": "#9a98f9",
+          "value": "#9facff",
           "type": "color"
         },
         "4": {
-          "value": "#6a68f6",
+          "value": "#7285ff",
           "type": "color"
         },
         "5": {
-          "value": "#3d3af3",
+          "value": "#4760ff",
           "type": "color"
         },
         "6": {
-          "value": "#130ff0",
+          "value": "#1f3dff",
           "type": "color"
         },
         "7": {
-          "value": "#100dcc",
+          "value": "#1a34d9",
           "type": "color"
         },
         "8": {
-          "value": "#0d0baa",
+          "value": "#162bb5",
           "type": "color"
         },
         "9": {
-          "value": "#0b0989",
+          "value": "#122391",
           "type": "color"
         },
         "10": {
-          "value": "#09076c",
+          "value": "#0e1b73",
           "type": "color"
         }
       },
       "30deg": {
         "1": {
-          "value": "#ede7fe",
+          "value": "#efedfe",
           "type": "color"
         },
         "2": {
-          "value": "#d4c5fb",
+          "value": "#d9d4fe",
           "type": "color"
         },
         "3": {
-          "value": "#b298f9",
+          "value": "#bbb2fc",
           "type": "color"
         },
         "4": {
-          "value": "#8e68f6",
+          "value": "#9b8ffb",
           "type": "color"
         },
         "5": {
-          "value": "#6b3af3",
+          "value": "#7d6dfa",
           "type": "color"
         },
         "6": {
-          "value": "#4b0ff0",
+          "value": "#614df9",
           "type": "color"
         },
         "7": {
-          "value": "#400dcc",
+          "value": "#5241d4",
           "type": "color"
         },
         "8": {
-          "value": "#350baa",
+          "value": "#4537b1",
           "type": "color"
         },
         "9": {
-          "value": "#2b0989",
+          "value": "#372c8e",
           "type": "color"
         },
         "10": {
-          "value": "#22076c",
+          "value": "#2c2370",
           "type": "color"
         }
       },
       "45deg": {
         "1": {
-          "value": "#f3e7fe",
+          "value": "#f1e9ff",
           "type": "color"
         },
         "2": {
-          "value": "#e1c5fb",
+          "value": "#ddc9ff",
           "type": "color"
         },
         "3": {
-          "value": "#ca98f9",
+          "value": "#c29fff",
           "type": "color"
         },
         "4": {
-          "value": "#b168f6",
+          "value": "#a672ff",
           "type": "color"
         },
         "5": {
-          "value": "#993af3",
+          "value": "#8b47ff",
           "type": "color"
         },
         "6": {
-          "value": "#830ff0",
+          "value": "#711fff",
           "type": "color"
         },
         "7": {
-          "value": "#6f0dcc",
+          "value": "#601ad9",
           "type": "color"
         },
         "8": {
-          "value": "#5d0baa",
+          "value": "#5016b5",
           "type": "color"
         },
         "9": {
-          "value": "#4b0989",
+          "value": "#401291",
           "type": "color"
         },
         "10": {
-          "value": "#3b076c",
+          "value": "#330e73",
           "type": "color"
         }
       },
       "60deg": {
         "1": {
-          "value": "#f8e7fe",
+          "value": "#f6e9ff",
           "type": "color"
         },
         "2": {
-          "value": "#efc5fb",
+          "value": "#eac9ff",
           "type": "color"
         },
         "3": {
-          "value": "#e298f9",
+          "value": "#da9fff",
           "type": "color"
         },
         "4": {
-          "value": "#d468f6",
+          "value": "#c972ff",
           "type": "color"
         },
         "5": {
-          "value": "#c73af3",
+          "value": "#b847ff",
           "type": "color"
         },
         "6": {
-          "value": "#bb0ff0",
+          "value": "#a91fff",
           "type": "color"
         },
         "7": {
-          "value": "#9f0dcc",
+          "value": "#901ad9",
           "type": "color"
         },
         "8": {
-          "value": "#850baa",
+          "value": "#7816b5",
           "type": "color"
         },
         "9": {
-          "value": "#6b0989",
+          "value": "#601291",
           "type": "color"
         },
         "10": {
-          "value": "#54076c",
+          "value": "#4c0e73",
           "type": "color"
         }
       },
       "75deg": {
         "1": {
-          "value": "#fee7fd",
+          "value": "#fce9ff",
           "type": "color"
         },
         "2": {
-          "value": "#fbc5fa",
+          "value": "#f8c9ff",
           "type": "color"
         },
         "3": {
-          "value": "#f998f7",
+          "value": "#f29fff",
           "type": "color"
         },
         "4": {
-          "value": "#f668f3",
+          "value": "#ec72ff",
           "type": "color"
         },
         "5": {
-          "value": "#f33aef",
+          "value": "#e647ff",
           "type": "color"
         },
         "6": {
-          "value": "#f00fec",
+          "value": "#e11fff",
           "type": "color"
         },
         "7": {
-          "value": "#cc0dc9",
+          "value": "#bf1ad9",
           "type": "color"
         },
         "8": {
-          "value": "#aa0ba8",
+          "value": "#a016b5",
           "type": "color"
         },
         "9": {
-          "value": "#890987",
+          "value": "#801291",
           "type": "color"
         },
         "10": {
-          "value": "#6c076a",
+          "value": "#650e73",
           "type": "color"
         }
       },
       "90deg": {
         "1": {
-          "value": "#fee7f8",
+          "value": "#ffe9fc",
           "type": "color"
         },
         "2": {
-          "value": "#fbc5ed",
+          "value": "#ffc9f9",
           "type": "color"
         },
         "3": {
-          "value": "#f998df",
+          "value": "#ff9ff4",
           "type": "color"
         },
         "4": {
-          "value": "#f668d0",
+          "value": "#ff72ef",
           "type": "color"
         },
         "5": {
-          "value": "#f33ac2",
+          "value": "#ff47ea",
           "type": "color"
         },
         "6": {
-          "value": "#f00fb4",
+          "value": "#ff1fe5",
           "type": "color"
         },
         "7": {
-          "value": "#cc0d99",
+          "value": "#d91ac3",
           "type": "color"
         },
         "8": {
-          "value": "#aa0b80",
+          "value": "#b516a3",
           "type": "color"
         },
         "9": {
-          "value": "#890967",
+          "value": "#911283",
           "type": "color"
         },
         "10": {
-          "value": "#6c0751",
+          "value": "#730e67",
           "type": "color"
         }
       },
       "105deg": {
         "1": {
-          "value": "#fee7f2",
+          "value": "#ffe9f7",
           "type": "color"
         },
         "2": {
-          "value": "#fbc5e0",
+          "value": "#ffc9eb",
           "type": "color"
         },
         "3": {
-          "value": "#f998c7",
+          "value": "#ff9fdc",
           "type": "color"
         },
         "4": {
-          "value": "#f668ac",
+          "value": "#ff72cb",
           "type": "color"
         },
         "5": {
-          "value": "#f33a94",
+          "value": "#ff47bc",
           "type": "color"
         },
         "6": {
-          "value": "#f00f7c",
+          "value": "#ff1fad",
           "type": "color"
         },
         "7": {
-          "value": "#cc0d69",
+          "value": "#d91a93",
           "type": "color"
         },
         "8": {
-          "value": "#aa0b58",
+          "value": "#b5167b",
           "type": "color"
         },
         "9": {
-          "value": "#890947",
+          "value": "#911263",
           "type": "color"
         },
         "10": {
-          "value": "#6c0738",
+          "value": "#730e4e",
           "type": "color"
         }
       },
       "120deg": {
         "1": {
-          "value": "#fee7ec",
+          "value": "#ffe9f1",
           "type": "color"
         },
         "2": {
-          "value": "#fbc5d2",
+          "value": "#ffc9de",
           "type": "color"
         },
         "3": {
-          "value": "#f998af",
+          "value": "#ff9fc4",
           "type": "color"
         },
         "4": {
-          "value": "#f66889",
+          "value": "#ff72a8",
           "type": "color"
         },
         "5": {
-          "value": "#f33a66",
+          "value": "#ff478e",
           "type": "color"
         },
         "6": {
-          "value": "#f00f44",
+          "value": "#ff1f75",
           "type": "color"
         },
         "7": {
-          "value": "#cc0d3a",
+          "value": "#d91a63",
           "type": "color"
         },
         "8": {
-          "value": "#aa0b30",
+          "value": "#b51653",
           "type": "color"
         },
         "9": {
-          "value": "#890927",
+          "value": "#911243",
           "type": "color"
         },
         "10": {
-          "value": "#6c071f",
+          "value": "#730e35",
           "type": "color"
         }
       },
       "135deg": {
         "1": {
-          "value": "#fee7e7",
+          "value": "#ffe9ec",
           "type": "color"
         },
         "2": {
-          "value": "#fbc6c5",
+          "value": "#ffc9d0",
           "type": "color"
         },
         "3": {
-          "value": "#f99a98",
+          "value": "#ff9fac",
           "type": "color"
         },
         "4": {
-          "value": "#f66a68",
+          "value": "#ff7285",
           "type": "color"
         },
         "5": {
-          "value": "#f33d3a",
+          "value": "#ff4760",
           "type": "color"
         },
         "6": {
-          "value": "#f0130f",
+          "value": "#ff1f3d",
           "type": "color"
         },
         "7": {
-          "value": "#cc100d",
+          "value": "#d91a34",
           "type": "color"
         },
         "8": {
-          "value": "#aa0d0b",
+          "value": "#b5162b",
           "type": "color"
         },
         "9": {
-          "value": "#890b09",
+          "value": "#911223",
           "type": "color"
         },
         "10": {
-          "value": "#6c0907",
+          "value": "#730e1b",
           "type": "color"
         }
       },
       "150deg": {
         "1": {
-          "value": "#feede7",
+          "value": "#ffebe9",
           "type": "color"
         },
         "2": {
-          "value": "#fbd4c5",
+          "value": "#ffcfc9",
           "type": "color"
         },
         "3": {
-          "value": "#f9b298",
+          "value": "#ffaa9f",
           "type": "color"
         },
         "4": {
-          "value": "#f68e68",
+          "value": "#ff8272",
           "type": "color"
         },
         "5": {
-          "value": "#f36b3a",
+          "value": "#ff5d47",
           "type": "color"
         },
         "6": {
-          "value": "#f04b0f",
+          "value": "#ff391f",
           "type": "color"
         },
         "7": {
-          "value": "#cc400d",
+          "value": "#d9301a",
           "type": "color"
         },
         "8": {
-          "value": "#aa350b",
+          "value": "#b52816",
           "type": "color"
         },
         "9": {
-          "value": "#892b09",
+          "value": "#912012",
           "type": "color"
         },
         "10": {
-          "value": "#6c2207",
+          "value": "#731a0e",
           "type": "color"
         }
       },
       "165deg": {
         "1": {
-          "value": "#fef3e7",
+          "value": "#fef1ea",
           "type": "color"
         },
         "2": {
-          "value": "#fbe1c5",
+          "value": "#fcdecc",
           "type": "color"
         },
         "3": {
-          "value": "#f9ca98",
+          "value": "#f9c3a4",
           "type": "color"
         },
         "4": {
-          "value": "#f6b168",
+          "value": "#f7a77a",
           "type": "color"
         },
         "5": {
-          "value": "#f3993a",
+          "value": "#f48d52",
           "type": "color"
         },
         "6": {
-          "value": "#f0830f",
+          "value": "#f2742c",
           "type": "color"
         },
         "7": {
-          "value": "#cc6f0d",
+          "value": "#ce6325",
           "type": "color"
         },
         "8": {
-          "value": "#aa5d0b",
+          "value": "#ac521f",
           "type": "color"
         },
         "9": {
-          "value": "#894b09",
+          "value": "#8a4219",
           "type": "color"
         },
         "10": {
-          "value": "#6c3b07",
+          "value": "#6d3414",
           "type": "color"
         }
       },
       "180deg": {
         "1": {
-          "value": "#fef8e7",
+          "value": "#fef5e6",
           "type": "color"
         },
         "2": {
-          "value": "#fbefc5",
+          "value": "#fde7c4",
           "type": "color"
         },
         "3": {
-          "value": "#f9e298",
+          "value": "#fcd495",
           "type": "color"
         },
         "4": {
-          "value": "#f6d468",
+          "value": "#fac063",
           "type": "color"
         },
         "5": {
-          "value": "#f3c73a",
+          "value": "#f8ad34",
           "type": "color"
         },
         "6": {
-          "value": "#f0bb0f",
+          "value": "#f79b08",
           "type": "color"
         },
         "7": {
-          "value": "#cc9f0d",
+          "value": "#d28407",
           "type": "color"
         },
         "8": {
-          "value": "#aa850b",
+          "value": "#af6e06",
           "type": "color"
         },
         "9": {
-          "value": "#896b09",
+          "value": "#8d5805",
           "type": "color"
         },
         "10": {
-          "value": "#6c5407",
+          "value": "#6f4604",
           "type": "color"
         }
       },
       "195deg": {
         "1": {
-          "value": "#fdfee7",
+          "value": "#fffce9",
           "type": "color"
         },
         "2": {
-          "value": "#fafbc5",
+          "value": "#fff8c9",
           "type": "color"
         },
         "3": {
-          "value": "#f7f998",
+          "value": "#fff29f",
           "type": "color"
         },
         "4": {
-          "value": "#f3f668",
+          "value": "#ffec72",
           "type": "color"
         },
         "5": {
-          "value": "#eff33a",
+          "value": "#ffe647",
           "type": "color"
         },
         "6": {
-          "value": "#ecf00f",
+          "value": "#ffe11f",
           "type": "color"
         },
         "7": {
-          "value": "#c9cc0d",
+          "value": "#d9bf1a",
           "type": "color"
         },
         "8": {
-          "value": "#a8aa0b",
+          "value": "#b5a016",
           "type": "color"
         },
         "9": {
-          "value": "#878909",
+          "value": "#918012",
           "type": "color"
         },
         "10": {
-          "value": "#6a6c07",
+          "value": "#73650e",
           "type": "color"
         }
       },
       "210deg": {
         "1": {
-          "value": "#f8fee7",
+          "value": "#fcffe9",
           "type": "color"
         },
         "2": {
-          "value": "#edfbc5",
+          "value": "#f9ffc9",
           "type": "color"
         },
         "3": {
-          "value": "#dff998",
+          "value": "#f4ff9f",
           "type": "color"
         },
         "4": {
-          "value": "#d0f668",
+          "value": "#efff72",
           "type": "color"
         },
         "5": {
-          "value": "#c2f33a",
+          "value": "#eaff47",
           "type": "color"
         },
         "6": {
-          "value": "#b4f00f",
+          "value": "#e5ff1f",
           "type": "color"
         },
         "7": {
-          "value": "#99cc0d",
+          "value": "#c3d91a",
           "type": "color"
         },
         "8": {
-          "value": "#80aa0b",
+          "value": "#a3b516",
           "type": "color"
         },
         "9": {
-          "value": "#678909",
+          "value": "#839112",
           "type": "color"
         },
         "10": {
-          "value": "#516c07",
+          "value": "#67730e",
           "type": "color"
         }
       },
       "225deg": {
         "1": {
-          "value": "#f2fee7",
+          "value": "#f7ffe9",
           "type": "color"
         },
         "2": {
-          "value": "#e0fbc5",
+          "value": "#ebffc9",
           "type": "color"
         },
         "3": {
-          "value": "#c7f998",
+          "value": "#dcff9f",
           "type": "color"
         },
         "4": {
-          "value": "#acf668",
+          "value": "#cbff72",
           "type": "color"
         },
         "5": {
-          "value": "#94f33a",
+          "value": "#bcff47",
           "type": "color"
         },
         "6": {
-          "value": "#7cf00f",
+          "value": "#adff1f",
           "type": "color"
         },
         "7": {
-          "value": "#69cc0d",
+          "value": "#93d91a",
           "type": "color"
         },
         "8": {
-          "value": "#58aa0b",
+          "value": "#7bb516",
           "type": "color"
         },
         "9": {
-          "value": "#478909",
+          "value": "#639112",
           "type": "color"
         },
         "10": {
-          "value": "#386c07",
+          "value": "#4e730e",
           "type": "color"
         }
       },
       "240deg": {
         "1": {
-          "value": "#ecfee7",
+          "value": "#f1ffe9",
           "type": "color"
         },
         "2": {
-          "value": "#d2fbc5",
+          "value": "#deffc9",
           "type": "color"
         },
         "3": {
-          "value": "#aff998",
+          "value": "#c4ff9f",
           "type": "color"
         },
         "4": {
-          "value": "#89f668",
+          "value": "#a8ff72",
           "type": "color"
         },
         "5": {
-          "value": "#66f33a",
+          "value": "#8eff47",
           "type": "color"
         },
         "6": {
-          "value": "#44f00f",
+          "value": "#75ff1f",
           "type": "color"
         },
         "7": {
-          "value": "#3acc0d",
+          "value": "#63d91a",
           "type": "color"
         },
         "8": {
-          "value": "#30aa0b",
+          "value": "#53b516",
           "type": "color"
         },
         "9": {
-          "value": "#278909",
+          "value": "#439112",
           "type": "color"
         },
         "10": {
-          "value": "#1f6c07",
+          "value": "#35730e",
           "type": "color"
         }
       },
       "255deg": {
         "1": {
-          "value": "#e7fee7",
+          "value": "#ecffe9",
           "type": "color"
         },
         "2": {
-          "value": "#c5fbc6",
+          "value": "#d0ffc9",
           "type": "color"
         },
         "3": {
-          "value": "#98f99a",
+          "value": "#acff9f",
           "type": "color"
         },
         "4": {
-          "value": "#68f66a",
+          "value": "#85ff72",
           "type": "color"
         },
         "5": {
-          "value": "#3af33d",
+          "value": "#60ff47",
           "type": "color"
         },
         "6": {
-          "value": "#0ff013",
+          "value": "#3dff1f",
           "type": "color"
         },
         "7": {
-          "value": "#0dcc10",
+          "value": "#34d91a",
           "type": "color"
         },
         "8": {
-          "value": "#0baa0d",
+          "value": "#2bb516",
           "type": "color"
         },
         "9": {
-          "value": "#09890b",
+          "value": "#239112",
           "type": "color"
         },
         "10": {
-          "value": "#076c09",
+          "value": "#1b730e",
           "type": "color"
         }
       },
       "270deg": {
         "1": {
-          "value": "#e7feed",
+          "value": "#e9ffeb",
           "type": "color"
         },
         "2": {
-          "value": "#c5fbd4",
+          "value": "#c9ffcf",
           "type": "color"
         },
         "3": {
-          "value": "#98f9b2",
+          "value": "#9fffaa",
           "type": "color"
         },
         "4": {
-          "value": "#68f68e",
+          "value": "#72ff82",
           "type": "color"
         },
         "5": {
-          "value": "#3af36b",
+          "value": "#47ff5d",
           "type": "color"
         },
         "6": {
-          "value": "#0ff04b",
+          "value": "#1fff39",
           "type": "color"
         },
         "7": {
-          "value": "#0dcc40",
+          "value": "#1ad930",
           "type": "color"
         },
         "8": {
-          "value": "#0baa35",
+          "value": "#16b528",
           "type": "color"
         },
         "9": {
-          "value": "#09892b",
+          "value": "#129120",
           "type": "color"
         },
         "10": {
-          "value": "#076c22",
+          "value": "#0e731a",
           "type": "color"
         }
       },
       "285deg": {
         "1": {
-          "value": "#e7fef3",
+          "value": "#e9fff1",
           "type": "color"
         },
         "2": {
-          "value": "#c5fbe1",
+          "value": "#c9ffdd",
           "type": "color"
         },
         "3": {
-          "value": "#98f9ca",
+          "value": "#9fffc2",
           "type": "color"
         },
         "4": {
-          "value": "#68f6b1",
+          "value": "#72ffa6",
           "type": "color"
         },
         "5": {
-          "value": "#3af399",
+          "value": "#47ff8b",
           "type": "color"
         },
         "6": {
-          "value": "#0ff083",
+          "value": "#1fff71",
           "type": "color"
         },
         "7": {
-          "value": "#0dcc6f",
+          "value": "#1ad960",
           "type": "color"
         },
         "8": {
-          "value": "#0baa5d",
+          "value": "#16b550",
           "type": "color"
         },
         "9": {
-          "value": "#09894b",
+          "value": "#129140",
           "type": "color"
         },
         "10": {
-          "value": "#076c3b",
+          "value": "#0e7333",
           "type": "color"
         }
       },
       "300deg": {
         "1": {
-          "value": "#e7fef8",
+          "value": "#e6fdf4",
           "type": "color"
         },
         "2": {
-          "value": "#c5fbef",
+          "value": "#c2fae5",
           "type": "color"
         },
         "3": {
-          "value": "#98f9e2",
+          "value": "#91f6d0",
           "type": "color"
         },
         "4": {
-          "value": "#68f6d4",
+          "value": "#5ef2ba",
           "type": "color"
         },
         "5": {
-          "value": "#3af3c7",
+          "value": "#2eefa5",
           "type": "color"
         },
         "6": {
-          "value": "#0ff0bb",
+          "value": "#00eb91",
           "type": "color"
         },
         "7": {
-          "value": "#0dcc9f",
+          "value": "#00c87b",
           "type": "color"
         },
         "8": {
-          "value": "#0baa85",
+          "value": "#00a767",
           "type": "color"
         },
         "9": {
-          "value": "#09896b",
+          "value": "#008653",
           "type": "color"
         },
         "10": {
-          "value": "#076c54",
+          "value": "#006a41",
           "type": "color"
         }
       },
       "315deg": {
         "1": {
-          "value": "#e7fdfe",
+          "value": "#e9fffc",
           "type": "color"
         },
         "2": {
-          "value": "#c5fafb",
+          "value": "#c9fff8",
           "type": "color"
         },
         "3": {
-          "value": "#98f7f9",
+          "value": "#9ffff2",
           "type": "color"
         },
         "4": {
-          "value": "#68f3f6",
+          "value": "#72ffec",
           "type": "color"
         },
         "5": {
-          "value": "#3aeff3",
+          "value": "#47ffe6",
           "type": "color"
         },
         "6": {
-          "value": "#0fecf0",
+          "value": "#1fffe1",
           "type": "color"
         },
         "7": {
-          "value": "#0dc9cc",
+          "value": "#1ad9bf",
           "type": "color"
         },
         "8": {
-          "value": "#0ba8aa",
+          "value": "#16b5a0",
           "type": "color"
         },
         "9": {
-          "value": "#098789",
+          "value": "#129180",
           "type": "color"
         },
         "10": {
-          "value": "#076a6c",
+          "value": "#0e7365",
           "type": "color"
         }
       },
       "330deg": {
         "1": {
-          "value": "#e7f8fe",
+          "value": "#e7fcff",
           "type": "color"
         },
         "2": {
-          "value": "#c5edfb",
+          "value": "#c5f7fe",
           "type": "color"
         },
         "3": {
-          "value": "#98dff9",
+          "value": "#98f1fd",
           "type": "color"
         },
         "4": {
-          "value": "#68d0f6",
+          "value": "#68ebfc",
           "type": "color"
         },
         "5": {
-          "value": "#3ac2f3",
+          "value": "#3ae5fb",
           "type": "color"
         },
         "6": {
-          "value": "#0fb4f0",
+          "value": "#0fdffa",
           "type": "color"
         },
         "7": {
-          "value": "#0d99cc",
+          "value": "#0dbed5",
           "type": "color"
         },
         "8": {
-          "value": "#0b80aa",
+          "value": "#0b9eb2",
           "type": "color"
         },
         "9": {
-          "value": "#096789",
+          "value": "#097f8f",
           "type": "color"
         },
         "10": {
-          "value": "#07516c",
+          "value": "#076470",
           "type": "color"
         }
       },
       "345deg": {
         "1": {
-          "value": "#e7f2fe",
+          "value": "#e9f7ff",
           "type": "color"
         },
         "2": {
-          "value": "#c5e0fb",
+          "value": "#c9ebff",
           "type": "color"
         },
         "3": {
-          "value": "#98c7f9",
+          "value": "#9fdcff",
           "type": "color"
         },
         "4": {
-          "value": "#68acf6",
+          "value": "#72cbff",
           "type": "color"
         },
         "5": {
-          "value": "#3a94f3",
+          "value": "#47bcff",
           "type": "color"
         },
         "6": {
-          "value": "#0f7cf0",
+          "value": "#1fadff",
           "type": "color"
         },
         "7": {
-          "value": "#0d69cc",
+          "value": "#1a93d9",
           "type": "color"
         },
         "8": {
-          "value": "#0b58aa",
+          "value": "#167bb5",
           "type": "color"
         },
         "9": {
-          "value": "#094789",
+          "value": "#126391",
           "type": "color"
         },
         "10": {
-          "value": "#07386c",
+          "value": "#0e4e73",
           "type": "color"
         }
       }
@@ -4259,352 +4259,6 @@
       }
     }
   },
-  "FontStyle": {
-    "fontFamilies": {
-      "pingfang-sc": {
-        "value": "PingFang SC",
-        "type": "fontFamilies"
-      }
-    },
-    "lineHeights": {
-      "0": {
-        "value": "10",
-        "type": "lineHeights"
-      },
-      "1": {
-        "value": "12",
-        "type": "lineHeights"
-      },
-      "2": {
-        "value": "14",
-        "type": "lineHeights"
-      },
-      "3": {
-        "value": "16",
-        "type": "lineHeights"
-      },
-      "4": {
-        "value": "18",
-        "type": "lineHeights"
-      },
-      "5": {
-        "value": "22",
-        "type": "lineHeights"
-      }
-    },
-    "fontWeights": {
-      "pingfang-sc-0": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "pingfang-sc-1": {
-        "value": "Medium",
-        "type": "fontWeights"
-      },
-      "pingfang-sc-2": {
-        "value": "Bold",
-        "type": "fontWeights"
-      }
-    },
-    "fontSize": {
-      "0": {
-        "value": "10",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "12",
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": "14",
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": "18",
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": "22",
-        "type": "fontSizes"
-      }
-    },
-    "letterSpacing": {
-      "0": {
-        "value": "0%",
-        "type": "letterSpacing"
-      }
-    },
-    "paragraphSpacing": {
-      "0": {
-        "value": "0",
-        "type": "paragraphSpacing"
-      }
-    },
-    "mini-info-10": {
-      "Regular": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-0}",
-          "lineHeight": "{lineHeights.0}",
-          "fontSize": "{fontSize.0}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "辅助说明信息"
-      }
-    },
-    "body-small-12": {
-      "Regular": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-0}",
-          "lineHeight": "{lineHeights.1}",
-          "fontSize": "{fontSize.1}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "小型按钮、标签、徽标、TabBar等"
-      },
-      "Medium": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-1}",
-          "lineHeight": "{lineHeights.1}",
-          "fontSize": "{fontSize.1}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      },
-      "Bold": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-2}",
-          "lineHeight": "{lineHeights.1}",
-          "fontSize": "{fontSize.1}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      }
-    },
-    "body-default-14": {
-      "Regular": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-0}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.2}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "常规功能按钮、正文"
-      },
-      "Medium": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-1}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.2}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      },
-      "Bold": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-2}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.2}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      }
-    },
-    "body-large-16": {
-      "Regular": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-0}",
-          "lineHeight": "{lineHeights.3}",
-          "fontSize": "{fontSize.3}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "菜单、中型按钮"
-      },
-      "Medium": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-1}",
-          "lineHeight": "{lineHeights.3}",
-          "fontSize": "{fontSize.3}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      },
-      "Bold": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-2}",
-          "lineHeight": "{lineHeights.3}",
-          "fontSize": "{fontSize.3}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      }
-    },
-    "title-18": {
-      "Regylar": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-0}",
-          "lineHeight": "{lineHeights.4}",
-          "fontSize": "{fontSize.4}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "多用于一级标题，最大按钮"
-      },
-      "Medium": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-1}",
-          "lineHeight": "{lineHeights.4}",
-          "fontSize": "{fontSize.4}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      },
-      "Bold": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-2}",
-          "lineHeight": "{lineHeights.4}",
-          "fontSize": "{fontSize.4}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      }
-    },
-    "title-large-22": {
-      "Regular": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-0}",
-          "lineHeight": "{lineHeights.5}",
-          "fontSize": "{fontSize.5}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "大卡片特殊标题，如弹窗"
-      },
-      "Medium": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-1}",
-          "lineHeight": "{lineHeights.5}",
-          "fontSize": "{fontSize.5}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      },
-      "Bold": {
-        "value": {
-          "fontFamily": "{fontFamilies.pingfang-sc}",
-          "fontWeight": "{fontWeights.pingfang-sc-2}",
-          "lineHeight": "{lineHeights.5}",
-          "fontSize": "{fontSize.5}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
-    "paragraphIndent": {
-      "0": {
-        "value": "0px",
-        "type": "dimension"
-      }
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -4612,8 +4266,7 @@
       "24ColorRange",
       "FunctionColor",
       "HCT24Color",
-      "HCTColorSystem",
-      "FontStyle"
+      "HCTColorSystem"
     ]
   }
 }
