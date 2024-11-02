@@ -4465,7 +4465,7 @@
           "textDecoration": "{textDecoration.none}"
         },
         "type": "typography",
-        "description": "菜单、中型按钮"
+        "description": "菜单、中型按钮、小标题"
       },
       "Medium": {
         "value": {
