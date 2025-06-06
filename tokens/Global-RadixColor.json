@@ -258,31 +258,31 @@
           "value": "{24ColorRange.{color-pri}.{Color-Bg-normal}}",
           "type": "color"
         },
-        "hover": {
+        "Color-Bg-active": {
           "value": "{24ColorRange.{color-pri}.{color-Hover}}",
           "type": "color"
         },
-        "default": {
+        "Color-Bg-Ulelement-normal": {
           "value": "{24ColorRange.{color-pri}.{color-Default}}",
           "type": "color"
         },
-        "active": {
+        "Color-Bg-Ulelement-hover": {
           "value": "{24ColorRange.{color-pri}.{color-Active}}",
           "type": "color"
         },
-        "grad-a-d": {
+        "Color-Bg-Ulelement-active": {
           "value": "{24Color-Gradient.{color-pri}.grad-line-a-d}",
           "type": "color"
         },
-        "grad-line-d-h": {
+        "Color-Border-static": {
           "value": "{24Color-Gradient.{color-pri}.grad-line-d-h}",
           "type": "color"
         },
-        "grad-line-h-l": {
+        "Color-Border-normal": {
           "value": "{24Color-Gradient.{color-pri}.grad-line-h-l}",
           "type": "color"
         },
-        "grad-line-l-white": {
+        "Color-Border-active": {
           "value": "{24Color-Gradient.{color-pri}.grad-line-l-white}",
           "type": "color"
         }
@@ -292,31 +292,31 @@
           "value": "{24ColorRange.{color-sec1}.{Color-Bg-normal}}",
           "type": "color"
         },
-        "hover": {
+        "Color-Bg-active": {
           "value": "{24ColorRange.{color-sec1}.{color-Hover}}",
           "type": "color"
         },
-        "default": {
+        "Color-Bg-Ulelement-normal": {
           "value": "{24ColorRange.{color-sec1}.{color-Default}}",
           "type": "color"
         },
-        "active": {
+        "Color-Bg-Ulelement-hover": {
           "value": "{24ColorRange.{color-sec1}.{color-Active}}",
           "type": "color"
         },
-        "grad-a-d": {
+        "Color-Bg-Ulelement-active": {
           "value": "{24Color-Gradient.{color-sec1}.grad-line-a-d}",
           "type": "color"
         },
-        "grad-line-d-h": {
+        "Color-Border-static": {
           "value": "{24Color-Gradient.{color-sec1}.grad-line-d-h}",
           "type": "color"
         },
-        "grad-line-h-l": {
+        "Color-Border-normal": {
           "value": "{24Color-Gradient.{color-sec1}.grad-line-h-l}",
           "type": "color"
         },
-        "grad-line-l-white": {
+        "Color-Border-active": {
           "value": "{24Color-Gradient.{color-sec1}.grad-line-l-white}",
           "type": "color"
         }
@@ -326,31 +326,31 @@
           "value": "{24ColorRange.{color-sec2}.{Color-Bg-normal}}",
           "type": "color"
         },
-        "hover": {
+        "Color-Bg-active": {
           "value": "{24ColorRange.{color-sec2}.{color-Hover}}",
           "type": "color"
         },
-        "default": {
+        "Color-Bg-Ulelement-normal": {
           "value": "{24ColorRange.{color-sec2}.{color-Default}}",
           "type": "color"
         },
-        "active": {
+        "Color-Bg-Ulelement-hover": {
           "value": "{24ColorRange.{color-sec2}.{color-Active}}",
           "type": "color"
         },
-        "grad-a-d": {
+        "Color-Bg-Ulelement-active": {
           "value": "{24Color-Gradient.{color-sec2}.grad-line-a-d}",
           "type": "color"
         },
-        "grad-line-d-h": {
+        "Color-Border-static": {
           "value": "{24Color-Gradient.{color-sec2}.grad-line-d-h}",
           "type": "color"
         },
-        "grad-line-h-l": {
+        "Color-Border-normal": {
           "value": "{24Color-Gradient.{color-sec2}.grad-line-h-l}",
           "type": "color"
         },
-        "grad-line-l-white": {
+        "Color-Border-active": {
           "value": "{24Color-Gradient.{color-sec2}.grad-line-l-white}",
           "type": "color"
         }
@@ -360,31 +360,31 @@
           "value": "{24ColorRange.{color-sec3}.{Color-Bg-normal}}",
           "type": "color"
         },
-        "hover": {
+        "Color-Bg-active": {
           "value": "{24ColorRange.{color-sec3}.{color-Hover}}",
           "type": "color"
         },
-        "default": {
+        "Color-Bg-Ulelement-normal": {
           "value": "{24ColorRange.{color-sec3}.{color-Default}}",
           "type": "color"
         },
-        "active": {
+        "Color-Bg-Ulelement-hover": {
           "value": "{24ColorRange.{color-sec3}.{color-Active}}",
           "type": "color"
         },
-        "grad-a-d": {
+        "Color-Bg-Ulelement-active": {
           "value": "{24Color-Gradient.{color-sec3}.grad-line-a-d}",
           "type": "color"
         },
-        "grad-line-d-h": {
+        "Color-Border-static": {
           "value": "{24Color-Gradient.{color-sec3}.grad-line-d-h}",
           "type": "color"
         },
-        "grad-line-h-l": {
+        "Color-Border-normal": {
           "value": "{24Color-Gradient.{color-sec3}.grad-line-h-l}",
           "type": "color"
         },
-        "grad-line-l-white": {
+        "Color-Border-active": {
           "value": "{24Color-Gradient.{color-sec3}.grad-line-l-white}",
           "type": "color"
         }
@@ -394,31 +394,31 @@
           "value": "{24ColorRange.{color-sec4}.{Color-Bg-normal}}",
           "type": "color"
         },
-        "hover": {
+        "Color-Bg-active": {
           "value": "{24ColorRange.{color-sec4}.{color-Hover}}",
           "type": "color"
         },
-        "default": {
+        "Color-Bg-Ulelement-normal": {
           "value": "{24ColorRange.{color-sec4}.{color-Default}}",
           "type": "color"
         },
-        "active": {
+        "Color-Bg-Ulelement-hover": {
           "value": "{24ColorRange.{color-sec4}.{color-Active}}",
           "type": "color"
         },
-        "grad-a-d": {
+        "Color-Bg-Ulelement-active": {
           "value": "{24Color-Gradient.{color-sec4}.grad-line-a-d}",
           "type": "color"
         },
-        "grad-line-d-h": {
+        "Color-Border-static": {
           "value": "{24Color-Gradient.{color-sec4}.grad-line-d-h}",
           "type": "color"
         },
-        "grad-line-h-l": {
+        "Color-Border-normal": {
           "value": "{24Color-Gradient.{color-sec4}.grad-line-h-l}",
           "type": "color"
         },
-        "grad-line-l-white": {
+        "Color-Border-active": {
           "value": "{24Color-Gradient.{color-sec4}.grad-line-l-white}",
           "type": "color"
         }
