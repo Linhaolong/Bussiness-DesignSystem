@@ -263,15 +263,15 @@
           "type": "color"
         },
         "Bg-Ulelement-normal": {
-          "value": "{24ColorRange.{color-pri}.{Color-Bg-Ulelement-normal}}",
+          "value": "{24ColorRange.{color-pri}.{Color-Bg-normal}}",
           "type": "color"
         },
         "Bg-Ulelement-hover": {
-          "value": "{24ColorRange.{color-pri}.{Color-Bg-Ulelement-hover}}",
+          "value": "{24ColorRange.{color-pri}.{Color-Bg-UIelement-hover}}",
           "type": "color"
         },
         "Bg-Ulelement-active": {
-          "value": "{24Color-Gradient.{color-pri}.{Color-Bg-Ulelement-active}}",
+          "value": "{24Color-Gradient.{color-pri}.{Color-Bg-UIelement-active}}",
           "type": "color"
         },
         "Border-static": {
