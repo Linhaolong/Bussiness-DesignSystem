@@ -254,8 +254,8 @@
   "24ColorRange": {
     "Brand-colorSystem": {
       "primary": {
-        "light": {
-          "value": "{24ColorRange.{color-pri}.{color-Light}}",
+        "Color-Bg-normal": {
+          "value": "{24ColorRange.{color-pri}.{Color-Bg-normal}}",
           "type": "color"
         },
         "hover": {
