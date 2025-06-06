@@ -288,8 +288,8 @@
         }
       },
       "s1": {
-        "light": {
-          "value": "{24ColorRange.{color-sec1}.{color-Light}}",
+        "Color-Bg-normal": {
+          "value": "{24ColorRange.{color-sec1}.{Color-Bg-normal}}",
           "type": "color"
         },
         "hover": {
@@ -322,8 +322,8 @@
         }
       },
       "s2": {
-        "light": {
-          "value": "{24ColorRange.{color-sec2}.{color-Light}}",
+        "Color-Bg-normal": {
+          "value": "{24ColorRange.{color-sec2}.{Color-Bg-normal}}",
           "type": "color"
         },
         "hover": {
@@ -356,8 +356,8 @@
         }
       },
       "s3": {
-        "light": {
-          "value": "{24ColorRange.{color-sec3}.{color-Light}}",
+        "Color-Bg-normal": {
+          "value": "{24ColorRange.{color-sec3}.{Color-Bg-normal}}",
           "type": "color"
         },
         "hover": {
@@ -391,7 +391,7 @@
       },
       "s4": {
         "light": {
-          "value": "{24ColorRange.{color-sec4}.{color-Light}}",
+          "value": "{24ColorRange.{color-sec4}.{Color-Bg-normal}}",
           "type": "color"
         },
         "hover": {
@@ -435,11 +435,11 @@
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Hover}} 0%, {24ColorRange.0deg.{color-Light}} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Hover}} 0%, {24ColorRange.0deg.{Color-Bg-normal}} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{color-Light}} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {24ColorRange.0deg.{Color-Bg-normal}} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
