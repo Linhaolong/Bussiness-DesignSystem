@@ -285,6 +285,22 @@
         "Border-active": {
           "value": "{24ColorRange.{color-pri}.{Color-Border-active}}",
           "type": "color"
+        },
+        "Main": {
+          "value": "{24ColorRange.{color-pri}.{Color-Main}}",
+          "type": "color"
+        },
+        "Main-active": {
+          "value": "{24ColorRange.{color-pri}.{Color-Main-active}}",
+          "type": "color"
+        },
+        "Text-Low": {
+          "value": "{24ColorRange.{color-pri}.{Color-Text-Low}}",
+          "type": "color"
+        },
+        "Text-High": {
+          "value": "{24ColorRange.{color-pri}.{Color-Text-High}}",
+          "type": "color"
         }
       },
       "s1": {
