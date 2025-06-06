@@ -1259,43 +1259,51 @@
     "24ColorRange": {
       "0deg": {
         "1": {
-          "value": "#fef3e7",
+          "value": "#fefcfa",
           "type": "color"
         },
         "2": {
-          "value": "#fbe1c5",
+          "value": "#fff5eb",
           "type": "color"
         },
         "3": {
-          "value": "#f9ca98",
+          "value": "#ffead3",
           "type": "color"
         },
         "4": {
-          "value": "#f6b168",
+          "value": "#ffd9b4",
           "type": "color"
         },
         "5": {
-          "value": "#f3993a",
+          "value": "#ffcb9c",
           "type": "color"
         },
         "6": {
-          "value": "#f0830f",
+          "value": "#ffbc80",
           "type": "color"
         },
         "7": {
-          "value": "#cc6f0d",
+          "value": "#ffa65a",
           "type": "color"
         },
         "8": {
-          "value": "#aa5d0b",
+          "value": "#fa8c23",
           "type": "color"
         },
         "9": {
-          "value": "#894b09",
+          "value": "#f0830f",
           "type": "color"
         },
         "10": {
-          "value": "#6c3b07",
+          "value": "#e37700",
+          "type": "color"
+        },
+        "11": {
+          "value": "#c35d00",
+          "type": "color"
+        },
+        "12": {
+          "value": "#5c2c00",
           "type": "color"
         }
       },
