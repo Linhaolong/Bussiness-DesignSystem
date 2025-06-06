@@ -390,7 +390,7 @@
         }
       },
       "s4": {
-        "light": {
+        "Color-Bg-normal": {
           "value": "{24ColorRange.{color-sec4}.{Color-Bg-normal}}",
           "type": "color"
         },
