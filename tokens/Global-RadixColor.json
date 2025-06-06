@@ -254,35 +254,35 @@
   "24ColorRange": {
     "Brand-colorSystem": {
       "primary": {
-        "Color-Bg-normal": {
+        "Bg-normal": {
           "value": "{24ColorRange.{color-pri}.{Color-Bg-normal}}",
           "type": "color"
         },
-        "Color-Bg-active": {
+        "Bg-active": {
           "value": "{24ColorRange.{color-pri}.{Color-Bg-active}}",
           "type": "color"
         },
-        "Color-Bg-Ulelement-normal": {
+        "Bg-Ulelement-normal": {
           "value": "{24ColorRange.{color-pri}.{Color-Bg-Ulelement-normal}}",
           "type": "color"
         },
-        "Color-Bg-Ulelement-hover": {
+        "Bg-Ulelement-hover": {
           "value": "{24ColorRange.{color-pri}.{Color-Bg-Ulelement-hover}}",
           "type": "color"
         },
-        "Color-Bg-Ulelement-active": {
+        "Bg-Ulelement-active": {
           "value": "{24Color-Gradient.{color-pri}.{Color-Bg-Ulelement-active}}",
           "type": "color"
         },
-        "Color-Border-static": {
+        "Border-static": {
           "value": "{24Color-Gradient.{color-pri}.{Color-Border-static}}",
           "type": "color"
         },
-        "Color-Border-normal": {
+        "Border-normal": {
           "value": "{24Color-Gradient.{color-pri}.{Color-Border-normal}}",
           "type": "color"
         },
-        "Color-Border-active": {
+        "Border-active": {
           "value": "{24Color-Gradient.{color-pri}.{Color-Border-active}}",
           "type": "color"
         }
