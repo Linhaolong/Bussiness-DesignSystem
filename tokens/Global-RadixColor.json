@@ -363,6 +363,18 @@
         "Text-High": {
           "value": "{8ColorRange.Secondary-1.{Color-Text-High}}",
           "type": "color"
+        },
+        "Grad-High": {
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Main} 0%, {Brand-colorSystem.s1.Bg-Ulelement-active} 100%)",
+          "type": "color"
+        },
+        "Grad-Medium": {
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Bg-Ulelement-active} 0%, {Brand-colorSystem.s1.Bg-active} 100%)",
+          "type": "color"
+        },
+        "Grad-Low": {
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Bg-active} 0%, {Brand-colorSystem.s1.Bg-normal} 100%)",
+          "type": "color"
         }
       },
       "s2": {
