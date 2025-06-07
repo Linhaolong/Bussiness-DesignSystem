@@ -220,8 +220,39 @@
     },
     "Original-Extended-Color": {
       "sec1": {
-        "value": "#fff",
-        "type": "color"
+        "value": "{24Color.{Sec1-Deg}}",
+        "type": "color",
+        "description": "sec1"
+      },
+      "sec2": {
+        "value": "{24Color.{Sec2-Deg}}",
+        "type": "color",
+        "description": "sec2"
+      },
+      "sec3": {
+        "value": "{24Color.{Sec3-Deg}}",
+        "type": "color",
+        "description": "sec3"
+      },
+      "sec4": {
+        "value": "{24Color.{Sec4-Deg}}",
+        "type": "color",
+        "description": "sec4"
+      },
+      "sec5": {
+        "value": "{24Color.{Sec5-Deg}}",
+        "type": "color",
+        "description": "sec5"
+      },
+      "sec6": {
+        "value": "{24Color.{Sec6-Deg}}",
+        "type": "color",
+        "description": "sec6"
+      },
+      "sec7": {
+        "value": "{24Color.{Sec7-Deg}}",
+        "type": "color",
+        "description": "sec7"
       }
     },
     "Sec2-Deg": {
