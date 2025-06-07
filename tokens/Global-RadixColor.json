@@ -251,55 +251,55 @@
       "type": "other"
     }
   },
-  "24ColorRange": {
+  "8ColorRange": {
     "Brand-colorSystem": {
       "primary": {
         "Bg-normal": {
-          "value": "{24ColorRange.{color-pri}.{Color-Bg-normal}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Bg-normal}}",
           "type": "color"
         },
         "Bg-active": {
-          "value": "{24ColorRange.{color-pri}.{Color-Bg-active}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Bg-active}}",
           "type": "color"
         },
         "Bg-Ulelement-normal": {
-          "value": "{24ColorRange.{color-pri}.{Color-Bg-UIelement-normal}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Bg-UIelement-normal}}",
           "type": "color"
         },
         "Bg-Ulelement-hover": {
-          "value": "{24ColorRange.{color-pri}.{Color-Bg-UIelement-hover}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Bg-UIelement-hover}}",
           "type": "color"
         },
         "Bg-Ulelement-active": {
-          "value": "{24ColorRange.{color-pri}.{Color-Bg-UIelement-active}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Bg-UIelement-active}}",
           "type": "color"
         },
         "Border-static": {
-          "value": "{24ColorRange.{color-pri}.{Color-Border-static}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Border-static}}",
           "type": "color"
         },
         "Border-normal": {
-          "value": "{24ColorRange.{color-pri}.{Color-Border-normal}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Border-normal}}",
           "type": "color"
         },
         "Border-active": {
-          "value": "{24ColorRange.{color-pri}.{Color-Border-active}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Border-active}}",
           "type": "color"
         },
         "Main": {
-          "value": "{24ColorRange.{color-pri}.{Color-Main}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Main}}",
           "type": "color"
         },
         "Main-active": {
-          "value": "{24ColorRange.{color-pri}.{Color-Main-active}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Main-active}}",
           "type": "color"
         },
         "Text-Low": {
-          "value": "{24ColorRange.{color-pri}.{Color-Text-Low}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Text-Low}}",
           "type": "color"
         },
         "Text-High": {
-          "value": "{24ColorRange.{color-pri}.{Color-Text-High}}",
+          "value": "{8ColorRange.{color-pri}.{Color-Text-High}}",
           "type": "color"
         },
         "Grad-High": {
@@ -317,101 +317,101 @@
       },
       "s1": {
         "Bg-normal": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Bg-normal}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Bg-normal}}",
           "type": "color"
         },
         "Bg-active": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Bg-active}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Bg-active}}",
           "type": "color"
         },
         "Bg-Ulelement-normal": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Bg-UIelement-normal}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Bg-UIelement-normal}}",
           "type": "color"
         },
         "Bg-Ulelement-hover": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Bg-UIelement-hover}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Bg-UIelement-hover}}",
           "type": "color"
         },
         "Bg-Ulelement-active": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Bg-UIelement-active}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Bg-UIelement-active}}",
           "type": "color"
         },
         "Border-static": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Border-static}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Border-static}}",
           "type": "color"
         },
         "Border-normal": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Border-normal}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Border-normal}}",
           "type": "color"
         },
         "Border-active": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Border-active}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Border-active}}",
           "type": "color"
         },
         "Main": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Main}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Main}}",
           "type": "color"
         },
         "Main-active": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Main-active}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Main-active}}",
           "type": "color"
         },
         "Text-Low": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Text-Low}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Text-Low}}",
           "type": "color"
         },
         "Text-High": {
-          "value": "{24ColorRange.{color-sec1}.{Color-Text-High}}",
+          "value": "{8ColorRange.{color-sec1}.{Color-Text-High}}",
           "type": "color"
         }
       },
       "s2": {
         "Bg-normal": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Bg-normal}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Bg-normal}}",
           "type": "color"
         },
         "Bg-active": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Bg-active}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Bg-active}}",
           "type": "color"
         },
         "Bg-Ulelement-normal": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Bg-UIelement-normal}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Bg-UIelement-normal}}",
           "type": "color"
         },
         "Bg-Ulelement-hover": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Bg-UIelement-hover}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Bg-UIelement-hover}}",
           "type": "color"
         },
         "Bg-Ulelement-active": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Bg-UIelement-active}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Bg-UIelement-active}}",
           "type": "color"
         },
         "Border-static": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Border-static}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Border-static}}",
           "type": "color"
         },
         "Border-normal": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Border-normal}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Border-normal}}",
           "type": "color"
         },
         "Border-active": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Border-active}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Border-active}}",
           "type": "color"
         },
         "Main": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Main}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Main}}",
           "type": "color"
         },
         "Main-active": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Main-active}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Main-active}}",
           "type": "color"
         },
         "Text-Low": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Text-Low}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Text-Low}}",
           "type": "color"
         },
         "Text-High": {
-          "value": "{24ColorRange.{color-sec2}.{Color-Text-High}}",
+          "value": "{8ColorRange.{color-sec2}.{Color-Text-High}}",
           "type": "color"
         }
       }
@@ -419,101 +419,101 @@
     "Extended-Color": {
       "s3": {
         "Bg-normal": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Bg-normal}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Bg-normal}}",
           "type": "color"
         },
         "Bg-active": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Bg-active}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Bg-active}}",
           "type": "color"
         },
         "Bg-Ulelement-normal": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Bg-UIelement-normal}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Bg-UIelement-normal}}",
           "type": "color"
         },
         "Bg-Ulelement-hover": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Bg-UIelement-hover}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Bg-UIelement-hover}}",
           "type": "color"
         },
         "Bg-Ulelement-active": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Bg-UIelement-active}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Bg-UIelement-active}}",
           "type": "color"
         },
         "Border-static": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Border-static}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Border-static}}",
           "type": "color"
         },
         "Border-normal": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Border-normal}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Border-normal}}",
           "type": "color"
         },
         "Border-active": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Border-active}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Border-active}}",
           "type": "color"
         },
         "Main": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Main}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Main}}",
           "type": "color"
         },
         "Main-active": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Main-active}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Main-active}}",
           "type": "color"
         },
         "Text-Low": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Text-Low}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Text-Low}}",
           "type": "color"
         },
         "Text-High": {
-          "value": "{24ColorRange.{color-sec3}.{Color-Text-High}}",
+          "value": "{8ColorRange.{color-sec3}.{Color-Text-High}}",
           "type": "color"
         }
       },
       "s4": {
         "Bg-normal": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Bg-normal}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Bg-normal}}",
           "type": "color"
         },
         "Bg-active": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Bg-active}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Bg-active}}",
           "type": "color"
         },
         "Bg-Ulelement-normal": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Bg-UIelement-normal}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Bg-UIelement-normal}}",
           "type": "color"
         },
         "Bg-Ulelement-hover": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Bg-UIelement-hover}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Bg-UIelement-hover}}",
           "type": "color"
         },
         "Bg-Ulelement-active": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Bg-UIelement-active}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Bg-UIelement-active}}",
           "type": "color"
         },
         "Border-static": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Border-static}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Border-static}}",
           "type": "color"
         },
         "Border-normal": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Border-normal}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Border-normal}}",
           "type": "color"
         },
         "Border-active": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Border-active}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Border-active}}",
           "type": "color"
         },
         "Main": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Main}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Main}}",
           "type": "color"
         },
         "Main-active": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Main-active}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Main-active}}",
           "type": "color"
         },
         "Text-Low": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Text-Low}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Text-Low}}",
           "type": "color"
         },
         "Text-High": {
-          "value": "{24ColorRange.{color-sec4}.{Color-Text-High}}",
+          "value": "{8ColorRange.{color-sec4}.{Color-Text-High}}",
           "type": "color"
         }
       }
@@ -524,7 +524,7 @@
         "type": "color"
       }
     },
-    "24ColorRange": {
+    "8ColorRange": {
       "0deg": {
         "1": {
           "value": "#fefcfa",
@@ -1839,7 +1839,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "24_HUE",
-      "24ColorRange",
+      "8ColorRange",
       "FunctionColor"
     ]
   }
