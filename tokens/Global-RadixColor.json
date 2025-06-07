@@ -414,7 +414,9 @@
           "value": "{24ColorRange.{color-sec2}.{Color-Text-High}}",
           "type": "color"
         }
-      },
+      }
+    },
+    "Extended-Color": {
       "s3": {
         "Bg-normal": {
           "value": "{24ColorRange.{color-sec3}.{Color-Bg-normal}}",
