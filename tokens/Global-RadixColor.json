@@ -201,7 +201,8 @@
       },
       "Brand": {
         "value": "hsl({HSL.H}, {HSL.S}, {HSL.L})",
-        "type": "color"
+        "type": "color",
+        "description": "primary"
       }
     },
     "LineGrad": {
