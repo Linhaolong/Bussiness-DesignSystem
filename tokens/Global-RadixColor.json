@@ -213,42 +213,6 @@
         "value": "180deg",
         "type": "other"
       }
-    },
-    "color-Light": {
-      "value": "1",
-      "type": "other"
-    },
-    "color-Hover": {
-      "value": "4",
-      "type": "other"
-    },
-    "color-Default": {
-      "value": "6",
-      "type": "other"
-    },
-    "color-Active": {
-      "value": "8",
-      "type": "other"
-    },
-    "color-sec1": {
-      "value": "345deg",
-      "type": "other"
-    },
-    "color-sec2": {
-      "value": "315deg",
-      "type": "other"
-    },
-    "color-sec3": {
-      "value": "195deg",
-      "type": "other"
-    },
-    "color-sec4": {
-      "value": "135deg",
-      "type": "other"
-    },
-    "color-pri": {
-      "value": "8ColorRange.primary",
-      "type": "other"
     }
   },
   "8ColorRange": {
