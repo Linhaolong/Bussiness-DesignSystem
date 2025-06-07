@@ -247,7 +247,7 @@
       "type": "other"
     },
     "color-pri": {
-      "value": "0deg",
+      "value": "8ColorRange.primary",
       "type": "other"
     }
   },
@@ -255,7 +255,7 @@
     "Brand-colorSystem": {
       "primary": {
         "Bg-normal": {
-          "value": "{8ColorRange.{color-pri}.{Color-Bg-normal}}",
+          "value": "{8ColorRange.primary.{Color-Bg-normal}}",
           "type": "color"
         },
         "Bg-active": {
@@ -525,7 +525,7 @@
       }
     },
     "8ColorRange": {
-      "0deg": {
+      "primary": {
         "1": {
           "value": "#fefcfa",
           "type": "color"
