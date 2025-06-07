@@ -301,6 +301,10 @@
         "Text-High": {
           "value": "{24ColorRange.{color-pri}.{Color-Text-High}}",
           "type": "color"
+        },
+        "Grad-High": {
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Main} 0%, {Brand-colorSystem.primary.Bg-Ulelement-active} 100%)",
+          "type": "color"
         }
       },
       "s1": {
