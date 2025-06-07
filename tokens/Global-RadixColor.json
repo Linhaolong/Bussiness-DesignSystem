@@ -213,6 +213,40 @@
         "value": "180deg",
         "type": "other"
       }
+    },
+    "Sec1-Deg": {
+      "value": "165deg",
+      "type": "other"
+    },
+    "Original-Extended-Color": {
+      "sec1": {
+        "value": "#fff",
+        "type": "color"
+      }
+    },
+    "Sec2-Deg": {
+      "value": "300deg",
+      "type": "other"
+    },
+    "Sec3-Deg": {
+      "value": "30deg",
+      "type": "other"
+    },
+    "Sec4-Deg": {
+      "value": "90deg",
+      "type": "other"
+    },
+    "Sec5-Deg": {
+      "value": "150deg",
+      "type": "other"
+    },
+    "Sec6-Deg": {
+      "value": "180deg",
+      "type": "other"
+    },
+    "Sec7-Deg": {
+      "value": "270deg",
+      "type": "other"
     }
   },
   "8ColorRange": {
