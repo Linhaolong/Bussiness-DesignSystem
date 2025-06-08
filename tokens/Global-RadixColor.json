@@ -1493,105 +1493,105 @@
   "Gray-Color": {
     "Brand-Gray": {
       "Bg-normal": {
-          "value": "{2Gray.Brand.{Color-Bg-normal}}",
+          "value": "{2Gray-Levels.Brand.{Color-Bg-normal}}",
           "type": "color"
         },
       "Bg-active": {
-        "value": "{2Gray.Brand.{Color-Bg-active}}",
+        "value": "{2Gray-Levels.Brand.{Color-Bg-active}}",
         "type": "color"
       },
       "Bg-Ulelement-normal": {
-        "value": "{2Gray.Brand.{Color-Bg-UIelement-normal}}",
+        "value": "{2Gray-Levels.Brand.{Color-Bg-UIelement-normal}}",
         "type": "color"
       },
       "Bg-Ulelement-hover": {
-        "value": "{2Gray.Brand.{Color-Bg-UIelement-hover}}",
+        "value": "{2Gray-Levels.Brand.{Color-Bg-UIelement-hover}}",
         "type": "color"
       },
       "Bg-Ulelement-active": {
-        "value": "{2Gray.Brand.{Color-Bg-UIelement-active}}",
+        "value": "{2Gray-Levels.Brand.{Color-Bg-UIelement-active}}",
         "type": "color"
       },
       "Border-static": {
-        "value": "{2Gray.Brand.{Color-Border-static}}",
+        "value": "{2Gray-Levels.Brand.{Color-Border-static}}",
         "type": "color"
       },
       "Border-normal": {
-        "value": "{2Gray.Brand.{Color-Border-normal}}",
+        "value": "{2Gray-Levels.Brand.{Color-Border-normal}}",
         "type": "color"
       },
       "Border-active": {
-        "value": "{2Gray.Brand.{Color-Border-active}}",
+        "value": "{2Gray-Levels.Brand.{Color-Border-active}}",
         "type": "color"
       },
       "Main": {
-        "value": "{2Gray.Brand.{Color-Main}}",
+        "value": "{2Gray-Levels.Brand.{Color-Main}}",
         "type": "color"
       },
       "Main-active": {
-        "value": "{2Gray.Brand.{Color-Main-active}}",
+        "value": "{2Gray-Levels.Brand.{Color-Main-active}}",
         "type": "color"
       },
       "Text-Low": {
-        "value": "{2Gray.Brand.{Color-Text-Low}}",
+        "value": "{2Gray-Levels.Brand.{Color-Text-Low}}",
         "type": "color"
       },
       "Text-High": {
-        "value": "{2Gray.Brand.{Color-Text-High}}",
+        "value": "{2Gray-Levels.Brand.{Color-Text-High}}",
         "type": "color"
       }
     },
     "Gray": {
       "Bg-normal": {
-          "value": "{2Gray.Normal.{Color-Bg-normal}}",
+          "value": "{2Gray-Levels.Normal.{Color-Bg-normal}}",
           "type": "color"
         },
       "Bg-active": {
-        "value": "{2Gray.Normal.{Color-Bg-active}}",
+        "value": "{2Gray-Levels.Normal.{Color-Bg-active}}",
         "type": "color"
       },
       "Bg-Ulelement-normal": {
-        "value": "{2Gray.Normal.{Color-Bg-UIelement-normal}}",
+        "value": "{2Gray-Levels.Normal.{Color-Bg-UIelement-normal}}",
         "type": "color"
       },
       "Bg-Ulelement-hover": {
-        "value": "{2Gray.Normal.{Color-Bg-UIelement-hover}}",
+        "value": "{2Gray-Levels.Normal.{Color-Bg-UIelement-hover}}",
         "type": "color"
       },
       "Bg-Ulelement-active": {
-        "value": "{2Gray.Normal.{Color-Bg-UIelement-active}}",
+        "value": "{2Gray-Levels.Normal.{Color-Bg-UIelement-active}}",
         "type": "color"
       },
       "Border-static": {
-        "value": "{2Gray.Normal.{Color-Border-static}}",
+        "value": "{2Gray-Levels.Normal.{Color-Border-static}}",
         "type": "color"
       },
       "Border-normal": {
-        "value": "{2Gray.Normal.{Color-Border-normal}}",
+        "value": "{2Gray-Levels.Normal.{Color-Border-normal}}",
         "type": "color"
       },
       "Border-active": {
-        "value": "{2Gray.Normal.{Color-Border-active}}",
+        "value": "{2Gray-Levels.Normal.{Color-Border-active}}",
         "type": "color"
       },
       "Main": {
-        "value": "{2Gray.Normal.{Color-Main}}",
+        "value": "{2Gray-Levels.Normal.{Color-Main}}",
         "type": "color"
       },
       "Main-active": {
-        "value": "{2Gray.Normal.{Color-Main-active}}",
+        "value": "{2Gray-Levels.Normal.{Color-Main-active}}",
         "type": "color"
       },
       "Text-Low": {
-        "value": "{2Gray.Normal.{Color-Text-Low}}",
+        "value": "{2Gray-Levels.Normal.{Color-Text-Low}}",
         "type": "color"
       },
       "Text-High": {
-        "value": "{2Gray.Normal.{Color-Text-High}}",
+        "value": "{2Gray-Levels.Normal.{Color-Text-High}}",
         "type": "color"
       }
     },
-    "2Gray": {
+    "2Gray-Levels": {
       "Brand": {
         "1": {
           "value": "#fcfcfd",
