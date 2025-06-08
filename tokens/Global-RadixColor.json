@@ -223,7 +223,37 @@
       "sec1": {
         "value": "{24Color.{Sec1-Deg}}",
         "type": "color",
-        "description": "sec1"
+        "description": "Secondary-1"
+      },
+      "sec2": {
+        "value": "{24Color.{Sec2-Deg}}",
+        "type": "color",
+        "description": "Secondary-2"
+      },
+      "sec3": {
+        "value": "{24Color.{Sec3-Deg}}",
+        "type": "color",
+        "description": "Secondary-3"
+      },
+      "sec4": {
+        "value": "{24Color.{Sec4-Deg}}",
+        "type": "color",
+        "description": "Secondary-4"
+      },
+      "sec5": {
+        "value": "{24Color.{Sec5-Deg}}",
+        "type": "color",
+        "description": "Secondary-5"
+      },
+      "sec6": {
+        "value": "{24Color.{Sec6-Deg}}",
+        "type": "color",
+        "description": "Secondary-6"
+      },
+      "sec7": {
+        "value": "{24Color.{Sec7-Deg}}",
+        "type": "color",
+        "description": "Secondary-7"
       }
     },
     "Sec2-Deg": {
@@ -240,6 +270,14 @@
     },
     "Sec5-Deg": {
       "value": "150deg",
+      "type": "other"
+    },
+    "Sec6-Deg": {
+      "value": "180deg",
+      "type": "other"
+    },
+    "Sec7-Deg": {
+      "value": "270deg",
       "type": "other"
     }
   },
