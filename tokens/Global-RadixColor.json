@@ -1490,12 +1490,217 @@
       }
     }
   },
+  "Gray-Color": {
+    "Brand-Gray": {
+      "1": {
+        "value": "#fcfcfd",
+        "type": "color"
+      },
+      "2": {
+        "value": "#f8f9fb",
+        "type": "color"
+      },
+      "3": {
+        "value": "#eff0f3",
+        "type": "color"
+      },
+      "4": {
+        "value": "#e6e8ec",
+        "type": "color"
+      },
+      "5": {
+        "value": "#dfe1e5",
+        "type": "color"
+      },
+      "6": {
+        "value": "#d7dadf",
+        "type": "color"
+      },
+      "7": {
+        "value": "#cbcfd5",
+        "type": "color"
+      },
+      "8": {
+        "value": "#b7bcc4",
+        "type": "color"
+      },
+      "9": {
+        "value": "#898e96",
+        "type": "color"
+      },
+      "10": {
+        "value": "#7f838b",
+        "type": "color"
+      },
+      "11": {
+        "value": "#60646b",
+        "type": "color"
+      },
+      "12": {
+        "value": "#1d2023",
+        "type": "color"
+      }
+    },
+    "Gray": {
+      "1": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "2": {
+        "value": "#f9f9f9",
+        "type": "color"
+      },
+      "3": {
+        "value": "#f0f0f0",
+        "type": "color"
+      },
+      "4": {
+        "value": "#e8e8e8",
+        "type": "color"
+      },
+      "5": {
+        "value": "#e0e0e0",
+        "type": "color"
+      },
+      "6": {
+        "value": "#d9d9d9",
+        "type": "color"
+      },
+      "7": {
+        "value": "#cecece",
+        "type": "color"
+      },
+      "8": {
+        "value": "#bbbbbb",
+        "type": "color"
+      },
+      "9": {
+        "value": "#8d8d8d",
+        "type": "color"
+      },
+      "10": {
+        "value": "#838383",
+        "type": "color"
+      },
+      "11": {
+        "value": "#646464",
+        "type": "color"
+      },
+      "12": {
+        "value": "#202020",
+        "type": "color"
+      }
+    },
+    "2Gray": {
+      "Brand": {
+        "1": {
+          "value": "#fcfcfd",
+          "type": "color"
+        },
+        "2": {
+          "value": "#f8f9fb",
+          "type": "color"
+        },
+        "3": {
+          "value": "#eff0f3",
+          "type": "color"
+        },
+        "4": {
+          "value": "#e6e8ec",
+          "type": "color"
+        },
+        "5": {
+          "value": "#dfe1e5",
+          "type": "color"
+        },
+        "6": {
+          "value": "#d7dadf",
+          "type": "color"
+        },
+        "7": {
+          "value": "#cbcfd5",
+          "type": "color"
+        },
+        "8": {
+          "value": "#b7bcc4",
+          "type": "color"
+        },
+        "9": {
+          "value": "#898e96",
+          "type": "color"
+        },
+        "10": {
+          "value": "#7f838b",
+          "type": "color"
+        },
+        "11": {
+          "value": "#60646b",
+          "type": "color"
+        },
+        "12": {
+          "value": "#1d2023",
+          "type": "color"
+        }
+      },
+      "Normal": {
+        "1": {
+          "value": "#fcfcfc",
+          "type": "color"
+        },
+        "2": {
+          "value": "#f9f9f9",
+          "type": "color"
+        },
+        "3": {
+          "value": "#f0f0f0",
+          "type": "color"
+        },
+        "4": {
+          "value": "#e8e8e8",
+          "type": "color"
+        },
+        "5": {
+          "value": "#e0e0e0",
+          "type": "color"
+        },
+        "6": {
+          "value": "#d9d9d9",
+          "type": "color"
+        },
+        "7": {
+          "value": "#cecece",
+          "type": "color"
+        },
+        "8": {
+          "value": "#bbbbbb",
+          "type": "color"
+        },
+        "9": {
+          "value": "#8d8d8d",
+          "type": "color"
+        },
+        "10": {
+          "value": "#838383",
+          "type": "color"
+        },
+        "11": {
+          "value": "#646464",
+          "type": "color"
+        },
+        "12": {
+          "value": "#202020",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "24_HUE",
       "8ColorRange",
-      "FunctionColor"
+      "FunctionColor",
+      "Gray-Color"
     ]
   }
 }
