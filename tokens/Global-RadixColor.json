@@ -1492,52 +1492,64 @@
   },
   "Gray-Color": {
     "Brand-Gray": {
-      "1": {
-        "value": "#fcfcfd",
+      "Bg-normal": {
+          "value": "{2Gray.Brand.{Color-Bg-normal}}",
+          "type": "color"
+        },
+      "Bg-active": {
+        "value": "{2Gray.Brand.{Color-Bg-active}}",
         "type": "color"
       },
-      "2": {
-        "value": "#f8f9fb",
+      "Bg-Ulelement-normal": {
+        "value": "{2Gray.Brand.{Color-Bg-UIelement-normal}}",
         "type": "color"
       },
-      "3": {
-        "value": "#eff0f3",
+      "Bg-Ulelement-hover": {
+        "value": "{2Gray.Brand.{Color-Bg-UIelement-hover}}",
         "type": "color"
       },
-      "4": {
-        "value": "#e6e8ec",
+      "Bg-Ulelement-active": {
+        "value": "{2Gray.Brand.{Color-Bg-UIelement-active}}",
         "type": "color"
       },
-      "5": {
-        "value": "#dfe1e5",
+      "Border-static": {
+        "value": "{2Gray.Brand.{Color-Border-static}}",
         "type": "color"
       },
-      "6": {
-        "value": "#d7dadf",
+      "Border-normal": {
+        "value": "{2Gray.Brand.{Color-Border-normal}}",
         "type": "color"
       },
-      "7": {
-        "value": "#cbcfd5",
+      "Border-active": {
+        "value": "{2Gray.Brand.{Color-Border-active}}",
         "type": "color"
       },
-      "8": {
-        "value": "#b7bcc4",
+      "Main": {
+        "value": "{2Gray.Brand.{Color-Main}}",
         "type": "color"
       },
-      "9": {
-        "value": "#898e96",
+      "Main-active": {
+        "value": "{2Gray.Brand.{Color-Main-active}}",
         "type": "color"
       },
-      "10": {
-        "value": "#7f838b",
+      "Text-Low": {
+        "value": "{2Gray.Brand.{Color-Text-Low}}",
         "type": "color"
       },
-      "11": {
-        "value": "#60646b",
+      "Text-High": {
+        "value": "{2Gray.Brand.{Color-Text-High}}",
         "type": "color"
       },
-      "12": {
-        "value": "#1d2023",
+      "Grad-High": {
+        "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Main} 0%, {Brand-colorSystem.primary.Bg-Ulelement-active} 100%)",
+        "type": "color"
+      },
+      "Grad-Medium": {
+        "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Bg-Ulelement-active} 0%, {Brand-colorSystem.primary.Bg-active} 100%)",
+        "type": "color"
+      },
+      "Grad-Low": {
+        "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Bg-active} 0%, {Brand-colorSystem.primary.Bg-normal} 100%)",
         "type": "color"
       }
     },
