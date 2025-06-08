@@ -288,7 +288,7 @@
       "description": "Secondary-7"
     }
   },
-  "8ColorRange-Levels": {
+  "Brand-Color": {
     "Brand-colorSystem": {
       "primary": {
         "Bg-normal": {
@@ -1493,9 +1493,9 @@
   "Gray-Color": {
     "Brand-Gray": {
       "Bg-normal": {
-          "value": "{2Gray-Levels.Brand.{Color-Bg-normal}}",
-          "type": "color"
-        },
+        "value": "{2Gray-Levels.Brand.{Color-Bg-normal}}",
+        "type": "color"
+      },
       "Bg-active": {
         "value": "{2Gray-Levels.Brand.{Color-Bg-active}}",
         "type": "color"
@@ -1543,9 +1543,9 @@
     },
     "Gray": {
       "Bg-normal": {
-          "value": "{2Gray-Levels.Normal.{Color-Bg-normal}}",
-          "type": "color"
-        },
+        "value": "{2Gray-Levels.Normal.{Color-Bg-normal}}",
+        "type": "color"
+      },
       "Bg-active": {
         "value": "{2Gray-Levels.Normal.{Color-Bg-active}}",
         "type": "color"
@@ -1698,7 +1698,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "24_HUE",
-      "8ColorRange-Levels",
+      "Brand-Color",
       "FunctionColor",
       "Gray-Color"
     ]
