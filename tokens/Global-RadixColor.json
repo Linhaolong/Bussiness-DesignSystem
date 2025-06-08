@@ -742,68 +742,6 @@
           "value": "linear-gradient({LineGrad.default}, {Extended-Color.s7.Bg-active} 0%, {Extended-Color.s7.Bg-normal} 100%)",
           "type": "color"
         }
-      },
-      "s8": {
-        "Bg-normal": {
-          "value": "{8ColorRange.Secondary-8.{Color-Bg-normal}}",
-          "type": "color"
-        },
-        "Bg-active": {
-          "value": "{8ColorRange.Secondary-8.{Color-Bg-active}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-normal": {
-          "value": "{8ColorRange.Secondary-8.{Color-Bg-UIelement-normal}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-hover": {
-          "value": "{8ColorRange.Secondary-8.{Color-Bg-UIelement-hover}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-active": {
-          "value": "{8ColorRange.Secondary-8.{Color-Bg-UIelement-active}}",
-          "type": "color"
-        },
-        "Border-static": {
-          "value": "{8ColorRange.Secondary-8.{Color-Border-static}}",
-          "type": "color"
-        },
-        "Border-normal": {
-          "value": "{8ColorRange.Secondary-8.{Color-Border-normal}}",
-          "type": "color"
-        },
-        "Border-active": {
-          "value": "{8ColorRange.Secondary-8.{Color-Border-active}}",
-          "type": "color"
-        },
-        "Main": {
-          "value": "{8ColorRange.Secondary-8.{Color-Main}}",
-          "type": "color"
-        },
-        "Main-active": {
-          "value": "{8ColorRange.Secondary-8.{Color-Main-active}}",
-          "type": "color"
-        },
-        "Text-Low": {
-          "value": "{8ColorRange.Secondary-8.{Color-Text-Low}}",
-          "type": "color"
-        },
-        "Text-High": {
-          "value": "{8ColorRange.Secondary-8.{Color-Text-High}}",
-          "type": "color"
-        },
-        "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s8.Main} 0%, {Extended-Color.s8.Bg-Ulelement-active} 100%)",
-          "type": "color"
-        },
-        "Grad-Medium": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s8.Bg-Ulelement-active} 0%, {Extended-Color.s8.Bg-active} 100%)",
-          "type": "color"
-        },
-        "Grad-Low": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s8.Bg-active} 0%, {Extended-Color.s8.Bg-normal} 100%)",
-          "type": "color"
-        }
       }
     },
     "Border-grad": {
@@ -815,51 +753,51 @@
     "8ColorRange": {
       "primary": {
         "1": {
-          "value": "#fefcfa",
+          "value": "#fcfdff",
           "type": "color"
         },
         "2": {
-          "value": "#fff5eb",
+          "value": "#f5f9ff",
           "type": "color"
         },
         "3": {
-          "value": "#ffead3",
+          "value": "#eaf3ff",
           "type": "color"
         },
         "4": {
-          "value": "#ffd9b4",
+          "value": "#dbebff",
           "type": "color"
         },
         "5": {
-          "value": "#ffcb9c",
+          "value": "#c9e1ff",
           "type": "color"
         },
         "6": {
-          "value": "#ffbc80",
+          "value": "#b5d4ff",
           "type": "color"
         },
         "7": {
-          "value": "#ffa65a",
+          "value": "#9bc2ff",
           "type": "color"
         },
         "8": {
-          "value": "#fa8c23",
+          "value": "#76a9fc",
           "type": "color"
         },
         "9": {
-          "value": "#f0830f",
+          "value": "#1f75ff",
           "type": "color"
         },
         "10": {
-          "value": "#e37700",
+          "value": "#1668ea",
           "type": "color"
         },
         "11": {
-          "value": "#c35d00",
+          "value": "#1064e6",
           "type": "color"
         },
         "12": {
-          "value": "#5c2c00",
+          "value": "#0e2f68",
           "type": "color"
         }
       },
@@ -1210,48 +1148,6 @@
         },
         "12": {
           "value": "#1c451c",
-          "type": "color"
-        }
-      },
-      "Secondary-8": {
-        "1": {
-          "value": "#e7fef3",
-          "type": "color"
-        },
-        "2": {
-          "value": "#c5fbe1",
-          "type": "color"
-        },
-        "3": {
-          "value": "#98f9ca",
-          "type": "color"
-        },
-        "4": {
-          "value": "#68f6b1",
-          "type": "color"
-        },
-        "5": {
-          "value": "#3af399",
-          "type": "color"
-        },
-        "6": {
-          "value": "#0ff083",
-          "type": "color"
-        },
-        "7": {
-          "value": "#0dcc6f",
-          "type": "color"
-        },
-        "8": {
-          "value": "#0baa5d",
-          "type": "color"
-        },
-        "9": {
-          "value": "#09894b",
-          "type": "color"
-        },
-        "10": {
-          "value": "#076c3b",
           "type": "color"
         }
       }
