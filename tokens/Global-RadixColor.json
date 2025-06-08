@@ -217,68 +217,68 @@
     },
     "Sec1-Deg": {
       "value": "165deg",
-      "type": "other"
+      "type": "other",
+      "description": "Secondary-1"
     },
     "Original-Extended-Color": {
       "sec1": {
         "value": "{24Color.{Sec1-Deg}}",
-        "type": "color",
-        "description": "Secondary-1"
+        "type": "color"
       },
       "sec2": {
         "value": "{24Color.{Sec2-Deg}}",
-        "type": "color",
-        "description": "Secondary-2"
+        "type": "color"
       },
       "sec3": {
         "value": "{24Color.{Sec3-Deg}}",
-        "type": "color",
-        "description": "Secondary-3"
+        "type": "color"
       },
       "sec4": {
         "value": "{24Color.{Sec4-Deg}}",
-        "type": "color",
-        "description": "Secondary-4"
+        "type": "color"
       },
       "sec5": {
         "value": "{24Color.{Sec5-Deg}}",
-        "type": "color",
-        "description": "Secondary-5"
+        "type": "color"
       },
       "sec6": {
         "value": "{24Color.{Sec6-Deg}}",
-        "type": "color",
-        "description": "Secondary-6"
+        "type": "color"
       },
       "sec7": {
         "value": "{24Color.{Sec7-Deg}}",
-        "type": "color",
-        "description": "Secondary-7"
+        "type": "color"
       }
     },
     "Sec2-Deg": {
       "value": "300deg",
-      "type": "other"
+      "type": "other",
+      "description": "Secondary-2"
     },
     "Sec3-Deg": {
       "value": "30deg",
-      "type": "other"
+      "type": "other",
+      "description": "Secondary-3"
     },
     "Sec4-Deg": {
       "value": "90deg",
-      "type": "other"
+      "type": "other",
+      "description": "Secondary-4"
     },
     "Sec5-Deg": {
       "value": "150deg",
-      "type": "other"
+      "type": "other",
+      "description": "Secondary-5"
     },
     "Sec6-Deg": {
       "value": "180deg",
-      "type": "other"
+      "type": "other",
+      "description": "Secondary-6"
     },
     "Sec7-Deg": {
       "value": "270deg",
-      "type": "other"
+      "type": "other",
+      "description": "Secondary-7"
     }
   },
   "8ColorRange": {
