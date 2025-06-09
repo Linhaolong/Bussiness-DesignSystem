@@ -2,15 +2,15 @@
   "24_HUE": {
     "HSL": {
       "H": {
-        "value": "217",
+        "value": "223",
         "type": "color"
       },
       "S": {
-        "value": "100",
+        "value": "83",
         "type": "color"
       },
       "L": {
-        "value": "56",
+        "value": "50",
         "type": "color"
       },
       "H15": {
@@ -263,7 +263,7 @@
       "description": "Secondary-2"
     },
     "Sec3-Deg": {
-      "value": "30deg",
+      "value": "45deg",
       "type": "other",
       "description": "Secondary-3"
     },
@@ -1288,14 +1288,6 @@
         "10": {
           "value": "#1b511f",
           "type": "color"
-        },
-        "11": {
-          "value": "#218358",
-          "type": "color"
-        },
-        "12": {
-          "value": "#193b2d",
-          "type": "color"
         }
       },
       "link-levels": {
@@ -1337,14 +1329,6 @@
         },
         "10": {
           "value": "#002d70",
-          "type": "color"
-        },
-        "11": {
-          "value": "#0d74ce",
-          "type": "color"
-        },
-        "12": {
-          "value": "#113264",
           "type": "color"
         }
       },
@@ -1388,17 +1372,9 @@
         "10": {
           "value": "#713d00",
           "type": "color"
-        },
-        "11": {
-          "value": "#cc4e00",
-          "type": "color"
-        },
-        "12": {
-          "value": "#582d1d",
-          "type": "color"
         }
       },
-      "error-levels": {
+      "failure-levels": {
         "1": {
           "value": "#feebe9",
           "type": "color"
@@ -1438,215 +1414,13 @@
         "10": {
           "value": "#701a0e",
           "type": "color"
-        },
-        "11": {
-          "value": "#ce2c31",
-          "type": "color"
-        },
-        "12": {
-          "value": "#641723",
-          "type": "color"
         }
       }
     },
     "Function-ColorSystem": {
       "Success": {
         "Bg-normal": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Bg-normal}}",
-          "type": "color"
-        },
-        "Bg-active": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Bg-active}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-normal": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Bg-UIelement-normal}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-hover": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Bg-UIelement-hover}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-active": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Bg-UIelement-active}}",
-          "type": "color"
-        },
-        "Border-static": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Border-static}}",
-          "type": "color"
-        },
-        "Border-normal": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Border-normal}}",
-          "type": "color"
-        },
-        "Border-active": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Border-active}}",
-          "type": "color"
-        },
-        "Main": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Main}}",
-          "type": "color"
-        },
-        "Main-active": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Main-active}}",
-          "type": "color"
-        },
-        "Text-Low": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Text-Low}}",
-          "type": "color"
-        },
-        "Text-High": {
-          "value": "{FunctionColor-Levels.success-levels.{Color-Text-High}}",
-          "type": "color"
-        }
-      },
-      "Link": {
-        "Bg-normal": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-normal}}",
-          "type": "color"
-        },
-        "Bg-active": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-active}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-normal": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-UIelement-normal}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-hover": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-UIelement-hover}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-active": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-UIelement-active}}",
-          "type": "color"
-        },
-        "Border-static": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Border-static}}",
-          "type": "color"
-        },
-        "Border-normal": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Border-normal}}",
-          "type": "color"
-        },
-        "Border-active": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Border-active}}",
-          "type": "color"
-        },
-        "Main": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Main}}",
-          "type": "color"
-        },
-        "Main-active": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Main-active}}",
-          "type": "color"
-        },
-        "Text-Low": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Text-Low}}",
-          "type": "color"
-        },
-        "Text-High": {
-          "value": "{FunctionColor-Levels.link-levels.{Color-Text-High}}",
-          "type": "color"
-        }
-      },
-      "Warning": {
-        "Bg-normal": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-normal}}",
-          "type": "color"
-        },
-        "Bg-active": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-active}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-normal": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-UIelement-normal}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-hover": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-UIelement-hover}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-active": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-UIelement-active}}",
-          "type": "color"
-        },
-        "Border-static": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Border-static}}",
-          "type": "color"
-        },
-        "Border-normal": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Border-normal}}",
-          "type": "color"
-        },
-        "Border-active": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Border-active}}",
-          "type": "color"
-        },
-        "Main": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Main}}",
-          "type": "color"
-        },
-        "Main-active": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Main-active}}",
-          "type": "color"
-        },
-        "Text-Low": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Text-Low}}",
-          "type": "color"
-        },
-        "Text-High": {
-          "value": "{FunctionColor-Levels.warning-levels.{Color-Text-High}}",
-          "type": "color"
-        }
-      },
-      "Error": {
-        "Bg-normal": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-normal}}",
-          "type": "color"
-        },
-        "Bg-active": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-active}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-normal": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-UIelement-normal}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-hover": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-UIelement-hover}}",
-          "type": "color"
-        },
-        "Bg-Ulelement-active": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-UIelement-active}}",
-          "type": "color"
-        },
-        "Border-static": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Border-static}}",
-          "type": "color"
-        },
-        "Border-normal": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Border-normal}}",
-          "type": "color"
-        },
-        "Border-active": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Border-active}}",
-          "type": "color"
-        },
-        "Main": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Main}}",
-          "type": "color"
-        },
-        "Main-active": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Main-active}}",
-          "type": "color"
-        },
-        "Text-Low": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Text-Low}}",
-          "type": "color"
-        },
-        "Text-High": {
-          "value": "{FunctionColor-Levels.error-levels.{Color-Text-High}}",
+          "value": "#fff",
           "type": "color"
         }
       }
