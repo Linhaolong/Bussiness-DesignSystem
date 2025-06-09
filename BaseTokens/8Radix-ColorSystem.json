@@ -1374,7 +1374,7 @@
           "type": "color"
         }
       },
-      "failure-levels": {
+      "error-levels": {
         "1": {
           "value": "#feebe9",
           "type": "color"
@@ -1465,6 +1465,156 @@
         },
         "Text-High": {
           "value": "{FunctionColor-Levels.success-levels.{Color-Text-High}}",
+          "type": "color"
+        }
+      },
+      "Link": {
+        "Bg-normal": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-normal}}",
+          "type": "color"
+        },
+        "Bg-active": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-active}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-normal": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-UIelement-normal}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-hover": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-UIelement-hover}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-active": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Bg-UIelement-active}}",
+          "type": "color"
+        },
+        "Border-static": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Border-static}}",
+          "type": "color"
+        },
+        "Border-normal": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Border-normal}}",
+          "type": "color"
+        },
+        "Border-active": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Border-active}}",
+          "type": "color"
+        },
+        "Main": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Main}}",
+          "type": "color"
+        },
+        "Main-active": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Main-active}}",
+          "type": "color"
+        },
+        "Text-Low": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Text-Low}}",
+          "type": "color"
+        },
+        "Text-High": {
+          "value": "{FunctionColor-Levels.link-levels.{Color-Text-High}}",
+          "type": "color"
+        }
+      },
+      "Warning": {
+        "Bg-normal": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-normal}}",
+          "type": "color"
+        },
+        "Bg-active": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-active}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-normal": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-UIelement-normal}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-hover": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-UIelement-hover}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-active": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Bg-UIelement-active}}",
+          "type": "color"
+        },
+        "Border-static": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Border-static}}",
+          "type": "color"
+        },
+        "Border-normal": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Border-normal}}",
+          "type": "color"
+        },
+        "Border-active": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Border-active}}",
+          "type": "color"
+        },
+        "Main": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Main}}",
+          "type": "color"
+        },
+        "Main-active": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Main-active}}",
+          "type": "color"
+        },
+        "Text-Low": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Text-Low}}",
+          "type": "color"
+        },
+        "Text-High": {
+          "value": "{FunctionColor-Levels.warning-levels.{Color-Text-High}}",
+          "type": "color"
+        }
+      },
+      "Error": {
+        "Bg-normal": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-normal}}",
+          "type": "color"
+        },
+        "Bg-active": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-active}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-normal": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-UIelement-normal}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-hover": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-UIelement-hover}}",
+          "type": "color"
+        },
+        "Bg-Ulelement-active": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Bg-UIelement-active}}",
+          "type": "color"
+        },
+        "Border-static": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Border-static}}",
+          "type": "color"
+        },
+        "Border-normal": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Border-normal}}",
+          "type": "color"
+        },
+        "Border-active": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Border-active}}",
+          "type": "color"
+        },
+        "Main": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Main}}",
+          "type": "color"
+        },
+        "Main-active": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Main-active}}",
+          "type": "color"
+        },
+        "Text-Low": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Text-Low}}",
+          "type": "color"
+        },
+        "Text-High": {
+          "value": "{FunctionColor-Levels.error-levels.{Color-Text-High}}",
           "type": "color"
         }
       }
