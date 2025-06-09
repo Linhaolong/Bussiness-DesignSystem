@@ -339,16 +339,16 @@
           "value": "{8ColorRange-Levels.primary.{Color-Text-High}}",
           "type": "color"
         },
+        "Grad-Low": {
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Main-active} 0%, {Brand-colorSystem.primary.Border-active} 100%)",
+          "type": "color"
+        },
         "Grad-High": {
           "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Main} 0%, {Brand-colorSystem.primary.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Bg-Ulelement-active} 0%, {Brand-colorSystem.primary.Bg-active} 100%)",
-          "type": "color"
-        },
-        "Grad-Low": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Bg-active} 0%, {Brand-colorSystem.primary.Bg-normal} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Bg-Ulelement-hover} 0%, {Brand-colorSystem.primary.Bg-normal} 100%)",
           "type": "color"
         }
       },
