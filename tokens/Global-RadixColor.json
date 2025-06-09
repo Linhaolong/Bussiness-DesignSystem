@@ -340,7 +340,7 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Main} 0%, {Brand-colorSystem.primary.Bg-Ulelement-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Main} 0%, {Brand-colorSystem.primary.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
@@ -464,7 +464,7 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s2.Main} 0%, {Brand-colorSystem.s2.Bg-Ulelement-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s2.Main} 0%, {Brand-colorSystem.s2.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
@@ -528,7 +528,7 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s3.Main} 0%, {Extended-Color.s3.Bg-Ulelement-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s3.Main} 0%, {Extended-Color.s3.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
@@ -590,7 +590,7 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s4.Main} 0%, {Extended-Color.s4.Bg-Ulelement-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s4.Main} 0%, {Extended-Color.s4.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
@@ -652,7 +652,7 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s5.Main} 0%, {Extended-Color.s5.Bg-Ulelement-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s5.Main} 0%, {Extended-Color.s5.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
@@ -714,7 +714,7 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s6.Main} 0%, {Extended-Color.s6.Bg-Ulelement-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s6.Main} 0%, {Extended-Color.s6.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
@@ -776,7 +776,7 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s7.Main} 0%, {Extended-Color.s7.Bg-Ulelement-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s7.Main} 0%, {Extended-Color.s7.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
