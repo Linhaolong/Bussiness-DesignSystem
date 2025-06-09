@@ -402,7 +402,7 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Main} 0%, {Brand-colorSystem.s1.Bg-Ulelement-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Main} 0%, {Brand-colorSystem.s1.Border-static} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
