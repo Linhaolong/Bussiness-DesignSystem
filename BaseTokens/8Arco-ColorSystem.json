@@ -1198,31 +1198,31 @@
       }
     },
     "Color-Bg-normal": {
-      "value": "1",
+      "value": "1-{Color-StarNumber-differ}",
       "type": "other"
     },
     "Color-Bg-active": {
-      "value": "2",
+      "value": "2-{Color-StarNumber-differ}",
       "type": "other"
     },
     "Color-Bg-UIelement-normal": {
-      "value": "3",
+      "value": "3-{Color-StarNumber-differ}",
       "type": "other"
     },
     "Color-Bg-UIelement-hover": {
-      "value": "4",
+      "value": "4-{Color-StarNumber-differ}",
       "type": "other"
     },
     "Color-Bg-UIelement-active": {
-      "value": "5",
+      "value": "5-{Color-StarNumber-differ}",
       "type": "other"
     },
     "Color-Border-static": {
-      "value": "6",
+      "value": "6-{Color-StarNumber-differ}",
       "type": "other"
     },
     "Color-Border-normal": {
-      "value": "7",
+      "value": "7-{Color-StarNumber-differ}",
       "type": "other"
     },
     "Color-Border-active": {
@@ -1243,6 +1243,10 @@
     },
     "Color-Text-High": {
       "value": "12",
+      "type": "other"
+    },
+    "Color-StarNumber-differ": {
+      "value": "1",
       "type": "other"
     }
   },
