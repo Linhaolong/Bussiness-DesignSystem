@@ -1226,11 +1226,7 @@
       "type": "other"
     },
     "Color-Border-active": {
-      "value": "8",
-      "type": "other"
-    },
-    "Color-Main": {
-      "value": "9",
+      "value": "8-{Color-StarNumber-differ}",
       "type": "other"
     },
     "Color-Main-active": {
