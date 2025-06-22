@@ -404,15 +404,15 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-2.Main} 0%, {Brand-colorSystem.Secondary-2.Disabled-normal} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s2.Main} 0%, {Brand-colorSystem.s2.Disabled-normal} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-2.Main} 0%, {Brand-colorSystem.Secondary-2.Light} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s2.Main} 0%, {Brand-colorSystem.s2.Light} 100%)",
           "type": "color"
         },
         "Grad-Low": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-2.Light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s2.Light} 0%, #ffffff 100%)",
           "type": "color"
         }
       }
@@ -448,15 +448,15 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-3.Main} 0%, {Brand-colorSystem.Secondary-3.Disabled-normal} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s3.Main} 0%, {Extended-Color.s3.Disabled-normal} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-3.Main} 0%, {Brand-colorSystem.Secondary-3.Light} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s3.Main} 0%, {Extended-Color.s3.Light} 100%)",
           "type": "color"
         },
         "Grad-Low": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-3.Light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s3.Light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
