@@ -320,15 +320,15 @@
           "type": "color"
         },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {8ColorRange-Levels.primary.{Color-Main}} 0%, {8ColorRange-Levels.primary.Disabled-normal} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Main} 0%, {Brand-colorSystem.primary.Disabled-normal} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
-          "value": "linear-gradient({LineGrad.default}, {8ColorRange-Levels.primary.{Color-Main}} 0%, {8ColorRange-Levels.primary.Light} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Main} 0%, {Brand-colorSystem.primary.Light} 100%)",
           "type": "color"
         },
         "Grad-Low": {
-          "value": "linear-gradient({LineGrad.default}, {8ColorRange-Levels.primary.Light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.primary.Light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
