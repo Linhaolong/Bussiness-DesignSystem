@@ -1116,32 +1116,44 @@
       }
     },
     "Gray": {
+      "8": {
+        "value": "#5C5C5C",
+        "type": "color"
+      },
+      "9": {
+        "value": "#313131",
+        "type": "color"
+      },
+      "10": {
+        "value": "#232323",
+        "type": "color"
+      },
       "Bg-normal": {
-        "value": "#fcfcfc",
+        "value": "#F9F9F9",
         "type": "color"
       },
       "Bg-active": {
-        "value": "#f9f9f9",
+        "value": "#F3F3F3",
         "type": "color"
       },
       "Bg-Ulelement-normal": {
-        "value": "#f0f0f0",
+        "value": "#E8E8E8",
         "type": "color"
       },
       "Bg-Ulelement-hover": {
-        "value": "#e8e8e8",
+        "value": "#CFCFCF",
         "type": "color"
       },
       "Bg-Ulelement-active": {
-        "value": "#e0e0e0",
+        "value": "#B1B1B1",
         "type": "color"
       },
       "Border-static": {
-        "value": "#d9d9d9",
+        "value": "#919191",
         "type": "color"
       },
       "Border-normal": {
-        "value": "#cecece",
+        "value": "#787878",
         "type": "color"
       }
     }
