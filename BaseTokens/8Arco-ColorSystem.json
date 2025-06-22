@@ -338,7 +338,7 @@
           "type": "color"
         },
         "Text-disabled": {
-          "value": "{8ColorRange-Levels.Secondary-1.{Text-disabled}}",
+          "value": "{8ColorRange-Levels.Secondary-1.{Color-Text-disabled}}",
           "type": "color"
         },
         "Disabled-normal": {
@@ -361,32 +361,16 @@
           "value": "{8ColorRange-Levels.Secondary-1.{Color-Active}}",
           "type": "color"
         },
-        "Border-active": {
-          "value": "{8ColorRange-Levels.Secondary-1.{Color-Border-active}}",
-          "type": "color"
-        },
-        "Main-active": {
-          "value": "{8ColorRange-Levels.Secondary-1.{Color-Main-active}}",
-          "type": "color"
-        },
-        "Text-Low": {
-          "value": "{8ColorRange-Levels.Secondary-1.{Color-Text-Low}}",
-          "type": "color"
-        },
-        "Text-High": {
-          "value": "{8ColorRange-Levels.Secondary-1.{Color-Text-High}}",
-          "type": "color"
-        },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Main-active} 0%, {Brand-colorSystem.s1.Border-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Main} 0%, {Brand-colorSystem.s1.Disabled-normal} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Main} 0%, {Brand-colorSystem.s1.Main} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Main} 0%, {Brand-colorSystem.s1.Light} 100%)",
           "type": "color"
         },
         "Grad-Low": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Special} 0%, {Brand-colorSystem.s1.Light} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s1.Light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -396,7 +380,7 @@
           "type": "color"
         },
         "Text-disabled": {
-          "value": "{8ColorRange-Levels.Secondary-2.{Text-disabled}}",
+          "value": "{8ColorRange-Levels.Secondary-2.{Color-Text-disabled}}",
           "type": "color"
         },
         "Disabled-normal": {
@@ -419,32 +403,16 @@
           "value": "{8ColorRange-Levels.Secondary-2.{Color-Active}}",
           "type": "color"
         },
-        "Border-active": {
-          "value": "{8ColorRange-Levels.Secondary-2.{Color-Border-active}}",
-          "type": "color"
-        },
-        "Main-active": {
-          "value": "{8ColorRange-Levels.Secondary-2.{Color-Main-active}}",
-          "type": "color"
-        },
-        "Text-Low": {
-          "value": "{8ColorRange-Levels.Secondary-2.{Color-Text-Low}}",
-          "type": "color"
-        },
-        "Text-High": {
-          "value": "{8ColorRange-Levels.Secondary-2.{Color-Text-High}}",
-          "type": "color"
-        },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s2.Main-active} 0%, {Brand-colorSystem.s2.Border-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-2.Main} 0%, {Brand-colorSystem.Secondary-2.Disabled-normal} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s2.Main} 0%, {Brand-colorSystem.s2.Main} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-2.Main} 0%, {Brand-colorSystem.Secondary-2.Light} 100%)",
           "type": "color"
         },
         "Grad-Low": {
-          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.s2.Special} 0%, {Brand-colorSystem.s2.Light} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-2.Light} 0%, #ffffff 100%)",
           "type": "color"
         }
       }
@@ -456,7 +424,7 @@
           "type": "color"
         },
         "Text-disabled": {
-          "value": "{8ColorRange-Levels.Secondary-3.{Text-disabled}}",
+          "value": "{8ColorRange-Levels.Secondary-3.{Color-Text-disabled}}",
           "type": "color"
         },
         "Disabled-normal": {
@@ -479,32 +447,16 @@
           "value": "{8ColorRange-Levels.Secondary-3.{Color-Active}}",
           "type": "color"
         },
-        "Border-active": {
-          "value": "{8ColorRange-Levels.Secondary-3.{Color-Border-active}}",
-          "type": "color"
-        },
-        "Main-active": {
-          "value": "{8ColorRange-Levels.Secondary-3.{Color-Main-active}}",
-          "type": "color"
-        },
-        "Text-Low": {
-          "value": "{8ColorRange-Levels.Secondary-3.{Color-Text-Low}}",
-          "type": "color"
-        },
-        "Text-High": {
-          "value": "{8ColorRange-Levels.Secondary-3.{Color-Text-High}}",
-          "type": "color"
-        },
         "Grad-High": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s3.Main-active} 0%, {Extended-Color.s3.Border-active} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-3.Main} 0%, {Brand-colorSystem.Secondary-3.Disabled-normal} 100%)",
           "type": "color"
         },
         "Grad-Medium": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s3.Main} 0%, {Extended-Color.s3.Main} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-3.Main} 0%, {Brand-colorSystem.Secondary-3.Light} 100%)",
           "type": "color"
         },
         "Grad-Low": {
-          "value": "linear-gradient({LineGrad.default}, {Extended-Color.s3.Special} 0%, {Extended-Color.s3.Light} 100%)",
+          "value": "linear-gradient({LineGrad.default}, {Brand-colorSystem.Secondary-3.Light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
