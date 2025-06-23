@@ -1085,36 +1085,6 @@
       "value": "1",
       "type": "other"
     },
-    "Brand-Gray": {
-      "Bg-normal": {
-        "value": "#fcfcfd",
-        "type": "color"
-      },
-      "Bg-active": {
-        "value": "#f8f9fb",
-        "type": "color"
-      },
-      "Bg-Ulelement-normal": {
-        "value": "#eff0f3",
-        "type": "color"
-      },
-      "Bg-Ulelement-hover": {
-        "value": "#e6e8ec",
-        "type": "color"
-      },
-      "Bg-Ulelement-active": {
-        "value": "#dfe1e5",
-        "type": "color"
-      },
-      "Border-static": {
-        "value": "#d7dadf",
-        "type": "color"
-      },
-      "Border-normal": {
-        "value": "#cbcfd5",
-        "type": "color"
-      }
-    },
     "Gray-Levels": {
       "Gray1": {
         "value": "#F3F3F3",
@@ -1170,6 +1140,12 @@
       },
       "Gray14": {
         "value": "#181818",
+        "type": "color"
+      }
+    },
+    "GrayColor": {
+      "Bg-Page": {
+        "value": "{Gray-Levels.Gray1}",
         "type": "color"
       }
     }
