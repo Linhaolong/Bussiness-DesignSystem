@@ -216,7 +216,7 @@
       }
     },
     "Sec1-Deg": {
-      "value": "165deg",
+      "value": "345deg",
       "type": "other",
       "description": "Secondary-1"
     },
@@ -258,22 +258,22 @@
       }
     },
     "Sec2-Deg": {
-      "value": "300deg",
+      "value": "225deg",
       "type": "other",
       "description": "Secondary-2"
     },
     "Sec3-Deg": {
-      "value": "45deg",
+      "value": "135deg",
       "type": "other",
       "description": "Secondary-3"
     },
     "Sec4-Deg": {
-      "value": "90deg",
+      "value": "240deg",
       "type": "other",
       "description": "Secondary-4"
     },
     "Sec5-Deg": {
-      "value": "150deg",
+      "value": "285deg",
       "type": "other",
       "description": "Secondary-5"
     },
