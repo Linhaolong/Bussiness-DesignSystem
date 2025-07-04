@@ -258,32 +258,32 @@
       }
     },
     "Sec2-Deg": {
-      "value": "225deg",
+      "value": "195deg",
       "type": "other",
       "description": "Secondary-2"
     },
     "Sec3-Deg": {
-      "value": "135deg",
+      "value": "315deg",
       "type": "other",
       "description": "Secondary-3"
     },
     "Sec4-Deg": {
-      "value": "240deg",
+      "value": "270deg",
       "type": "other",
       "description": "Secondary-4"
     },
     "Sec5-Deg": {
-      "value": "285deg",
+      "value": "240deg",
       "type": "other",
       "description": "Secondary-5"
     },
     "Sec6-Deg": {
-      "value": "180deg",
+      "value": "120deg",
       "type": "other",
       "description": "Secondary-6"
     },
     "Sec7-Deg": {
-      "value": "270deg",
+      "value": "45deg",
       "type": "other",
       "description": "Secondary-7"
     }
