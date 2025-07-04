@@ -283,7 +283,7 @@
       "description": "Secondary-6"
     },
     "Sec7-Deg": {
-      "value": "45deg",
+      "value": "150deg",
       "type": "other",
       "description": "Secondary-7"
     }
